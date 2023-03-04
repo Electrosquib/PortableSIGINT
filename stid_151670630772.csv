@@ -1,0 +1,1328 @@
+"Frequency Output","Frequency Input","FCC Callsign",Agency/Category,County,Description,"Alpha Tag","PL Output Tone","PL Input Tone",Mode,"Class Station Code",Tag
+38.300000,0.00000,,"Airports Range Control",Statewide,Lo-VHF,"BSF Range LoVHF",,,FM,BM,Military
+41.500000,0.00000,,"Airports Airfield Operations",Statewide,"Tower Lo-VHF","BSF Tower LoVHF",,,FM,BM,Aircraft
+48.380000,0.00000,,"Businesses Utilities",Statewide,"Hawaii Electric Light Co.","HELC 48.38","110.9 PL",,FMN,BM,Utilities
+48.480000,0.00000,,"Businesses Utilities",Statewide,"Hawaii Electric Light Co. ""Hilo Base"" and ""System""","HELC 48.48","110.9 PL",,FMN,BM,Utilities
+48.540000,0.00000,,"Businesses Utilities",Statewide,"Hawaii Electric Light Co.","HELC 48.54","110.9 PL",,FMN,BM,Utilities
+113.600000,0.00000,,"Airports Air Traffic Control",Statewide,"Hickam ADVSY Ramp","Hickam ADVSY",CSQ,,AM,BM,Aircraft
+118.100000,0.00000,,"Airports Airfield Operations",Statewide,"Tower VHF","ITO Tower VHF",CSQ,,AM,BM,Aircraft
+118.100000,0.00000,,"Airports Air Traffic Control",Statewide,Tower,Tower,CSQ,,AM,BM,Aircraft
+118.300000,0.00000,,"Airports Air Traffic Control",Statewide,Departure,Departure,CSQ,,AM,BM,Aircraft
+118.300000,0.00000,,"Airports Air Traffic Control",Statewide,Approach,Approach,CSQ,,AM,BM,Aircraft
+118.300000,0.00000,,"Airports Air Traffic Control (HCF Center)",Statewide,Approach/Departure,"JRF App/Dep",CSQ,,AM,,Aircraft
+118.325000,0.00000,,"Airports Airfield Operations",Statewide,AWOS,"HNM AWOS",CSQ,,AM,,Aircraft
+118.375000,0.00000,,"Airports Airfield Operations",Statewide,AWOS,"LNY AWOS",CSQ,,AM,,Aircraft
+118.525000,0.00000,,"Airports Airfield Operations",Statewide,AWOS,"JHM AWOS",CSQ,,AM,,Aircraft
+118.600000,0.00000,,"Airports Airfield Operations",Statewide,"Clearance Delivery","KOA CD",CSQ,,AM,BM,Aircraft
+118.700000,0.00000,,"Airports Airfield Operations",Statewide,Tower,"OGG Tower",CSQ,,AM,,Aircraft
+118.900000,0.00000,,"Airports Air Traffic Control",Statewide,Tower,"LIH TWR",CSQ,,AM,BM,Aircraft
+118.900000,0.00000,,"Airports Airfield Operations",Statewide,"Tower - Main","LIH Tower Main",CSQ,,AM,,Aircraft
+119.100000,0.00000,,"Airports Air Traffic Control",Statewide,"Class B","Class B",CSQ,,AM,BM,Aircraft
+119.500000,0.00000,,"Airports Air Traffic Control (HCF Center)",Statewide,"Approach/Departure South VHF","OGG App/Dep S V",CSQ,,AM,,Aircraft
+119.700000,0.00000,,"Airports Air Traffic Control",Statewide,"Approach/Departure VHF","ITO App/Dep VHF",CSQ,,AM,BM,Aircraft
+119.800000,0.00000,,"Airports Airfield Operations",Statewide,ASOS,"JRF ASOS",CSQ,,AM,,Aircraft
+120.200000,0.00000,,"Airports Air Traffic Control (HCF Center)",Statewide,"Approach/Departure North VHF","OGG App/Dep N V",CSQ,,AM,,Aircraft
+120.250000,0.00000,,"Airports Air Traffic Control",Statewide,"Approach/Departure VHF (HCF)","ITO App/Dep VHF",CSQ,,AM,BM,Aircraft
+120.300000,0.00000,,"Airports Airfield Operations",Statewide,"Tower VHF","KOA Tower VHF",CSQ,,AM,BM,Aircraft
+120.600000,0.00000,,"Airports Airfield Operations",Statewide,"Clearance Delivery VHF","OGG CD VHF",CSQ,,AM,,Aircraft
+120.700000,0.00000,,"Airports Airfield Operations",Statewide,"Tower VHF","NGF Tower VHF",CSQ,,AM,,Aircraft
+120.900000,0.00000,,"Airports Air Traffic Control",Statewide,"As Assinged","As Assinged",CSQ,,AM,BM,Aircraft
+121.400000,0.00000,,"Airports Air Traffic Control",Statewide,"CLearance Delivery","CLearance ",CSQ,,AM,BM,Aircraft
+121.500000,0.00000,,"Airports Air Traffic Control",Statewide,Emergency,Emergency,CSQ,,AM,BM,Aircraft
+121.700000,0.00000,,"Airports Airfield Operations",Statewide,"Clearance Delivery VHF","JRF CD VHF",CSQ,,AM,,Aircraft
+121.800000,0.00000,,"Airports Air Traffic Control",Statewide,"HNL Ramp Advisory","HNL Ramp Adv",CSQ,,AM,BM,Aircraft
+121.900000,0.00000,,"Airports Air Traffic Control",Statewide,"Ground Control","LIH GND",CSQ,,AM,BM,Aircraft
+121.900000,0.00000,,"Airports Air Traffic Control",Statewide,Ground,Ground,CSQ,,AM,BM,Aircraft
+121.900000,0.00000,,"Airports Airfield Operations",Statewide,Ground,"MKK Ground",CSQ,,AM,,Aircraft
+121.900000,0.00000,,"Airports Airfield Operations",Statewide,Ground,"LIH Ground",CSQ,,AM,,Aircraft
+121.900000,0.00000,,"Airports Airfield Operations",Statewide,Ground,"OGG Ground",CSQ,,AM,,Aircraft
+121.900000,0.00000,,"Airports Airfield Operations",Statewide,Ground,"ITO Ground",CSQ,,AM,BM,Aircraft
+121.900000,0.00000,,"Airports Airfield Operations",Statewide,Ground,"KOA Ground",CSQ,,AM,BM,Aircraft
+122.300000,0.00000,,"Airports Airfield Operations",Statewide,"Clearance Delivery (Honolulu FSS)","HNM CD",CSQ,,AM,,Aircraft
+122.700000,0.00000,,"Airports Airfield Operations",Statewide,"Common Traffic Advisory Frequency","JHM CTAF",CSQ,,AM,,Aircraft
+122.750000,0.00000,,"Airports Base Operations",Statewide,"PMSV Metro","BSF PMSV Metro",CSQ,,AM,BM,Military
+122.825000,0.00000,,"Medevac Hawaii Air Ambulance",Statewide,"Honolulu County Dispatch",HawaiiAirAmb,CSQ,,AM,BM,Aircraft
+122.875000,0.00000,,"Airports Airline Operations",Statewide,FedEx,"FDX Ops",CSQ,,AM,BM,Business
+122.900000,0.00000,,"Airports Airfield Operations",Statewide,"Common Traffic Advisory Frequency","HNM CTAF",CSQ,,AM,,Aircraft
+122.900000,0.00000,,"Airports Airfield Operations",Statewide,"Common Traffic Advisory Frequency","UPP CTAF",CSQ,,AM,B,Aircraft
+122.900000,0.00000,,"Airports Airfield Operations",Statewide,"Common Traffic Advisory Frequency","LNY CTAF",CSQ,,AM,,Aircraft
+122.900000,0.00000,,"Airports Airfield Operations",Statewide,"Common Traffic Advisory Frequency","PAK CTAF",CSQ,,AM,B,Aircraft
+122.950000,0.00000,,"Airports Airline Operations",Statewide,"Blue Hawaiian Helicopters","Blue Hawaiian",CSQ,,AM,BM,Business
+123.000000,0.00000,,"Airports Airfield Operations",Statewide,"Common Traffic Advisory Frequency","HDH CTAF",CSQ,,AM,,Aircraft
+123.050000,0.00000,,"Airports Airfield Operations",Statewide,"Helicopter Ramp","LIH Heli Ramp",CSQ,,AM,,Aircraft
+123.800000,0.00000,,"Airports Airfield Operations",Statewide,"Ground VHF","JRF Ground VHF",CSQ,,AM,,Aircraft
+124.100000,0.00000,,"Airports Air Traffic Control",Statewide,"Approach/Departure VHF (HCF Center)","NGF App/Dep VHF",CSQ,,AM,,Aircraft
+124.100000,0.00000,,"Airports Air Traffic Control (HCF Center)",Statewide,"Approach/Departure VHF","MKK App/Dep VHF",CSQ,,AM,,Aircraft
+124.700000,0.00000,,"Airports Airfield Operations",Statewide,"ATIS VHF","BSF ATIS VHF",CSQ,,AM,B,Aircraft
+124.800000,0.00000,,"Airports Air Traffic Control",Statewide,Departure,Departure,CSQ,,AM,BM,Aircraft
+124.800000,0.00000,,"Airports Air Traffic Control",Statewide,"Class B","Class B",CSQ,,AM,BM,Aircraft
+125.000000,0.00000,,"Airports Air Traffic Control",Statewide,"Approach/Departure VHF (Kaneohe)","NGF App/Dep VHF",CSQ,,AM,,Aircraft
+125.200000,0.00000,,"Airports Range Control",Statewide,VHF,"BSF Range VHF",CSQ,,AM,BM,Military
+125.300000,0.00000,,"Airports Air Traffic Control",Statewide,"SHAKA Ops","SHAKA Ops",CSQ,,AM,BM,Aircraft
+125.300000,0.00000,,"Airports Base Operations",Statewide,"Shaka Ops VHF","HIK ShakaOps VHF",CSQ,,AM,,Military
+125.300000,0.00000,,"Airports Airline Operations",Statewide,"Hickham - Command Post","Hickham - Co",CSQ,,AM,BM,Military
+125.700000,0.00000,,"Airports Airfield Operations",Statewide,Tower,"MKK Tower",CSQ,,AM,,Aircraft
+126.000000,0.00000,,"Airports Air Traffic Control (HCF Center)",Statewide,"Approach/Departure VHF","KOA App/Dep VHF",CSQ,,AM,BM,Aircraft
+126.000000,0.00000,,"Airports Air Traffic Control (HCF Center)",Statewide,"Approach/Departure VHF","HNM App/Dep VHF",CSQ,,AM,,Aircraft
+126.000000,0.00000,,"Airports Air Traffic Control (HCF Center)",Statewide,"Approach/Departure VHF","BSF App/Dep VHF",CSQ,,AM,BM,Aircraft
+126.200000,0.00000,,"Airports Airport ATC",Statewide,Tower,"Tower VHF",CSQ,,AM,BM,Aircraft
+126.300000,0.00000,,"Airports Airfield Operations",Statewide,"Tower VHF","BSF Tower VHF",CSQ,,AM,BM,Aircraft
+126.400000,0.00000,,"Airports Airfield Operations",Statewide,ATIS,"ITO ATIS",CSQ,,AM,BM,Aircraft
+126.500000,0.00000,,"Airports Air Traffic Control",Statewide,"Approach/Departure VHF","LIH App/Dep VHF",CSQ,,AM,,Aircraft
+126.500000,0.00000,,"Airports Airfield Operations",Statewide,"Skydiving Operations","PAK SKY DIVE",CSQ,,AM,BM,Aircraft
+126.500000,0.00000,,"Airports Airport ATC",Statewide,"Approach / Departure","App / Dep",CSQ,,AM,BM,Aircraft
+126.600000,0.00000,,"Airports Air Traffic Control",Statewide,"Approach/Departure VHF (HCF)","ITO App/Dep VHF",CSQ,,AM,BM,Aircraft
+127.050000,0.00000,,"Airports Air Traffic Control",Statewide,"Island Traffic Advisory","LIH ITAF",CSQ,,AM,BM,Aircraft
+127.200000,0.00000,,"Airports Air Traffic Control",Statewide,ASOS,"LIH ASOS",CSQ,,AM,BM,Aircraft
+127.200000,0.00000,,"Airports Airfield Operations",Statewide,"Automatic Terminal Information Service (ATIS)","LIH ATIS",CSQ,,AM,,Aircraft
+127.200000,0.00000,,"Airports Air Traffic Control",Statewide,ATIS,"LIH ATIS",CSQ,,AM,BM,Aircraft
+127.400000,0.00000,,"Airports Airfield Operations",Statewide,AWOS,"KOA AWOS",CSQ,,AM,BM,Aircraft
+127.900000,0.00000,,"Airports Air Traffic Control",Statewide,D-ATIS,D-ATIS,CSQ,,AM,BM,Aircraft
+128.200000,0.00000,,"Airports Airfield Operations",Statewide,ATIS,"MKK ATIS",CSQ,,AM,,Aircraft
+128.400000,0.00000,,"Airports Airfield Operations",Statewide,"Tower - Helicopters","LIH Tower Heli",CSQ,,AM,,Aircraft
+128.400000,0.00000,,"Airports Air Traffic Control",Statewide,"Helicopter Operations","LIH HELO",CSQ,,AM,BM,Aircraft
+128.600000,0.00000,,"Airports Airfield Operations",Statewide,ATIS,"OGG ATIS",CSQ,,AM,,Aircraft
+128.850000,0.00000,,"Airports Airline Operations",Statewide,"United Airlines","UAL Ops",CSQ,,AM,BM,Business
+128.875000,0.00000,,"Airports Airline Operations",Statewide,"Air Support Group","Air Support ",CSQ,,AM,BM,Military
+128.950000,0.00000,,"Airports Airline Operations",Statewide,"Air Service Hawaii FBO","Air Service FBO",CSQ,,AM,BM,Business
+128.950000,0.00000,,"Airports Airline Operations",Statewide,"Air Service Hawaii FBO","Air Service ",CSQ,,AM,BM,Business
+128.950000,0.00000,,"Airports Airline Operations",Statewide,"Air Service Hawaii FBO","Air Service FBO",CSQ,,AM,,Business
+129.100000,0.00000,,"Airports Airline Operations",Statewide,"Hawaiian Airlines - Interisland Ramp","HAL Ramp",CSQ,,AM,BM,Aircraft
+129.300000,0.00000,,"Airports Airline Operations",Statewide,"Hawaiian Airlines","HAL Ops",CSQ,,AM,BM,Business
+129.300000,0.00000,,"Airports Airline Operations",Statewide,"Hawaiian Airlines - Maintenance","HAL Maint",CSQ,,AM,BM,Business
+129.325000,0.00000,,"Airports Airline Operations",Statewide,"American Airlines","AAL OPS",CSQ,,AM,BM,Business
+129.425000,0.00000,,"Airports Airline Operations",Statewide,UPS,"UPS OPS",CSQ,,AM,BM,Business
+129.625000,0.00000,,"Airports Airline Operations",Statewide,"Atlas Air / DHL","GTI DHL OPS",CSQ,,AM,BM,Business
+129.900000,0.00000,,"Airports Airline Operations",Statewide,"Aloha Air Cargo","AAH OPS",CSQ,,AM,BM,Business
+129.950000,0.00000,,"Airports Airline Operations",Statewide,"Castle & Cook Avaition FBO",CasteCookFBO,CSQ,,AM,BM,Business
+130.300000,0.00000,,"Airports Airline Operations",Statewide,"United Airlines","UAL Ops",CSQ,,AM,,Business
+130.300000,0.00000,,"Airports Airline Operations",Statewide,"United Airlines","UAL OPS",CSQ,,AM,BM,Business
+130.600000,0.00000,,"Airports Airline Operations",Statewide,"Hallmark Aviation","Hallmark ",CSQ,,AM,BM,Business
+130.800000,0.00000,,"Airports Airline Operations",Statewide,"Signature Flight Support","Signature FBO",CSQ,,AM,,Business
+130.800000,0.00000,,"Airports Airline Operations",Statewide,"Signature Flight Support","Signature FBO",CSQ,,AM,BM,Business
+130.800000,0.00000,,"Airports Airline Operations",Statewide,"Landmark Aviation FBO",Landmark,CSQ,,AM,BM,Business
+130.800000,0.00000,,"Airports Airline Operations",Statewide,"Signature Flight Support FBO","Signature FBO",CSQ,,AM,BM,Business
+130.900000,0.00000,,"Airports Airline Operations",Statewide,"United Airlines","UAL Ops",CSQ,,AM,BM,Business
+131.075000,0.00000,,"Airports Airline Operations",Statewide,"United Airlines","UAL Ops",CSQ,,AM,BM,Business
+131.200000,0.00000,,"Airports Airline Operations",Statewide,"Alaska Airlines","ASA Ops",CSQ,,AM,BM,Business
+131.225000,0.00000,,"Airports Airline Operations",Statewide,"Aloha Contract Services","ACS Ops",CSQ,,AM,,Business
+131.225000,0.00000,,"Airports Airline Operations",Statewide,"Aloha Contract Services","ACS Ops",CSQ,,AM,BM,Business
+131.300000,0.00000,,"Airports Airline Operations",Statewide,"Island Air","MKU OPS",CSQ,,AM,BM,Business
+131.450000,0.00000,,"Airports Airline Operations",Statewide,"Delta Airlines - Operations","DAL OPS",CSQ,,AM,BM,Business
+131.450000,0.00000,,"Airports Airline Operations",Statewide,"Delta Airlines","DAL Ops",CSQ,,AM,BM,Business
+131.450000,0.00000,,"Airports Airline Operations",Statewide,"Hawaiian Airlines","HAL Ops",CSQ,,AM,,Business
+131.550000,0.00000,,"Airports Airline Operations",Statewide,"ACARS Data",ACARS,CSQ,,AM,BM,Data
+131.650000,0.00000,,"Airports Airline Operations",Statewide,"Delta Airlines - Atlanta Radio","DAL ATL RDO",CSQ,,AM,BM,Business
+131.925000,0.00000,,"Airports Airline Operations",Statewide,Fedex,"FDX OPS",CSQ,,AM,BM,Business
+131.950000,0.00000,,"Airports Airline Operations",Statewide,"ARINC En Route Service","ARINC EnRout",CSQ,,AM,BM,Business
+132.600000,0.00000,,"Airports Airfield Operations",Statewide,"Tower VHF","JRF Tower VHF",CSQ,,AM,,Aircraft
+133.600000,0.00000,,"Airports Base Operations",Statewide,"Advisory Ramp VHF","HIK Adv Ramp VHF",CSQ,,AM,,Military
+133.600000,0.00000,,"Airports Airline Operations",Statewide,"USAF Hickam","USAF Hickam",CSQ,,AM,BM,Military
+134.000000,0.00000,,"Airports Air Traffic Control",Statewide,"Approach / Departure","LIH APP",CSQ,,AM,BM,Aircraft
+136.850000,0.00000,,"Airports Airline Operations",Statewide,"ACARS Data",ACARS,CSQ,,AM,BM,Data
+141.800000,0.00000,,"Airports Base Operations",Statewide,"Command Post VHF","HIK CP VHF",,,AM,,Military
+141.800000,0.00000,,"Airports Air Traffic Control",Statewide,CP,CP,CSQ,,AM,BM,Aircraft
+144.390000,0.00000,,"2m Repeaters",Hawaii,"APRS System","APRS 144.39",,,FM,,Ham
+144.910000,0.00000,,"2m Repeaters",Hawaii,"Packet Digital Captain Cook KH6Z-1","Packet CptCk",,,FM,,Ham
+144.910000,0.00000,,"2m Repeaters",Hawaii,"Packet Digital Ocean View KH7MS-1","Packet OcnVw",,,FM,,Ham
+145.290000,144.69000,WH6FC,"2m Repeaters",Hawaii,"Ocean View repeater","Ocean View","100.0 PL","100.0 PL",FM,RM,Ham
+145.310000,144.71000,AH6JA,"2m Repeaters",Hawaii,"Hilo repeater","AH6JA Hilo",,,FM,RM,Ham
+145.410000,0.00000,n/a,"KH7MS DMR Net",Hawaii,"Site: 006 Ocean View VHF",n/a,n/a,n/a,DMR,RM,TRS
+145.410000,0.00000,KH7MS,"2m Repeaters",Hawaii,"Ocean View, Ka'u","KH7MS P25","293 NAC",,P25,RM,Ham
+145.410000,0.00000,n/a,"Hawaii Brandmeister",Hawaii,"Site: 001 Ocean View, Ka'u",n/a,n/a,n/a,DMR,RM,TRS
+145.410000,144.81000,KH7MS,"2m Repeaters",Hawaii,"Naalehu repeater",Naalehu,"100.0 PL","100.0 PL",FM,RM,Ham
+145.410000,0.00000,KH7MS,"2m Repeaters",Hawaii,"Ocean View, Ka'u","KH7MS YSF",,,YSF,RM,Ham
+145.410000,0.00000,KH7MS,"2m Repeaters",Hawaii,"Ocean View, Ka'u","KH7MS DMR","CC 1|TG *|SL *",,DMR,RM,Ham
+145.450000,0.00000,,"2m Repeaters",Hawaii,"Hawaiian Paradise Park",HawaiianPrk,"100.0 PL",,FM,RM,Ham
+145.490000,144.89000,KH6TA,"2m Repeaters",Hawaii,Na'alehu,"KH6TA 2m",,"100.0 PL",FM,RM,Ham
+145.510000,0.00000,,Simplex,Hawaii,"VHF Simplex 6","VHF Simplex 6","CC 1|TG 99|SL *",,DMR,M,Ham
+145.790000,0.00000,,Simplex,Hawaii,"VHF Simplex 5","VHF Simplex 5","CC 1|TG 99|SL *",,DMR,M,Ham
+146.660000,146.06000,WH6FC,"2m Repeaters",Hawaii,"Kealakekua repeater",Kealakekua,"100.0 PL","100.0 PL",FM,RM,Ham
+146.700000,146.10000,NH6M,"2m Repeaters",Hawaii,Kona,146.700,,,FM,RM,Ham
+146.700000,146.10000,,"Kauai Amateur Radio Club",Kauai,"Crater Hill (North)","KARC Crater Hill","100.0 PL",,FM,RM,Ham
+146.720000,0.00000,,"2m Repeaters",Hawaii,"Mauna Kea","Mauna Kea","103.5 PL",,FM,RM,Ham
+146.760000,146.16000,,"2m Repeaters",Hawaii,Kulani,146.76000,,"100.0 PL",FM,RM,Ham
+146.820000,146.22000,WH6FM,"2m Repeaters",Hawaii,"Mauna Loa P25 repeater","146.820 P25","BAD NAC","BAD NAC",P25,RM,Ham
+146.820000,146.22000,WH6FM,"2m Repeaters",Hawaii,"Mauna Loa analog",146.82000,"100.0 PL","100.0 PL",FM,RM,Ham
+146.860000,0.00000,,"2m Repeaters",Hawaii,"Ocean View","Ocean View","100.0 PL",,FM,RM,Ham
+146.880000,0.00000,,"2m Repeaters",Hawaii,Pepeekeo,146.88000,,"100.0 PL",FM,RM,Ham
+146.920000,0.00000,,"2m Repeaters",Hawaii,Naalehu,146.92000,,"100.0 PL",FM,RM,Ham
+146.940000,0.00000,,"2m Repeaters",Hawaii,Haleakala,146.94000,,"110.9 PL",FM,RM,Ham
+147.080000,147.68000,,"Kauai Amateur Radio Club",Kauai,"Kalepa Ridge (East)","KARC KalepaRidge","100.0 PL",,FM,RM,Ham
+147.100000,147.70000,,"Kauai Amateur Radio Club",Kauai,"Waimea Canyon (West)","KARC Waimea Can","100.0 PL",,FM,RM,Ham
+147.120000,0.00000,,"2m Repeaters",Hawaii,Kapoho,Kapoho,"100.0 PL",,FM,RM,Ham
+147.160000,147.76000,,"Kauai Amateur Radio Club",Kauai,"Wilcox (Not Linked)","KARC Wilcox","100.0 PL",,FM,RM,Ham
+147.160000,0.00000,,"2m Repeaters",Hawaii,Kona,146.94000,,"100.0 PL",FM,RM,Ham
+147.300000,147.90000,WB6EGR,"2m Repeaters",Hawaii,"Koloko Peak",147.300,"100.0 PL","100.0 PL",FM,RM,Ham
+147.320000,0.00000,,"2m Repeaters",Hawaii,Waimea,146.94000,,"100.0 PL",FM,RM,Ham
+151.017500,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 009 Kailua",n/a,n/a,n/a,"Project 25",RM,TRS
+151.017500,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 001 Pepeekeo",n/a,n/a,n/a,"Project 25",RM,TRS
+151.017500,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 013 Naalehu",n/a,n/a,n/a,"Project 25",RM,TRS
+151.055000,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 031 Ocean View",n/a,n/a,n/a,"Project 25",RM,TRS
+151.055000,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 032 Pahoa",n/a,n/a,n/a,"Project 25",RM,TRS
+151.062500,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 004 Honokaa",n/a,n/a,n/a,"Project 25",RM,TRS
+151.085000,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 006 Humuula (Mauna Kea)",n/a,n/a,n/a,"Project 25",RM,TRS
+151.100000,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 016 Waimea",n/a,n/a,n/a,"Project 25",RM,TRS
+151.115000,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 031 Ocean View",n/a,n/a,n/a,"Project 25",RM,TRS
+151.115000,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 007 Laupahoehoe",n/a,n/a,n/a,"Project 25",RM,TRS
+151.115000,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 032 Pahoa",n/a,n/a,n/a,"Project 25",RM,TRS
+151.145000,159.34500,WNJW294,"Nature Conservancy of Hawaii",Maui,"Molokai Ops","NCH Molokai",,,FM,RM,"Public Works"
+151.152500,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 009 Kailua",n/a,n/a,n/a,"Project 25",RM,TRS
+151.160000,154.99500,WPWL718,"Department of Forestry and Conservation",Maui,"Dept. of Forestry and Conservation","F/C 151.160",,,FM,RM,"Public Works"
+151.190000,159.34500,WNJW294,"Nature Conservancy of Hawaii",Maui,"Lani Ops","NCH Lani",,,FM,RM,"Public Works"
+151.205000,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 008 Kahua Ranch (Kamuela)",n/a,n/a,n/a,"Project 25",RM,TRS
+151.205000,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 013 Naalehu",n/a,n/a,n/a,"Project 25",RM,TRS
+151.235000,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 001 Pepeekeo",n/a,n/a,n/a,"Project 25",RM,TRS
+151.265000,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 032 Pahoa",n/a,n/a,n/a,"Project 25",RM,TRS
+151.265000,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 007 Laupahoehoe",n/a,n/a,n/a,"Project 25",RM,TRS
+151.265000,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 031 Ocean View",n/a,n/a,n/a,"Project 25",RM,TRS
+151.295000,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 006 Humuula (Mauna Kea)",n/a,n/a,n/a,"Project 25",RM,TRS
+151.392500,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 013 Naalehu",n/a,n/a,n/a,"Project 25",RM,TRS
+151.392500,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 009 Kailua",n/a,n/a,n/a,"Project 25",RM,TRS
+151.407500,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 031 Ocean View",n/a,n/a,n/a,"Project 25",RM,TRS
+151.407500,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 004 Honokaa",n/a,n/a,n/a,"Project 25",RM,TRS
+151.407500,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 032 Pahoa",n/a,n/a,n/a,"Project 25",RM,TRS
+151.422500,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 031 Ocean View",n/a,n/a,n/a,"Project 25",RM,TRS
+151.422500,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 032 Pahoa",n/a,n/a,n/a,"Project 25",RM,TRS
+151.422500,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 007 Laupahoehoe",n/a,n/a,n/a,"Project 25",RM,TRS
+151.445000,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 006 Humuula (Mauna Kea)",n/a,n/a,n/a,"Project 25",RM,TRS
+151.490000,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 008 Kahua Ranch (Kamuela)",n/a,n/a,n/a,"Project 25",RM,TRS
+151.520000,158.38500,KVM692,"Businesses Miscellaneous",Statewide,"Royal Hawaiian Orchards (Naalehu)","Roy Hi Orchd","131.8 PL",,FMN,RM,Business
+151.527500,0.00000,n/a,"Kauai Island Utility Cooperative",Kauai,"Site: 005 Hanalei",n/a,n/a,n/a,DMR,RM,TRS
+151.557500,0.00000,n/a,"Kauai Island Utility Cooperative",Kauai,"Site: 003 Hydro",n/a,n/a,n/a,DMR,RM,TRS
+151.557500,0.00000,n/a,"Kauai Island Utility Cooperative",Kauai,"Site: 002 Koloa",n/a,n/a,n/a,DMR,RM,TRS
+151.865000,0.00000,,"Airports Airport Operations",Statewide,Security,"KOA Security","411 DPL",,FMN,BM,Security
+151.955000,0.00000,,"Nawiliwili Harbor",Kauai,"Young Brothers (Inter-Island Cargo Terminal, Pier 3)","Young Bros","162.2 PL",,FMN,M,Business
+151.962500,0.00000,n/a,"Kauai Island Utility Cooperative",Kauai,"Site: 004 Lihue",n/a,n/a,n/a,DMR,RM,TRS
+152.270000,157.53000,WQXG875,"Hawaii Public Schools",Hawaii,"Konawaena Elementary School","Konawaena ES","103.5 PL",,FMN,RM,Schools
+152.337500,0.00000,n/a,"Kauai Island Utility Cooperative",Kauai,"Site: 002 Koloa",n/a,n/a,n/a,DMR,RM,TRS
+152.337500,0.00000,n/a,"Kauai Island Utility Cooperative",Kauai,"Site: 003 Hydro",n/a,n/a,n/a,DMR,RM,TRS
+152.412500,0.00000,n/a,"Kauai Island Utility Cooperative",Kauai,"Site: 004 Lihue",n/a,n/a,n/a,DMR,RM,TRS
+152.457500,0.00000,n/a,"Kauai Island Utility Cooperative",Kauai,"Site: 005 Hanalei",n/a,n/a,n/a,DMR,RM,TRS
+152.892500,0.00000,n/a,"Kauai Island Utility Cooperative",Kauai,"Site: 001 Kekaha",n/a,n/a,n/a,DMR,RM,TRS
+152.990000,159.67500,WQBT442,"Airports Airline Ground Operations",Statewide,"Bradley Aviation - Aircraft Fueling","BRADLEY FUEL","004 RAN",,NXDN,RM,Business
+152.990000,0.00000,WQBT442,"Airports Airline Ground Operations",Statewide,"Bradley Aviation - FBO","BRADLEY FBO","001 RAN",,NXDN,M,Business
+153.065000,158.28000,WNVD448,"Businesses Miscellaneous",Statewide,"West Hawaii Concrete (Kona)","W Hi Concret","136.5 PL",,FMN,RM,Business
+153.650000,0.00000,,"Businesses Utilities",Statewide,"Hawaiian Electric Company (HECO)","HECO Elec",,,FM,BM,Utilities
+153.747500,0.00000,WQGU218,"State Civil Defense VHF-High band",Statewide,"Emergency & Disaster Services Coordination","Civ Def 7475",,,FMN,M,"Emergency Ops"
+153.755000,0.00000,,"University of Hawaii at Hilo",Hawaii,Security,"UH HILO HCC",,,FMN,BM,Security
+153.807500,0.00000,WQGU218,"State Civil Defense VHF-High band",Statewide,"Emergency & Disaster Services Coordination","Civ Def 8075",,,FMN,M,"Emergency Ops"
+153.875000,158.76000,WPML295,"Local Government Services",Maui,"Parks Department","MauiCo Parks",,,FM,RM,"Public Works"
+153.972500,0.00000,WQGU218,"State Civil Defense VHF-High band",Statewide,"Emergency & Disaster Services Coordination","Civ Def 9725",,,FMN,M,"Emergency Ops"
+154.062500,0.00000,WQKW813,"Local Government Services",Hawaii,"Hawaii Community College","Hawaii CC",,,NXDN,BM,Schools
+154.085000,156.00000,WPLW718,"Department of Forestry and Conservation",Maui,"Dept. of Forestry and Conservation","F/C 154.085",,,FM,RM,"Public Works"
+154.445000,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 010 Mount Haleakala",n/a,n/a,n/a,"Project 25",RM,TRS
+154.490000,0.00000,n/a,"Kauai Island Utility Cooperative",Kauai,"Site: 001 Kekaha",n/a,n/a,n/a,DMR,RM,TRS
+154.490000,0.00000,,"Businesses Retail",Statewide,"Ace Hardware (Naalehu)","Ace Naalehu",,,FMN,M,Business
+154.505000,159.54000,WQVU589,"Businesses Miscellaneous",Statewide,"Kohala Eco Tours (Hawi)",KohalaEcoTrs,"465 DPL",,FMN,RM,Business
+154.540000,0.00000,,"Businesses Miscellaneous",Statewide,"West Hawaii Concrete (Kona) Ch. 2","W Hi Concr 2","136.5 PL",,FMN,M,Business
+154.807500,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 004 Honokaa",n/a,n/a,n/a,"Project 25",RM,TRS
+154.980000,0.00000,,"Department of Land and Natural Resources Division of Conservation and Resource Enforcement (DOCARE)",Statewide,"Tactical 3","DLNR Tac 3",,,FMN,M,"Law Tac"
+154.995000,154.08500,KYB912,"Hawaii, State of",Kauai,"Department of Forestry and Conservation - Ch Green",Forestry,,,FM,RM,"Law Dispatch"
+154.995000,154.08500,,"Department of Land and Natural Resources Division of Conservation and Resource Enforcement (DOCARE)",Statewide,"Statewide (Green Net)","DLNR Stwd Green","103.5 PL",,FMN,RM,"Law Dispatch"
+154.995000,0.00000,WQBK664,"Department of Forestry and Conservation",Maui,"Channel Green - Dispatch","F/C Dispatch",,,FM,BM,"Law Dispatch"
+155.025000,0.00000,KNBV302,"Miscellaneous State Services",Maui,"State Government - Kalaupapa","SG Yellow",,,FM,BM,"Public Works"
+155.025000,0.00000,KGJ212,"Hawaii, State of",Kauai,"State Government - Ch Yellow",Yellow,,,FM,BM,"Law Dispatch"
+155.040000,0.00000,KNBV302,"Miscellaneous State Services",Maui,"State Government - Kalaupapa","SG Kalaupapa",,,FM,BM,"Public Works"
+155.085000,156.00000,WYK653,"Hawaii, State of",Kauai,"Department of Forestry and Conservation",Forestry,,,FM,BM,"Law Dispatch"
+155.085000,0.00000,,"Department of Public Safety Corrections",Statewide,"Most facilities except Waiawa","Hawaii DOC",,,FM,BM,Corrections
+155.085000,0.00000,KNCC418,"Miscellaneous State Services",Maui,"Corrections Division - Wailuku","Wailuku DOC",,,FM,BM,Corrections
+155.092500,0.00000,WQGU218,"State Civil Defense VHF-High band",Statewide,"Emergency & Disaster Services Coordination","Civ Def 0925",,,FMN,RM,"Emergency Ops"
+155.100000,0.00000,WYK653,"Hawaii, State of",Kauai,"Public Safety",PublicSafety,,,FM,BM,"Law Talk"
+155.152500,0.00000,WQGU218,"State Civil Defense VHF-High band",Statewide,"Emergency & Disaster Services Coordination","Civ Def 1525",,,FMN,RM,"Emergency Ops"
+155.167500,0.00000,WQFY591,"Kauai Search and Rescue",Kauai,"Kauai SAR F1","Kauai SAR F1",,,FMN,M,EMS-Talk
+155.182500,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 012 Moanuiahea",n/a,n/a,n/a,"Project 25",RM,TRS
+155.212500,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 005 Hilo",n/a,n/a,n/a,"Project 25",RM,TRS
+155.212500,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 002 Captain Cook",n/a,n/a,n/a,"Project 25",RM,TRS
+155.227500,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 011 Kulani Cone (Volcano)",n/a,n/a,n/a,"Project 25",RM,TRS
+155.287500,0.00000,WQFY591,"Kauai Search and Rescue",Kauai,"Kauai SAR F2","Kauai SAR F2",,,FMN,M,EMS-Talk
+155.310000,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 010 Mount Haleakala",n/a,n/a,n/a,"Project 25",RM,TRS
+155.325000,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 012 Moanuiahea",n/a,n/a,n/a,"Project 25",RM,TRS
+155.362500,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 011 Kulani Cone (Volcano)",n/a,n/a,n/a,"Project 25",RM,TRS
+155.377500,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 002 Captain Cook",n/a,n/a,n/a,"Project 25",RM,TRS
+155.377500,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 005 Hilo",n/a,n/a,n/a,"Project 25",RM,TRS
+155.400000,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 008 Kahua Ranch (Kamuela)",n/a,n/a,n/a,"Project 25",RM,TRS
+155.400000,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 015 South Point",n/a,n/a,n/a,"Project 25",RM,TRS
+155.452500,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 014 Papa Bay Estates (Ohia Mill)",n/a,n/a,n/a,"Project 25",RM,TRS
+155.520000,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 012 Moanuiahea",n/a,n/a,n/a,"Project 25",RM,TRS
+155.572500,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 005 Hilo",n/a,n/a,n/a,"Project 25",RM,TRS
+155.580000,0.00000,KIU670,"Local Government Services",Maui,"County Government","Maui Co Gov",,,FM,RM,Multi-Talk
+155.587500,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 002 Captain Cook",n/a,n/a,n/a,"Project 25",RM,TRS
+155.587500,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 001 Pepeekeo",n/a,n/a,n/a,"Project 25",RM,TRS
+155.625000,154.87500,KNDV863,"Local Government Services",Maui,"County Government","Maui Co Gov",,,FM,RM,Multi-Talk
+155.625000,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 011 Kulani Cone (Volcano)",n/a,n/a,n/a,"Project 25",RM,TRS
+155.677500,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 014 Papa Bay Estates (Ohia Mill)",n/a,n/a,n/a,"Project 25",RM,TRS
+155.677500,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 016 Waimea",n/a,n/a,n/a,"Project 25",RM,TRS
+155.715000,0.00000,KDW864,"Law Enforcement",Maui,"Channel Yellow - Civil Defense",CivilDefense,,,FM,RM,"Law Dispatch"
+155.715000,0.00000,KTI87,"State Civil Defense VHF-High band",Statewide,"Statewide Civil Defense Intersystem (Yellow Net)","CD Yellow","103.5 PL",,FMN,BM,Interop
+155.715000,0.00000,KGJ212,"Hawaii, State of",Kauai,"Civil Defense - Ch Yellow",CivilDefense,,,FM,BM,"Emergency Ops"
+155.745000,0.00000,WPKA239,"Law Enforcement",Maui,"Small Craft Enforcement","Small Craft",,,FM,BM,"Law Dispatch"
+155.760000,0.00000,KSZ480,"Airports Airport Operations",Statewide,"Airport Operations","OGG Ops",,,FMN,BM,"Law Talk"
+155.760000,0.00000,WYK653,"Hawaii, State of",Kauai,"Civil Defense - Local Ops","CivDef Local",,,FM,BM,"Law Dispatch"
+155.760000,0.00000,KWL379,"Airports Airport Operations",Statewide,"Operations Ch 1","KOA Ops 1",,,FMN,BM,"Public Works"
+155.775000,0.00000,KQ7668,"Hawaii Public Schools",Hawaii,"Konawaena High School","Konawaena HS","103.5 PL",,FM,BM,Schools
+155.775000,0.00000,,"Hawaii Public Schools",Hawaii,"Kealakehe Inter School","Kealakehe IS",,,FMN,BM,Schools
+155.790000,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 015 South Point",n/a,n/a,n/a,"Project 25",RM,TRS
+155.805000,0.00000,KBF748,"University of Hawaii at Hilo",Hawaii,Admin,"UH HILO ADMI",,,FMN,BM,Schools
+155.820000,0.00000,,"Airports Airport Operations",Statewide,Operations,"KOA Ops",,,FMN,BM,"Public Works"
+155.880000,0.00000,KBF748,"University of Hawaii at Hilo",Hawaii,Admin,"UH HILO ADMI",,,FMN,BM,Schools
+155.895000,0.00000,,"Department of Land and Natural Resources Division of Conservation and Resource Enforcement (DOCARE)",Statewide,"Tactical 1","DLNR Tac 1",,,FMN,M,"Law Tac"
+155.940000,0.00000,,"Hawaii Public Schools",Hawaii,"Holualoa Elementary School","Holualoa ES",,,FMN,BM,Schools
+155.940000,0.00000,KB49787,"Hawaii Public Schools",Hawaii,"Konawaena Elementary School","Konawaena ES",,,FM,BM,Schools
+155.940000,0.00000,WPJV401,"Law Enforcement",Maui,"Harbor Patrol - Kahului",KahuluiHarbr,,,FM,BM,"Law Dispatch"
+155.955000,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 014 Papa Bay Estates (Ohia Mill)",n/a,n/a,n/a,"Project 25",RM,TRS
+155.985000,0.00000,WQBK664,"Department of Forestry and Conservation",Maui,"Dept. of Forestry and Conservation","F/C 155.985",,,FM,BM,"Public Works"
+155.985000,0.00000,,"Department of Land and Natural Resources Division of Conservation and Resource Enforcement (DOCARE)",Statewide,"Tactical 2","DLNR Tac 2",,,FMN,M,"Law Tac"
+156.105000,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 015 South Point",n/a,n/a,n/a,"Project 25",RM,TRS
+156.105000,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 016 Waimea",n/a,n/a,n/a,"Project 25",RM,TRS
+156.112500,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 011 Kulani Cone (Volcano)",n/a,n/a,n/a,"Project 25",RM,TRS
+156.165000,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 005 Hilo",n/a,n/a,n/a,"Project 25",RM,TRS
+156.210000,0.00000,n/a,"Hawaii County Public Safety System",Hawaii,"Site: 010 Mount Haleakala",n/a,n/a,n/a,"Project 25",RM,TRS
+156.425000,0.00000,,"Nawiliwili Harbor",Kauai,"Nawiliwili Yacht Club (Marine Ch. 68)",NawiliwiliYC,CSQ,,FM,BM,Business
+156.600000,0.00000,,"Kahului Harbor",Maui,"Harbor Port Operations (Marine Ch. 12)","Harbor Ops",CSQ,,FMN,M,Business
+156.600000,0.00000,,"Kahului Harbor",Maui,"Tug Boats (Marine Ch. 11)","Tug Boats",CSQ,,FM,M,Business
+156.600000,0.00000,,"Honolulu Harbor",Honolulu,"Aloha Tower (Harbormaster; Marine Ch. 12)","Aloha Tower",CSQ,,FM,BM,"Public Works"
+156.900000,0.00000,,"Nawiliwili Harbor",Kauai,"Tug Boats (Marine Ch. 18A)","Tug Boats",CSQ,,FM,BM,Business
+157.050000,0.00000,,"Coast Guard",Kauai,"Sector Honolulu (Marine Ch. 21A)","USCG 21A",CSQ,,FM,BM,Federal
+157.050000,0.00000,,"Coast Guard",Maui,"Sector Honolulu (Marine Ch. 21A)","USCG 21A",CSQ,,FM,BM,Federal
+157.100000,0.00000,,"Coast Guard",Maui,"Public Correspondence (Marine Ch. 22A)","USCG 22A",CSQ,,FM,BM,Federal
+157.100000,0.00000,,"Coast Guard",Hawaii,"Public Correspondence (Marine Ch. 22A)","USCG 22A",CSQ,,FM,BM,Federal
+157.100000,0.00000,,"Coast Guard",Honolulu,"Public Correspondence (Marine Ch. 22A)","USCG 22A",CSQ,,FM,BM,Federal
+157.175000,0.00000,,"Coast Guard",Honolulu,"Sector Honolulu (Marine Ch. 83A)","USCG 83A",CSQ,,FM,BM,Federal
+158.160000,151.59500,KXU481,"Businesses Maui Electric Company",Statewide,"Maui Electric - Mauna Loa (Moloka'i","MEC Ops 1","CC 7|TG 5000|SL 1",,DMR,RM,Utilities
+159.390000,0.00000,WNJW294,"Nature Conservancy of Hawaii",Maui,Car-to-Car,"NCH Car/Car",,,FM,M,"Public Works"
+159.420000,0.00000,WNJW294,"Nature Conservancy of Hawaii",Maui,Car-to-Car,"NCH Car/Car",,,FM,M,"Public Works"
+159.450000,0.00000,n/a,"Maui Electric Company",Maui,"Site: 001 Kahului",n/a,n/a,n/a,LTR,RM,TRS
+159.495000,151.65500,WPZI718,"Businesses Maui Electric Company",Statewide,"Maui Electric - Pu'unianiau Mountain","MEC Ops 2","CC 7|TG 5300|SL 2",,DMR,RM,Utilities
+159.525000,0.00000,n/a,"Maui Electric Company",Maui,"Site: 003 Mauna Loa",n/a,n/a,n/a,LTR,RM,TRS
+159.555000,0.00000,n/a,"Maui Electric Company",Maui,"Site: 004 Waiakeakua",n/a,n/a,n/a,LTR,RM,TRS
+159.555000,0.00000,WPZI718,"Businesses Maui Electric Company",Statewide,"Maui Electric - Waiakeakua (Lanai West)","MEC Ops 1","CC 7|TG 5000|SL 1",,DMR,RM,Utilities
+159.570000,0.00000,n/a,"Maui Electric Company",Maui,"Site: 002 Lanai",n/a,n/a,n/a,LTR,RM,TRS
+159.615000,0.00000,n/a,"Maui Electric Company",Maui,"Site: 003 Mauna Loa",n/a,n/a,n/a,LTR,RM,TRS
+159.735000,0.00000,n/a,"Maui Electric Company",Maui,"Site: 005 Hana",n/a,n/a,n/a,LTR,RM,TRS
+159.735000,151.58000,WPZI718,"Businesses Maui Electric Company",Statewide,"Maui Electric - Hana","MEC Ops 1","CC 7|TG 5000|SL 1",,DMR,RM,Utilities
+159.810000,151.92500,WPZI718,"Businesses Maui Electric Company",Statewide,"Maui Electric - Pu'unianiau Mountain","MEC Ops 1","CC 1|TG 5000|SL 1",,DMR,RM,Utilities
+159.810000,0.00000,n/a,"Maui Electric Company",Maui,"Site: 001 Kahului",n/a,n/a,n/a,LTR,RM,TRS
+159.870000,151.98500,,"Businesses Maui Electric Company",Statewide,"Maui Electric - Lanai Hale Road","MEC Ops 1","CC 7|TG 5000|SL 1",,DMR,RM,Utilities
+159.870000,0.00000,n/a,"Maui Electric Company",Maui,"Site: 002 Lanai",n/a,n/a,n/a,LTR,RM,TRS
+159.975000,0.00000,n/a,"Maui Electric Company",Maui,"Site: 004 Waiakeakua",n/a,n/a,n/a,LTR,RM,TRS
+160.140000,0.00000,n/a,"Maui Electric Company",Maui,"Site: 005 Hana",n/a,n/a,n/a,LTR,RM,TRS
+160.170000,0.00000,n/a,"Maui Electric Company",Maui,"Site: 002 Lanai",n/a,n/a,n/a,LTR,RM,TRS
+160.170000,0.00000,n/a,"Maui Electric Company",Maui,"Site: 001 Kahului",n/a,n/a,n/a,LTR,RM,TRS
+160.170000,152.91500,WPZI718,"Businesses Maui Electric Company",Statewide,"Maui Electric - Waiakeakua (Lanai West)","MEC Ops 2","CC 7|TG 5300|SL 2",,DMR,RM,Utilities
+160.215000,0.00000,WNYY965,"Businesses Attractions",Statewide,"Hawaiian Railroad Society","Hawaiian RRSOC",,,FMN,BM,Business
+161.730000,0.00000,,NOAA,Honolulu,"Link to 162.550",NOAA,,,FMN,F,Federal
+163.137500,0.00000,,"Coast Guard",Maui,"Ch. CG113 Sector Honolulu/Station Maui (encryption used)","CG113 Sector","293 NAC",,P25,BM,Federal
+163.137500,0.00000,,"Coast Guard",Kauai,"Ch. CG113 Sector Honolulu (encryption used)","CG113 Sector","293 NAC",,P25,BM,Federal
+163.137500,0.00000,,"Coast Guard",Hawaii,"Sector Honolulu and Station Hilo","USCG 163.137","293 NAC",,P25,BM,Federal
+164.900000,0.00000,,"Coast Guard",Kauai,"Ch. CG118 Station Kauai (encryption used)","CG118 Kauai","293 NAC",,P25,BM,Federal
+165.000000,0.00000,,"National Park Service",Maui,"Haleakala National Park (input?)","HNP 165.0","4F9 NAC",,P25,BM,Federal
+165.237500,0.00000,,"Customs and Border Protection",Honolulu,CBP,"CBP 165.2375","302 NAC",,P25,RM,Federal
+165.237500,0.00000,,"Customs and Border Protection",Kauai,"CBP (encryption used)","CBP 165.2375","302 NAC",,P25,RM,Federal
+167.175000,0.00000,,"US Geological Survey",Hawaii,"Hawaii Volcano Observatory (HVO)","USGS HVO","293 NAC",,P25,BM,Federal
+167.175000,0.00000,,"US Geological Survey",Hawaii,"Hawaii Volcano Observatory (HVO)","USGS HVO",,,FMN,BM,Federal
+167.175000,0.00000,,"US Geological Survey",Hawaii,"Hawaii Volcano Observatory (HVO)","USGS HVO","294 NAC",,P25,BM,Federal
+169.625000,0.00000,,"National Park Service",Hawaii,"Hawaii Volcanoes National Park Police","HVNP 169.625","526 NAC",,P25,RM,Federal
+170.362500,164.16250,,"National Park Service",Hawaii,"Hawaii Volcanoes National Park","HVNP 170.362","526 NAC",,P25,RM,Federal
+170.550000,0.00000,,"Airports Federal",Statewide,"Customs and Border Protection - Cargo","CBP HNL Cargo","1FE NAC",,P25,BM,Federal
+171.325000,0.00000,,"Customs and Border Protection",Hawaii,"Operations: Linked to Honolulu International Airport","CBP Hilo","301 NAC",,P25,RM,Federal
+172.150000,0.00000,,"Airports Federal",Statewide,Operations,"KOA TSA 172.15",,,FMN,BM,Federal
+172.150000,0.00000,,"Airports Airport Operations",Statewide,"TSA - Low Power Handhelds (Voice Inversion)",TSA,"131.8 PL",,FMN,M,Federal
+172.150000,0.00000,,"Airports Federal",Statewide,"TSA Ops","ITO TSA","001 NAC",,P25,BM,Federal
+172.400000,0.00000,,"National Park Service",Maui,"Haleakala National Park","Haleakala NP","4F9 NAC",,P25,RM,Federal
+172.900000,0.00000,,"Airports Federal",Statewide,"Transportation Security Administration","OGG TSA","001 NAC",,P25,RM,Federal
+172.900000,169.30000,,"Airports Federal",Statewide,Operations,"KOA TSA 172.9","082 NAC",,P25,RM,Federal
+172.900000,169.30000,,"Airports Airport Operations",Statewide,"Transportation Security Administration",TSA,"001 NAC",,P25,RM,Federal
+173.825000,170.35000,,"National Park Service",Hawaii,"Hawaii Volcanoes National Park Rangers","HVNP 173.825","526 NAC",,P25,RM,Federal
+225.400000,0.00000,,"Airports Air Traffic Control (HCF Center)",Statewide,"Approach/Departure South UHF","OGG App/Dep S U",,,AM,,Aircraft
+234.800000,0.00000,,"Airports Air Traffic Control",Statewide,"Hickem Ramp Advisory","Hickem Ramp ",CSQ,,AM,BM,Aircraft
+236.600000,0.00000,,"Airports Airfield Operations",Statewide,"Tower UHF","BSF Tower UHF",,,AM,BM,Aircraft
+239.050000,0.00000,,"Airports Air Traffic Control",Statewide,"Class B","Class B",CSQ,,AM,BM,Aircraft
+254.300000,0.00000,,"Airports Airfield Operations",Statewide,"Tower UHF","KOA Tower UHF",,,AM,BM,Aircraft
+254.400000,0.00000,,"Airports Base Operations",Statewide,"Advisory Ramp UHF","HIK Adv Ramp UHF",,,AM,,Military
+263.100000,0.00000,,"Airports Airfield Operations",Statewide,"Tower UHF","ITO Tower UHF",,,AM,BM,Aircraft
+263.500000,0.00000,,"Airports Air Traffic Control",Statewide,"Approach/Departure UHF (Kaneohe)","NGF App/Dep UHF",,,AM,,Aircraft
+266.675000,0.00000,,"Airports Airfield Operations",Statewide,"Ground UHF","BSF Ground UHF",,,AM,BM,Aircraft
+269.000000,0.00000,,"Airports Air Traffic Control",Statewide,Departure,Departure,CSQ,,AM,BM,Aircraft
+269.200000,0.00000,,"Airports Air Traffic Control",Statewide,"Approach/Departure UHF","ITO App/Dep UHF",,,AM,BM,Aircraft
+269.400000,0.00000,,"Airports Airport ATC",Statewide,"Approach / Departure","App / Dep",,,AM,BM,Aircraft
+269.400000,0.00000,,"Airports Air Traffic Control",Statewide,"Approach/Departure UHF","LIH App/Dep UHF",,,AM,,Aircraft
+278.300000,0.00000,,"Airports Air Traffic Control (HCF Center)",Statewide,"Approach/Departure UHF","HNM App/Dep UHF",,,AM,,Aircraft
+278.300000,0.00000,,"Airports Air Traffic Control (HCF Center)",Statewide,"Approach/Departure UHF","BSF App/Dep UHF",,,AM,BM,Aircraft
+278.300000,0.00000,,"Airports Air Traffic Control (HCF Center)",Statewide,"Approach/Departure UHF","KOA App/Dep UHF",,,AM,BM,Aircraft
+284.500000,0.00000,,"Airports Airfield Operations",Statewide,ATIS,"NGF ATIS",,,AM,,Aircraft
+284.600000,0.00000,,"Airports Air Traffic Control",Statewide,"Approach/Departure UHF (HCF)","ITO App/Dep UHF",,,AM,BM,Aircraft
+290.500000,0.00000,,"Airports Airfield Operations",Statewide,"Clearance Delivery UHF","OGG CD UHF",,,AM,,Aircraft
+292.500000,0.00000,,"Airports Base Operations",Statewide,"Command Post UHF","HIK CP UHF",,,AM,,Military
+292.500000,0.00000,,"Airports Air Traffic Control",Statewide,"COMD Post","COMD Post",CSQ,,AM,BM,Aircraft
+293.225000,0.00000,,"Airports Airfield Operations",Statewide,"ATIS UHF","BSF ATIS UHF",,,AM,B,Aircraft
+293.700000,0.00000,,"Airports Air Traffic Control",Statewide,ANG-OPNS,ANG-OPNS,CSQ,,AM,BM,Aircraft
+294.700000,0.00000,,"Airports Airfield Operations",Statewide,"Clearance Delivery","NGF CD",,,AM,,Aircraft
+307.200000,0.00000,,"Airports Base Operations",Statewide,"Pilot to Dispatcher","NGF PTD",,,AM,,Military
+311.000000,0.00000,,"Airports Air Traffic Control",Statewide,SAC-OPNS,SAC-OPNS,CSQ,,AM,BM,Aircraft
+317.500000,0.00000,,"Airports Air Traffic Control",Statewide,"Approach/Departure UHF (HCF Center)","NGF App/Dep UHF",,,AM,,Aircraft
+317.500000,0.00000,,"Airports Air Traffic Control (HCF Center)",Statewide,"Approach/Departure UHF","MKK App/Dep UHF",,,AM,,Aircraft
+317.600000,0.00000,,"Airports Air Traffic Control",Statewide,"Class B","Class B",CSQ,,AM,BM,Aircraft
+317.600000,0.00000,,"Airports Air Traffic Control",Statewide,Departure,Departure,CSQ,,AM,BM,Aircraft
+322.400000,0.00000,,"Airports Air Traffic Control (HCF Center)",Statewide,"Approach/Departure North UHF","OGG App/Dep N U",,,AM,,Aircraft
+322.850000,0.00000,,"Airports Airport ATC",Statewide,"Range Outrider","Range ",,,AM,BM,Military
+323.000000,0.00000,,"Airports Air Traffic Control",Statewide,"Approach/Departure UHF (HCF)","ITO App/Dep UHF",,,AM,BM,Aircraft
+336.400000,0.00000,,"Airports Airfield Operations",Statewide,"Ground UHF","JRF Ground UHF",,,AM,,Aircraft
+338.200000,0.00000,,"Airports Air Traffic Control",Statewide,Departure,Departure,CSQ,,AM,BM,Aircraft
+340.200000,0.00000,,"Airports Airfield Operations",Statewide,"Tower UHF","JRF Tower UHF",,,AM,,Aircraft
+340.200000,0.00000,,"Airports Airport ATC",Statewide,Ground,Ground,,,AM,BM,Aircraft
+342.600000,0.00000,,"Airports Airfield Operations",Statewide,"Tower UHF","NGF Tower UHF1",,,AM,,Aircraft
+344.600000,0.00000,,"Airports Base Operations",Statewide,PMSV,"NGF PMSV",,,AM,,Military
+349.400000,0.00000,,"Airports Base Operations",Statewide,"Shaka Ops UHF","HIK ShakaOps UHF",,,AM,,Military
+360.200000,0.00000,,"Airports Airport ATC",Statewide,Tower,"Tower UHF",,,AM,BM,Aircraft
+360.200000,0.00000,,"Airports Airfield Operations",Statewide,"Tower UHF","NGF Tower UHF2",,,AM,,Aircraft
+380.500000,0.00000,,"Airports Airfield Operations",Statewide,"Clearance Delivery UHF","JRF CD UHF",,,AM,,Aircraft
+382.800000,0.00000,,"Airports Airfield Operations",Statewide,"Ground UHF","NGF Ground",,,AM,,Aircraft
+386.025000,0.00000,n/a,"Military P25 Honolulu",Honolulu,"Site: 003 Site 103",n/a,n/a,n/a,"Project 25",RM,TRS
+386.025000,0.00000,n/a,"Military P25 Honolulu",Honolulu,"Site: 001 Site 101",n/a,n/a,n/a,"Project 25",RM,TRS
+386.237500,0.00000,n/a,"Military P25 Honolulu",Honolulu,"Site: 003 Site 103",n/a,n/a,n/a,"Project 25",RM,TRS
+386.375000,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS)",UNKNOWN,"Site: 011 Site 11",n/a,n/a,n/a,"Project 25",RM,TRS
+386.387500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS)",UNKNOWN,"Site: 031 Site 31",n/a,n/a,n/a,"Project 25",RM,TRS
+386.475000,0.00000,n/a,"Military P25 Honolulu",Honolulu,"Site: 003 Site 103",n/a,n/a,n/a,"Project 25",RM,TRS
+386.687500,0.00000,n/a,"Military P25 Honolulu",Honolulu,"Site: 002 Site 102",n/a,n/a,n/a,"Project 25",RM,TRS
+386.687500,0.00000,n/a,"Military P25 Honolulu",Honolulu,"Site: 003 Site 103",n/a,n/a,n/a,"Project 25",RM,TRS
+386.687500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS)",UNKNOWN,"Site: 031 Site 31",n/a,n/a,n/a,"Project 25",RM,TRS
+386.925000,0.00000,n/a,"Military P25 Honolulu",Honolulu,"Site: 003 Site 103",n/a,n/a,n/a,"Project 25",RM,TRS
+388.162500,0.00000,n/a,"Military P25 Honolulu",Honolulu,"Site: 003 Site 103",n/a,n/a,n/a,"Project 25",RM,TRS
+388.375000,0.00000,n/a,"Military P25 Honolulu",Honolulu,"Site: 003 Site 103",n/a,n/a,n/a,"Project 25",RM,TRS
+388.612500,0.00000,n/a,"Military P25 Honolulu",Honolulu,"Site: 003 Site 103",n/a,n/a,n/a,"Project 25",RM,TRS
+388.612500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS)",UNKNOWN,"Site: 031 Site 31",n/a,n/a,n/a,"Project 25",RM,TRS
+406.112500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 007 Scholfield Barracks",n/a,n/a,n/a,"Project 25",RM,TRS
+406.150000,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 005 Fort Shafter",n/a,n/a,n/a,"Project 25",RM,TRS
+406.162500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS)",UNKNOWN,"Site: 032 Site 32",n/a,n/a,n/a,"Project 25",RM,TRS
+406.162500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS)",UNKNOWN,"Site: 012 Site 12",n/a,n/a,n/a,"Project 25",RM,TRS
+406.237500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS)",Maui,"Site: 009 Maui - Kahului",n/a,n/a,n/a,"Project 25",RM,TRS
+406.237500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS)",Honolulu,"Site: 024 Kane'ohe Marine Corps Base",n/a,n/a,n/a,"Project 25",RM,TRS
+406.237500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 002 Marine Corps Base Hawaii",n/a,n/a,n/a,"Project 25",RM,TRS
+406.287500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 007 Scholfield Barracks",n/a,n/a,n/a,"Project 25",RM,TRS
+406.362500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS)",UNKNOWN,"Site: 027 Site 27",n/a,n/a,n/a,"Project 25",RM,TRS
+406.362500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS)",UNKNOWN,"Site: 026 Site 26",n/a,n/a,n/a,"Project 25",RM,TRS
+406.362500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 003 Site 3",n/a,n/a,n/a,"Project 25",RM,TRS
+406.362500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS)",Hawaii,"Site: 006 Pohakulia Military Training Area",n/a,n/a,n/a,"Project 25",RM,TRS
+406.362500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS)",Honolulu,"Site: 007 Oahu - Hale'iwa",n/a,n/a,n/a,"Project 25",RM,TRS
+406.437500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 005 Fort Shafter",n/a,n/a,n/a,"Project 25",RM,TRS
+406.462500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 015 Site 15",n/a,n/a,n/a,"Project 25",RM,TRS
+406.462500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS)",Honolulu,"Site: 025 Fort DeRussy",n/a,n/a,n/a,"Project 25",RM,TRS
+406.462500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 001 Fort DeRussy",n/a,n/a,n/a,"Project 25",RM,TRS
+406.475000,0.00000,,"National Park Service",Hawaii,"Hawaii Volcanoes National Park link to 170.3625","HVNP 406.475","526 NAC",,P25,F,Federal
+406.537000,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 007 Scholfield Barracks",n/a,n/a,n/a,"Project 25",RM,TRS
+406.550000,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 005 Fort Shafter",n/a,n/a,n/a,"Project 25",RM,TRS
+406.562500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 002 Marine Corps Base Hawaii",n/a,n/a,n/a,"Project 25",RM,TRS
+406.562500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS)",Honolulu,"Site: 024 Kane'ohe Marine Corps Base",n/a,n/a,n/a,"Project 25",RM,TRS
+406.737500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 008 Red Hill",n/a,n/a,n/a,"Project 25",RM,TRS
+406.762500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS)",UNKNOWN,"Site: 026 Site 26",n/a,n/a,n/a,"Project 25",RM,TRS
+406.762500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS)",UNKNOWN,"Site: 010 Site 10",n/a,n/a,n/a,"Project 25",RM,TRS
+406.762500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS)",UNKNOWN,"Site: 030 Site 30",n/a,n/a,n/a,"Project 25",RM,TRS
+406.787500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 008 Red Hill",n/a,n/a,n/a,"Project 25",RM,TRS
+406.812500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 007 Scholfield Barracks",n/a,n/a,n/a,"Project 25",RM,TRS
+406.837500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 008 Red Hill",n/a,n/a,n/a,"Project 25",RM,TRS
+406.850000,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS)",Honolulu,"Site: 024 Kane'ohe Marine Corps Base",n/a,n/a,n/a,"Project 25",RM,TRS
+406.850000,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 002 Marine Corps Base Hawaii",n/a,n/a,n/a,"Project 25",RM,TRS
+406.900000,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS)",Honolulu,"Site: 025 Fort DeRussy",n/a,n/a,n/a,"Project 25",RM,TRS
+406.900000,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 001 Fort DeRussy",n/a,n/a,n/a,"Project 25",RM,TRS
+406.912500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 008 Red Hill",n/a,n/a,n/a,"Project 25",RM,TRS
+406.962500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS)",UNKNOWN,"Site: 026 Site 26",n/a,n/a,n/a,"Project 25",RM,TRS
+406.962500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS)",UNKNOWN,"Site: 027 Site 27",n/a,n/a,n/a,"Project 25",RM,TRS
+406.962500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS)",Hawaii,"Site: 006 Pohakulia Military Training Area",n/a,n/a,n/a,"Project 25",RM,TRS
+407.037500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 005 Fort Shafter",n/a,n/a,n/a,"Project 25",RM,TRS
+407.075000,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 008 Red Hill",n/a,n/a,n/a,"Project 25",RM,TRS
+407.125000,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 008 Red Hill",n/a,n/a,n/a,"Project 25",RM,TRS
+407.162500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS)",UNKNOWN,"Site: 026 Site 26",n/a,n/a,n/a,"Project 25",RM,TRS
+407.162500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS)",UNKNOWN,"Site: 030 Site 30",n/a,n/a,n/a,"Project 25",RM,TRS
+407.175000,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 008 Red Hill",n/a,n/a,n/a,"Project 25",RM,TRS
+407.237500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 008 Red Hill",n/a,n/a,n/a,"Project 25",RM,TRS
+407.312500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 008 Red Hill",n/a,n/a,n/a,"Project 25",RM,TRS
+407.337500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 005 Fort Shafter",n/a,n/a,n/a,"Project 25",RM,TRS
+407.350000,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 007 Scholfield Barracks",n/a,n/a,n/a,"Project 25",RM,TRS
+407.362500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS)",Hawaii,"Site: 006 Pohakulia Military Training Area",n/a,n/a,n/a,"Project 25",RM,TRS
+407.362500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS)",Honolulu,"Site: 025 Fort DeRussy",n/a,n/a,n/a,"Project 25",RM,TRS
+407.362500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 001 Fort DeRussy",n/a,n/a,n/a,"Project 25",RM,TRS
+407.437500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS)",Honolulu,"Site: 024 Kane'ohe Marine Corps Base",n/a,n/a,n/a,"Project 25",RM,TRS
+407.437500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 002 Marine Corps Base Hawaii",n/a,n/a,n/a,"Project 25",RM,TRS
+407.550000,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 008 Red Hill",n/a,n/a,n/a,"Project 25",RM,TRS
+407.612500,0.00000,n/a,"Federal Detention Center Honolulu",Honolulu,"Site: 001 Site 1",n/a,n/a,n/a,"Project 25",RM,TRS
+407.637500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 005 Fort Shafter",n/a,n/a,n/a,"Project 25",RM,TRS
+407.637500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS)",UNKNOWN,"Site: 026 Site 26",n/a,n/a,n/a,"Project 25",RM,TRS
+407.662500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 008 Red Hill",n/a,n/a,n/a,"Project 25",RM,TRS
+407.712500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 007 Scholfield Barracks",n/a,n/a,n/a,"Project 25",RM,TRS
+407.762500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 008 Red Hill",n/a,n/a,n/a,"Project 25",RM,TRS
+407.812500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 005 Fort Shafter",n/a,n/a,n/a,"Project 25",RM,TRS
+407.887500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 002 Marine Corps Base Hawaii",n/a,n/a,n/a,"Project 25",RM,TRS
+407.887500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS)",Honolulu,"Site: 024 Kane'ohe Marine Corps Base",n/a,n/a,n/a,"Project 25",RM,TRS
+407.912500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 007 Scholfield Barracks",n/a,n/a,n/a,"Project 25",RM,TRS
+407.962500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS)",UNKNOWN,"Site: 030 Site 30",n/a,n/a,n/a,"Project 25",RM,TRS
+407.962500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS)",UNKNOWN,"Site: 028 Site 28",n/a,n/a,n/a,"Project 25",RM,TRS
+407.975000,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 008 Red Hill",n/a,n/a,n/a,"Project 25",RM,TRS
+407.987500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS)",Honolulu,"Site: 024 Kane'ohe Marine Corps Base",n/a,n/a,n/a,"Project 25",RM,TRS
+407.987500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 002 Marine Corps Base Hawaii",n/a,n/a,n/a,"Project 25",RM,TRS
+408.125000,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 005 Fort Shafter",n/a,n/a,n/a,"Project 25",RM,TRS
+408.262500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 008 Red Hill",n/a,n/a,n/a,"Project 25",RM,TRS
+408.275000,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS)",Honolulu,"Site: 024 Kane'ohe Marine Corps Base",n/a,n/a,n/a,"Project 25",RM,TRS
+408.275000,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 002 Marine Corps Base Hawaii",n/a,n/a,n/a,"Project 25",RM,TRS
+408.362500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 007 Scholfield Barracks",n/a,n/a,n/a,"Project 25",RM,TRS
+408.387500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS)",Honolulu,"Site: 025 Fort DeRussy",n/a,n/a,n/a,"Project 25",RM,TRS
+408.387500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 001 Fort DeRussy",n/a,n/a,n/a,"Project 25",RM,TRS
+408.425000,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 005 Fort Shafter",n/a,n/a,n/a,"Project 25",RM,TRS
+408.475000,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 008 Red Hill",n/a,n/a,n/a,"Project 25",RM,TRS
+408.562500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 007 Scholfield Barracks",n/a,n/a,n/a,"Project 25",RM,TRS
+408.650000,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 005 Fort Shafter",n/a,n/a,n/a,"Project 25",RM,TRS
+408.762500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 008 Red Hill",n/a,n/a,n/a,"Project 25",RM,TRS
+408.862500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS)",Honolulu,"Site: 025 Fort DeRussy",n/a,n/a,n/a,"Project 25",RM,TRS
+408.862500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 001 Fort DeRussy",n/a,n/a,n/a,"Project 25",RM,TRS
+408.962500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 007 Scholfield Barracks",n/a,n/a,n/a,"Project 25",RM,TRS
+409.012500,0.00000,n/a,"Federal Detention Center Honolulu",Honolulu,"Site: 001 Site 1",n/a,n/a,n/a,"Project 25",RM,TRS
+409.100000,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 008 Red Hill",n/a,n/a,n/a,"Project 25",RM,TRS
+409.137500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 005 Fort Shafter",n/a,n/a,n/a,"Project 25",RM,TRS
+409.162500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 007 Scholfield Barracks",n/a,n/a,n/a,"Project 25",RM,TRS
+409.237500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 007 Scholfield Barracks",n/a,n/a,n/a,"Project 25",RM,TRS
+409.362500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 008 Red Hill",n/a,n/a,n/a,"Project 25",RM,TRS
+409.387500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 002 Marine Corps Base Hawaii",n/a,n/a,n/a,"Project 25",RM,TRS
+409.387500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS)",Honolulu,"Site: 024 Kane'ohe Marine Corps Base",n/a,n/a,n/a,"Project 25",RM,TRS
+409.412500,0.00000,n/a,"Federal Detention Center Honolulu",Honolulu,"Site: 001 Site 1",n/a,n/a,n/a,"Project 25",RM,TRS
+409.425000,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS)",Honolulu,"Site: 007 Oahu - Hale'iwa",n/a,n/a,n/a,"Project 25",RM,TRS
+409.562500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 008 Red Hill",n/a,n/a,n/a,"Project 25",RM,TRS
+409.587500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS)",Honolulu,"Site: 025 Fort DeRussy",n/a,n/a,n/a,"Project 25",RM,TRS
+409.587500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 001 Fort DeRussy",n/a,n/a,n/a,"Project 25",RM,TRS
+409.612500,0.00000,n/a,"Federal Detention Center Honolulu",Honolulu,"Site: 001 Site 1",n/a,n/a,n/a,"Project 25",RM,TRS
+409.662500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 008 Red Hill",n/a,n/a,n/a,"Project 25",RM,TRS
+409.762500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 008 Red Hill",n/a,n/a,n/a,"Project 25",RM,TRS
+409.862500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS)",Maui,"Site: 009 Maui - Kahului",n/a,n/a,n/a,"Project 25",RM,TRS
+409.912500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 008 Red Hill",n/a,n/a,n/a,"Project 25",RM,TRS
+409.962500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS)",Honolulu,"Site: 024 Kane'ohe Marine Corps Base",n/a,n/a,n/a,"Project 25",RM,TRS
+409.962500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 002 Marine Corps Base Hawaii",n/a,n/a,n/a,"Project 25",RM,TRS
+410.100000,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS)",Honolulu,"Site: 025 Fort DeRussy",n/a,n/a,n/a,"Project 25",RM,TRS
+410.100000,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 001 Fort DeRussy",n/a,n/a,n/a,"Project 25",RM,TRS
+410.162500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS)",Maui,"Site: 009 Maui - Kahului",n/a,n/a,n/a,"Project 25",RM,TRS
+410.162500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS)",UNKNOWN,"Site: 029 Site 29",n/a,n/a,n/a,"Project 25",RM,TRS
+410.362500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS)",UNKNOWN,"Site: 028 Site 28",n/a,n/a,n/a,"Project 25",RM,TRS
+410.375000,0.00000,,"Coast Guard",Hawaii,"Cutter Kiska (Coast Guard Station Hilo)","USCGC Kiska",CSQ,,FMN,BM,Federal
+410.412500,0.00000,n/a,"Federal Detention Center Honolulu",Honolulu,"Site: 001 Site 1",n/a,n/a,n/a,"Project 25",RM,TRS
+410.562500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS)",Maui,"Site: 009 Maui - Kahului",n/a,n/a,n/a,"Project 25",RM,TRS
+410.562500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS)",UNKNOWN,"Site: 029 Site 29",n/a,n/a,n/a,"Project 25",RM,TRS
+410.762500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS)",Hawaii,"Site: 008 Hawaii -",n/a,n/a,n/a,"Project 25",RM,TRS
+410.862500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS)",Honolulu,"Site: 025 Fort DeRussy",n/a,n/a,n/a,"Project 25",RM,TRS
+410.862500,0.00000,n/a,"Pacific Mobile Emergency Radio System (PACMERS) 2CF",Honolulu,"Site: 001 Fort DeRussy",n/a,n/a,n/a,"Project 25",RM,TRS
+411.787500,0.00000,,"Coast Guard",Hawaii,"Station Hilo Ch. 2","USCG Hilo 2",CSQ,,FMN,BM,Federal
+412.975000,0.00000,,"Coast Guard",Hawaii,"Station Hilo Ch. 1/Sector Honolulu","USCG 412.975","293 NAC",,P25,BM,Federal
+412.975000,0.00000,,"Coast Guard",Honolulu,"Net 409","USCG Net 409","293 NAC",,P25,BM,Federal
+433.450000,0.00000,,Simplex,Hawaii,"UHF Simplex 4","UHF Simplex 4","CC 1|TG 99|SL *",,DMR,M,Ham
+441.000000,0.00000,,Simplex,Hawaii,"UHF Simplex 1","UHF Simplex 1","CC 1|TG 99|SL *",,DMR,M,Ham
+442.000000,0.00000,KH6HPZ,"70cm Voice Systems",Honolulu,"Diamond head","Diamond head",,,FM,RM,Ham
+442.000000,0.00000,,"70cm Repeaters",Hawaii,Hilo,"Hilo 442.0","100.0 PL",,FM,RM,Ham
+442.025000,0.00000,WH6PD,"70cm Voice Systems",Honolulu,Ewa,Ewa,"103.5 PL",,FM,RM,Ham
+442.125000,0.00000,KH6WOW,"70cm Voice Systems",Honolulu,Kapolei,Kapolei,"100.0 PL",,FM,RM,Ham
+442.150000,0.00000,,"70cm Repeaters",Hawaii,"Kulani Mauka",KulaniMauka,"100.0 PL",,FM,RM,Ham
+442.150000,0.00000,WH6CTX,"70cm Voice Systems",Honolulu,Waianae,Waianae,"88.5 PL",,FM,RM,Ham
+442.175000,0.00000,KH6XP,"70cm Voice Systems",Honolulu,Mililani,Mililani,"103.5 PL",,FM,RM,Ham
+442.250000,0.00000,KH6S,"Amateur Radio",Kauai,KH6S,KH6S,"100.0 PL",,FMN,RM,Ham
+442.250000,0.00000,n/a,"Hawaii Brandmeister",Hawaii,"Site: 001 Waimea",n/a,n/a,n/a,DMR,RM,TRS
+442.275000,447.27500,KH6COM,"70cm Repeaters",Hawaii,Kahua,"KH6COM 70cm",,"136.5 PL",FM,RM,Ham
+442.300000,0.00000,WH6DIG,"70cm Voice Systems",Honolulu,Honolulu,"Honolulu 442.3","103.5 PL",,FM,RM,Ham
+442.325000,0.00000,KH6XK,"70cm Voice Systems",Honolulu,Aiea,Aiea,"103.5 PL",,FM,RM,Ham
+442.325000,0.00000,WH6TAT,"70cm Repeaters",Hawaii,"Captain Cook","CaptCook 442","100.0 PL",,FM,RM,Ham
+442.400000,447.40000,NH6AR,"70cm Repeaters",Hawaii,"U of N: Kona Campus","UofN-Kona CERT","88.5 PL",,FM,RM,Ham
+442.450000,0.00000,KH7O,"70cm Voice Systems",Honolulu,Honolulu,"Honolulu 45","167.9 PL",,FM,RM,Ham
+442.475000,0.00000,KH7O,"70cm Voice Systems",Honolulu,Honolulu,"Honolulu 475","103.5 PL",,FM,RM,Ham
+442.525000,0.00000,AH6CP,"70cm Voice Systems",Honolulu,Waikiki,"Waikiki 525","103.5 PL",,FM,RM,Ham
+442.575000,0.00000,n/a,"Hawaii Brandmeister",Hawaii,"Site: 001 Mauna Loa",n/a,n/a,n/a,DMR,RM,TRS
+442.625000,0.00000,KH7HO,"70cm Voice Systems",Honolulu,"North Shore","North Shore","88.5 PL",,FM,RM,Ham
+442.650000,0.00000,NH6NN,"70cm Voice Systems",Honolulu,Kaneohe,Kaaawa,,,FM,RM,Ham
+442.700000,0.00000,WH6DHT,"70cm Voice Systems",Honolulu,Leeward,"Leeward 442",,,FM,RM,Ham
+442.775000,0.00000,NH6XO,"70cm Voice Systems",Honolulu,Kaimuki,"Kaimuki 77","123.0 PL",,FM,RM,Ham
+442.850000,0.00000,AH6GR,"Amateur Radio",Maui,"Haleakala, Maui - Hawaii Statewide","AH6GR Haleakala","CC 1|TG 3115|SL 1",,DMR,RM,Ham
+442.850000,0.00000,n/a,"Hawaii Brandmeister",Hawaii,"Site: 001 Haleakala",n/a,n/a,n/a,DMR,RM,TRS
+442.925000,0.00000,NH6XO,"70cm Voice Systems",Honolulu,Kaneohe,"Kaneohe 925","123.0 PL",,FM,RM,Ham
+442.975000,0.00000,WH6Q,"70cm Voice Systems",Honolulu,WIDE,WIDE,,,FM,RM,Ham
+443.100000,0.00000,NH6WP,"70cm Voice Systems",Honolulu,Kaimuki,"Kaimuki 443",,,FM,RM,Ham
+443.200000,0.00000,AH6BZ,"70cm Voice Systems",Honolulu,Honolulu,"Honolulu 443.2",,,FM,RM,Ham
+443.200000,0.00000,AH6OO,"70cm Voice Systems",Honolulu,"Honolulu, Oahu - Hawaii Statewide","AH6OO Honolulu","CC 1|TG 3115|SL 1",,DMR,RM,Ham
+443.300000,0.00000,WH6F,"70cm Voice Systems",Honolulu,Honolulu,"Honolulu 443.3",,,FM,RM,Ham
+443.400000,0.00000,n/a,"KH7MS DMR Net",Hawaii,"Site: 011 Upper Ocean View",n/a,n/a,n/a,DMR,RM,TRS
+443.400000,448.40000,KH7MS,"70cm Repeaters",Hawaii,"Ocean View - Local (TG 2)","Ocean View 2",,,DMR,RM,Ham
+443.400000,0.00000,KH6HFD,"70cm Voice Systems",Honolulu,Mokuleia,"Mokuleia 40","114.8 PL",,FM,RM,Ham
+443.400000,448.40000,KH7MS,"70cm Repeaters",Hawaii,"Ocean View/Captain Cook/Pahala","OC/CC/Pahala Ana","77.0 PL","77.0 PL",FM,RM,Ham
+443.400000,0.00000,n/a,"KH7MS DMR Net",Hawaii,"Site: 012 Volcano Village",n/a,n/a,n/a,DMR,RM,TRS
+443.400000,448.40000,KH7MS,"70cm Repeaters",Hawaii,"Ocean View - Hawaii Statewide (CC1: TG 3115)","Ocean View 3115",,,DMR,RM,Ham
+443.400000,448.40000,KH7MS,"70cm Repeaters",Hawaii,"Ocean View","Ocean View P25","293 NAC",,P25,RM,Ham
+443.400000,448.40000,KH7MS,"70cm Repeaters",Hawaii,"North Kona / Na'alehu repeater","N Kona","100.0 PL","100.0 PL",FM,RM,Ham
+443.425000,0.00000,KH6HFD,"70cm Voice Systems",Honolulu,"Round Top","Round Top 425","114.8 PL",,FM,RM,Ham
+443.450000,0.00000,KH6OJ,"70cm Voice Systems",Honolulu,Honolulu,"Honolulu 450","103.5 PL",,FM,RM,Ham
+443.475000,0.00000,KH6HFD,"70cm Voice Systems",Honolulu,Manawahua,"Manawahua 475","88.5 PL",,FM,RM,Ham
+443.475000,448.47500,WB6EGR,"70cm Repeaters",Hawaii,Kailua-Kona,Kailua-Kona,"100.0 PL","100.0 PL",FM,RM,Ham
+443.475000,0.00000,KH6HFD,"70cm Voice Systems",Honolulu,Kaaawa,Kaaawa,"88.5 PL",,FM,RM,Ham
+443.550000,0.00000,KH6HFD,"70cm Voice Systems",Honolulu,Manawahua,"Manawahua 55","114.8 PL",,FM,RM,Ham
+443.600000,0.00000,KH6HFD,"70cm Voice Systems",Honolulu,Waimanalo,"Waimanalo 325","88.5 PL",,FM,RM,Ham
+443.600000,0.00000,KH6HFD,"70cm Voice Systems",Honolulu,Mokuleia,"Mokuleia 60","88.5 PL",,FM,RM,Ham
+443.625000,448.62500,WB6EGR,"70cm Repeaters",Hawaii,"Mauna Kea Mt.","MaunaKea 440","100.0 PL","100.0 PL",FM,RM,Ham
+443.650000,0.00000,,"70cm Repeaters",Hawaii,"Ocean View","Ocean View","100.0 PL",,FM,RM,Ham
+443.650000,448.65000,KH6BFD,"70cm Repeaters",Hawaii,"Koloko Peak","Koloko 440","100.0 PL","100.0 PL",FM,RM,Ham
+443.725000,0.00000,KH7HO,"70cm Voice Systems",Honolulu,Kahuku,Kahuku,"88.5 PL",,FM,RM,Ham
+443.775000,0.00000,NH6XO,"70cm Voice Systems",Honolulu,"Round Top","Round Top 775","123.0 PL",,FM,RM,Ham
+443.825000,448.82500,,"Kauai Amateur Radio Club",Kauai,"Mt. Kahili (South)","KARC Mt. Kahili","118.8 PL",,FM,RM,Ham
+443.825000,0.00000,KH6HFD,"70cm Voice Systems",Honolulu,"Round Top","Round Top","88.5 PL",,FM,RM,Ham
+443.850000,0.00000,WH6FUW,"70cm Repeaters",Hawaii,"Ocean View","WH6FUW 443.85","100.0 PL",,FM,RM,Ham
+443.925000,0.00000,NH6XO,"Amateur Radio",Maui,"Haleakala, Maui","NH6XO HaleakalaD","BAD NAC",,P25,RM,Ham
+443.925000,0.00000,NH6XO,"Amateur Radio",Maui,"Haleakala, Maui","NH6XO HaleakalaA","123.0 PL",,FM,RM,Ham
+443.975000,0.00000,KH7HO,"70cm Voice Systems",Honolulu,Kailua,"Kailua 975","88.5 PL",,FM,RM,Ham
+444.000000,449.00000,WB6EGR,"70cm Repeaters",Hawaii,"Koloko Peak","Koloko TRBO",,,DMR,RM,Ham
+444.000000,0.00000,NH6WP,"70cm Voice Systems",Honolulu,Honolulu,"Honolulu 444",,,FM,RM,Ham
+444.050000,0.00000,KH6OCD,"70cm Voice Systems",Honolulu,Honolulu,"Honolulu 05",,,FM,RM,Ham
+444.100000,0.00000,WH6CZB,"70cm Voice Systems",Honolulu,"Mauna Kapu","Mauna Kapu",,,FM,RM,Ham
+444.125000,0.00000,KH6KL,"70cm Repeaters",Hawaii,"Hilo, Hawaii - Hawaii Statewide","KH6KL Hilo","CC 1|TG 3115|SL 1",,DMR,RM,Ham
+444.125000,0.00000,n/a,"Hawaii Brandmeister",Hawaii,"Site: 001 Hilo, Kaumana City",n/a,n/a,n/a,DMR,RM,TRS
+444.150000,0.00000,WH6CZB,"70cm Voice Systems",Honolulu,Kailua,"Kailua 15","88.5 PL",,FM,RM,Ham
+444.150000,449.15000,KH7MS,"70cm Repeaters",Hawaii,"South Kona repeater","S Kona","100.0 PL","100.0 PL",FM,RM,Ham
+444.200000,0.00000,AH6DX,"70cm Repeaters",Hawaii,"Na'alehu, Hawaii","AH6DX Na'alehu",,,P25,BM,Ham
+444.200000,0.00000,n/a,"Hawaii Brandmeister",Hawaii,"Site: 001 Kailua-Kona, Kalaoa",n/a,n/a,n/a,DMR,RM,TRS
+444.200000,0.00000,WH6DEW,"70cm Repeaters",Hawaii,"Kailua Kona, Hawaii - Hawaii Statewide","WH6DEW KailuaKon","CC 1|TG 3115|SL 1",,DMR,RM,Ham
+444.200000,0.00000,,"70cm Repeaters",Hawaii,Na'alehu,Na'alehu,"100.0 PL",,FM,RM,Ham
+444.275000,0.00000,,"70cm Repeaters",Hawaii,Hilo,"Hilo 444.275","88.5 PL",,FM,RM,Ham
+444.300000,0.00000,AH6CP,"70cm Voice Systems",Honolulu,Kaimuki,"Kailua 30","103.5 PL",,FM,RM,Ham
+444.325000,0.00000,AH6CP,"70cm Voice Systems",Honolulu,Waimanalo,"Waimanalo 325","103.5 PL",,FM,RM,Ham
+444.350000,0.00000,AH6CP,"70cm Voice Systems",Honolulu,Honolulu,"Honolulu 350","103.5 PL",,FM,RM,Ham
+444.375000,0.00000,KH6HFD,"70cm Voice Systems",Honolulu,Waimanalo,"Waimanalo 375","114.8 PL",,FM,RM,Ham
+444.400000,0.00000,AH6CP,"70cm Voice Systems",Honolulu,Maunakapu,Maunakapu,"103.5 PL",,FM,RM,Ham
+444.400000,449.40000,KH7MS,"70cm Repeaters",Hawaii,Pepeekeo,Pepeekeo,"CC 1|TG *|SL *",,DMR,RM,Ham
+444.400000,0.00000,n/a,"KH7MS DMR Net",Hawaii,"Site: 008 Kailua-Kona",n/a,n/a,n/a,DMR,RM,TRS
+444.400000,0.00000,n/a,"KH7MS DMR Net",Hawaii,"Site: 009 Pepeekeo",n/a,n/a,n/a,DMR,RM,TRS
+444.425000,0.00000,KH6HFD,"70cm Voice Systems",Honolulu,"Round Top","Round Top 444","114.8 PL",,FM,RM,Ham
+444.475000,0.00000,WH7MN,"70cm Voice Systems",Honolulu,Honolulu,"Honolulu 475","77.0 PL",,FM,RM,Ham
+444.500000,0.00000,WH6CZB,"70cm Voice Systems",Honolulu,Kakaako,Kakaako,,,FM,RM,Ham
+444.525000,0.00000,AH6CP,"70cm Voice Systems",Honolulu,Honolulu,"Honolulu 444.525","103.5 PL",,FM,RM,Ham
+444.550000,0.00000,KH6OCD,"70cm Voice Systems",Honolulu,Mokuleia,"Mokuleia 55","114.8 PL",,FM,RM,Ham
+444.575000,0.00000,AH6Q,"70cm Voice Systems",Honolulu,Waikiki,"Waikiki 575",,,FM,RM,Ham
+444.600000,0.00000,KH7HO,"70cm Voice Systems",Honolulu,Kailua,"Kailua 60","88.5 PL",,FM,RM,Ham
+444.675000,0.00000,n/a,"Hawaii Brandmeister",Hawaii,"Site: 001 Kaloko, Kailua-Kona",n/a,n/a,n/a,DMR,RM,TRS
+444.700000,0.00000,WH6DWF,"70cm Voice Systems",Honolulu,Waikiki,"Waikiki 70","118.8 PL",,FM,RM,Ham
+444.725000,449.72500,WH6FM,"70cm Repeaters",Hawaii,"Hilo P25 repeater","Hilo P25","BAD NAC","BAD NAC",P25,RM,Ham
+444.725000,449.72500,WH6FM,"70cm Voice Systems",Honolulu,"Metro Honolulu P25","444.725 P25","BAD NAC","BAD NAC",P25,RM,Ham
+444.725000,449.72500,WH6FM,"70cm Repeaters",Hawaii,"Hilo Analog repeater",Hilo,"123.0 PL","123.0 PL",FM,RM,Ham
+444.725000,449.72500,WH6FM,"70cm Voice Systems",Honolulu,"Metro Honolulu Analog","444.725 Analog","123.0 PL","123.0 PL",FM,RM,Ham
+444.775000,0.00000,NH6XO,"70cm Voice Systems",Honolulu,Kaala,Kaala,"123.0 PL",,FM,RM,Ham
+444.800000,0.00000,NH7QH,"70cm Voice Systems",Honolulu,Leeward,"Leeward 444","171.3 PL",,FM,RM,Ham
+444.850000,0.00000,KH6HFD,"70cm Voice Systems",Honolulu,Honolulu,"Honolulu 85","88.5 PL",,FM,RM,Ham
+444.875000,0.00000,KH6MP,"70cm Voice Systems",Honolulu,Honolulu,"Honolulu 875","123.0 PL",,FM,RM,Ham
+444.900000,0.00000,AH6CP,"70cm Voice Systems",Honolulu,Kaimuki,"Kaimuki 444","103.5 PL",,FM,RM,Ham
+444.925000,0.00000,WH6ECP,"70cm Voice Systems",Honolulu,Honolulu,"Honolulu 925","100.0 PL",,FM,RM,Ham
+444.925000,0.00000,NH6XO,"Amateur Radio",Kauai,"Amateur Radio Repeater Net (Lihue)","NH6XO P25","BAD NAC",,P25,RM,Ham
+444.925000,0.00000,NH6XO,"Amateur Radio",Kauai,"Amateur Radio Repeater Net (Lihue)","NH6XO Analog","123.0 PL",,FMN,RM,Ham
+444.950000,0.00000,n/a,"KH7MS DMR Net",Hawaii,"Site: 007 Honaunau",n/a,n/a,n/a,DMR,RM,TRS
+444.950000,0.00000,WH6DIG,"70cm Voice Systems",Honolulu,Honolulu,"Honolulu 95",,,FM,RM,Ham
+444.950000,0.00000,n/a,"KH7MS DMR Net",Hawaii,"Site: 001 Hilo",n/a,n/a,n/a,DMR,RM,TRS
+444.950000,449.95000,KH7MS,"70cm Repeaters",Hawaii,"Kaumana (Hilo)","Kaumana (Hilo)","CC 1|TG *|SL *",,DMR,RM,Ham
+444.950000,0.00000,n/a,"KH7MS DMR Net",Hawaii,"Site: 003 Pahala",n/a,n/a,n/a,DMR,RM,TRS
+444.950000,0.00000,n/a,"KH7MS DMR Net",Hawaii,"Site: 010 Portable",n/a,n/a,n/a,DMR,RM,TRS
+444.950000,449.95000,KH7MS,"70cm Repeaters",Hawaii,"Ocean View/Pahala/Honaunau","KH7MS YSF",,,YSF,RM,Ham
+444.950000,449.95000,KH7MS,"70cm Repeaters",Hawaii,"Ocean View/Pahala/Honaunau","KH7MS P25","293 NAC",,P25,RM,Ham
+444.950000,0.00000,n/a,"KH7MS DMR Net",Hawaii,"Site: 002 Volcano",n/a,n/a,n/a,DMR,RM,TRS
+444.950000,0.00000,n/a,"KH7MS DMR Net",Hawaii,"Site: 005 Ocean View",n/a,n/a,n/a,DMR,RM,TRS
+444.950000,0.00000,n/a,"KH7MS DMR Net",Hawaii,"Site: 004 Na'alehu",n/a,n/a,n/a,DMR,RM,TRS
+444.950000,449.95000,KH7MS,"70cm Repeaters",Hawaii,Na'Alehu,Na'Alehu,"CC 1|TG *|SL *",,DMR,RM,Ham
+444.950000,449.95000,KH7MS,"70cm Repeaters",Hawaii,"Ocean View (Analog)","OceanVw950 Ana","100.0 PL","100.0 PL",FM,RM,Ham
+446.075000,0.00000,,Simplex,Hawaii,"UHF Simplex 3","UHF Simplex 3","CC 1|TG 99|SL *",,DMR,M,Ham
+446.100000,0.00000,KH7MS,"70cm Repeaters",Hawaii,"Ocean View, Hawaii - Hawaii Statewide","KH7MS Ocean View","CC 1|TG *|SL *",,DMR,RM,Ham
+446.500000,0.00000,,Simplex,Hawaii,"UHF Simplex 2","UHF Simplex 2","CC 1|TG 99|SL *",,DMR,M,Ham
+449.175000,444.17500,,"Kauai Amateur Radio Club",Kauai,"Kalepa Ridge (Not Linked)","KARC KalepaRidge","100.0 PL",,FM,RM,Ham
+451.275000,456.27500,KFN267,"Airports Airline Ground Operations",Statewide,"United Airlines","UAL ","CC 2|TG 30|SL 2",,DMR,RM,Business
+451.275000,456.27500,KFN267,"Airports Airline Ground Operations",Statewide,"United Airlines - Maintenance","UAL Maint","CC 2|TG 40|SL 1",,DMR,RM,Business
+451.287500,456.28750,WQIS345,"Airports Airline Ground Operations",Statewide,"Alaska Airlines","ASA Ops","114.8 PL",,FMN,RM,Business
+451.300000,456.30000,WPLS409,"Businesses Hospitals",Statewide,"Hilo Medical Center - Maintenance","HiloMC Maint 1","CC 12|TG 1|SL *",,DMR,RM,Business
+451.300000,456.30000,WPLS409,"Businesses Hospitals",Statewide,"Hilo Medical Center","Hilo MC 2","CC 12|TG 2|SL *",,DMR,RM,Business
+451.300000,456.30000,WPLS409,"Businesses Hospitals",Statewide,"Hilo Medical Center - Security","HiloMC Sec","CC 12|TG 3|SL *",,DMR,RM,Security
+451.300000,456.30000,WPLS409,"Businesses Hospitals",Statewide,"Hilo Medical Center - Maintenance","HiloMC Maint 4","CC 12|TG 4|SL *",,DMR,RM,Business
+451.325000,456.32500,WPMD569,"Airports Airline Ground Operations",Statewide,"Delta Airlines - Cargo","DAL CARGO","754 DPL",,FMN,RM,Business
+451.375000,456.37500,WPPY864,"Businesses Hotels",Statewide,"Hilton Prince Kuhio - Security","Hilton PK Sec","754 DPL",,FM,RM,Business
+451.418750,456.41875,WRCM256,"Hotels Wailua Bay",Statewide,"Hilton Garden Inn Kauai Wailua Bay","HiltonGarden Inn","40 RAN",,NXDN,RM,Business
+451.425000,456.42500,WPSI334,"Businesses Hotels/Resorts",Statewide,"Club at Hokulia (Kona)",ClubHok451.4,"431 DPL",,FMN,RM,Business
+451.450000,0.00000,WRBT605,"Hawaii, State of",Kauai,"Kauai High School","Kauai High Sch","131.8 PL",,FMN,BM,Schools
+451.450000,456.45000,WQVI444,"Businesses Hotels/Resorts",Statewide,"Hilton Waikoloa Village (Kona)",HiltonWai451,"411 DPL",,FMN,RM,Business
+451.475000,0.00000,n/a,"Vision Enterprises, Inc.",Maui,"Site: 001 Kula",n/a,n/a,n/a,LTR,RM,TRS
+451.487500,0.00000,WQIE623,"Businesses Hotels",Statewide,"Aqua Palms and Spa Hotel (Aqua Palms Waikiki) - Hskpng","APW Hskpng","162 DPL",,FM,M,Business
+451.500000,456.50000,WREM340,"Airports Airline Ground Operations",Statewide,"Southwest Airlines","SWA Ops","CC 7|TG 101|SL *",,DMR,RM,Business
+451.587500,0.00000,WQPM796,"Businesses Energy",Statewide,"Aloha Petroleum - Honolulu Dock Operations","ALOHA PET DOCK","CC 3|TG 300|SL 1",,DMR,M,Business
+451.600000,456.60000,WPSI334,"Businesses Hotels/Resorts",Statewide,"Club at Hokulia (Kona)",ClubHok451.6,"023 DPL",,FMN,RM,Business
+451.650000,0.00000,n/a,"Vision Enterprises, Inc.",Maui,"Site: 001 Kula",n/a,n/a,n/a,LTR,RM,TRS
+451.675000,456.67500,WQDX860,"Businesses Residential / Condos",Statewide,Hokua,Hokua,"244 DPL",,FMN,RM,Business
+451.687500,456.68750,WQRW378,"Airports Airline Ground Operations",Statewide,"Air Service Hawaii","AIR SERVICE","013 RAN",,NXDN,RM,Business
+451.725000,0.00000,n/a,"Vision Enterprises, Inc.",Maui,"Site: 002 Lahaina",n/a,n/a,n/a,LTR,RM,TRS
+451.750000,456.75000,KRU416,"Businesses Energy",Statewide,"Island Energy Services- Ch.1","IES HNL 1","CC 15|TG 111|SL 1",,DMR,RM,Business
+451.775000,456.77500,WQTK659,"Airports Airline Ground Operations",Statewide,"Aloha Air Cargo","AHH Ops",,,NXDN,RM,Business
+451.837500,0.00000,n/a,"Aston Kaanapali Shores Resort",Maui,"Site: 001 Hotel",n/a,n/a,n/a,LTR,RM,TRS
+451.850000,456.85000,WQQK862,"Businesses Retail Shopping",Statewide,"Queen Ka'ahumanu Center Mall 2","QK Centerl Mall2","77.0 PL",,FMN,RM,Business
+451.862500,456.86250,WREB905,"Airports Airline Operations",Statewide,"Southwest Airlines - Gate Agents","SWA AGENTS","CC 6|TG 104|SL 1",,DMR,RM,Business
+451.875000,456.87500,WQAN989,"Businesses Utilities",Statewide,"Hawaii Electric Light Co. Hilo","HELC HiloRpt","110.9 PL",,FMN,RM,Utilities
+451.900000,456.90000,WPVP645,"Businesses Hotels",Statewide,"DoubleTree Alana",DoubleTree,"732 DPL",,FM,RM,Business
+451.900000,0.00000,n/a,"Vision Enterprises, Inc.",Maui,"Site: 001 Kula",n/a,n/a,n/a,LTR,RM,TRS
+451.931250,0.00000,n/a,"Anderson Communications",Honolulu,"Site: 003 Honolulu",n/a,n/a,n/a,NXDN,RM,TRS
+451.950000,456.95000,WPTU648,"Businesses Kaanapali",Statewide,"Hyatt - Engingeering/Maintenance","Hyatt Eng/Mt",,,FM,RM,Business
+452.000000,457.00000,WQXN649,"Businesses Retail",Statewide,"International Market Place - Housekeeping","Intl Mrkt Hspkng","26 RAN",,NXDN,RM,Business
+452.000000,457.00000,WQUC705,"Hawaii Public Schools",Hawaii,"Waiakea High School","Waiakea HS","351 DPL",,FMN,RM,Schools
+452.050000,0.00000,n/a,"Mauni Lani Resort",Hawaii,"Site: 001 Hotel",n/a,n/a,n/a,LTR,RM,TRS
+452.050000,0.00000,KUA365,"Businesses Taxis and Shuttles",Statewide,"Charley's Taxi",CharleysTaxi,"122 DPL",,FM,RM,Business
+452.062500,457.06250,,"Airports Airline Operations",Statewide,"Southwest Airlines",SWA,"CC 6|TG 103|SL 1",,DMR,RM,Business
+452.087500,0.00000,n/a,"Southwest Airlines",Honolulu,"Site: 001 HNL Airport",n/a,n/a,n/a,DMR,RM,TRS
+452.125000,0.00000,n/a,"Vision Enterprises, Inc.",Maui,"Site: 001 Kula",n/a,n/a,n/a,LTR,RM,TRS
+452.175000,457.17500,,"Businesses Residential / Condos",Statewide,"Aouo 1001 Queen-Ae'o","Aouo ","CC 11|TG 1001|SL 1",,DMR,RM,Business
+452.175000,0.00000,n/a,"Vision Enterprises, Inc.",Maui,"Site: 002 Lahaina",n/a,n/a,n/a,LTR,RM,TRS
+452.200000,0.00000,KUA365,"Businesses Taxis and Shuttles",Statewide,"Charley's Taxi",CharleysTaxi,"122 DPL",,FM,RM,Business
+452.212500,0.00000,n/a,"Four Seasons Resort Maui",Maui,"Site: 001 Wailea",n/a,n/a,n/a,DMR,RM,TRS
+452.212500,0.00000,n/a,"Anderson Communications",Honolulu,"Site: 001 Mauna Kapu",n/a,n/a,n/a,NXDN,RM,TRS
+452.225000,0.00000,n/a,"Mauni Lani Resort",Hawaii,"Site: 001 Hotel",n/a,n/a,n/a,LTR,RM,TRS
+452.250000,457.25000,WPSI334,"Businesses Hotels/Resorts",Statewide,"Club at Hokulia (Kona)",ClubHok452.2,"546 DPL",,FMN,RM,Business
+452.262500,0.00000,n/a,"University of Hawaii",Honolulu,"Site: 002 Leeward CC",n/a,n/a,n/a,NXDN,RM,TRS
+452.262500,457.26250,WQKT568,"Businesses Hotels",Statewide,"Trump International Hotel Waikiki - Housekeeping","Trump Hskpng","CC 1|TG 3|SL 1",,DMR,RM,Business
+452.300000,0.00000,KYK580,"Businesses Taxis and Shuttles",Statewide,"Signature Cab Holdings",SignatureCab,CSQ,,FM,RM,Business
+452.300000,457.30000,WQXG797,"Airports Airport Operations",Statewide,"Securitas Kahului Airport",Securitas,"311 DPL",,FMN,RM,Security
+452.337500,0.00000,n/a,"Kamehameha Schools",Honolulu,"Site: 001 Honolulu",n/a,n/a,n/a,DMR,RM,TRS
+452.350000,457.35000,WPTU648,"Businesses Kaanapali",Statewide,"Hyatt - Housekeeping","Hyatt Hskpng",,,FM,RM,Business
+452.437500,457.43750,WQJQ360,"Businesses Hospitals",Statewide,"Hawaii Hospital Education and Research Foundation",HHE&RF,"CC 1|TG *|SL 1",,DMR,RM,Business
+452.450000,457.45000,WQUD638,"Hawaii Public Schools",Hawaii,"Hilo High School","Hilo HS","251 DPL",,FMN,RM,Schools
+452.450000,0.00000,n/a,"Enterprise Rent A Car",Honolulu,"Site: 001 HNL Airport",n/a,n/a,n/a,DMR,RM,TRS
+452.450000,0.00000,n/a,"Mauni Lani Resort",Hawaii,"Site: 001 Hotel",n/a,n/a,n/a,LTR,RM,TRS
+452.487500,0.00000,n/a,"Southwest Airlines",Honolulu,"Site: 001 HNL Airport",n/a,n/a,n/a,DMR,RM,TRS
+452.500000,457.50000,WQQK862,"Businesses Retail Shopping",Statewide,"Queen Ka'ahumanu Center Mall 1","QK Centerl Mall1","77.0 PL",,FMN,RM,Business
+452.625000,0.00000,n/a,"Aston Kaanapali Shores Resort",Maui,"Site: 001 Hotel",n/a,n/a,n/a,LTR,RM,TRS
+452.625000,0.00000,n/a,"Kamehameha Schools",Honolulu,"Site: 001 Honolulu",n/a,n/a,n/a,DMR,RM,TRS
+452.625000,457.62500,KTM736,"Hawaii Public Schools",Hawaii,"Kamehameha Schools-Keaau",KamehamSchls,"131.8 PL",,FMN,RM,Schools
+452.675000,0.00000,n/a,"Mauni Lani Resort",Hawaii,"Site: 001 Hotel",n/a,n/a,n/a,LTR,RM,TRS
+452.700000,457.70000,WPNW328,"Businesses Kaanapali",Statewide,"Hyatt - Security","Hyatt Sec",,,FM,RM,Security
+452.712500,457.71250,WPMV231,"Airports Airline Ground Operations",Statewide,"United Pacel Service (UPS) - Operations",UPS,"115 DPL",,FM,RM,Business
+452.750000,0.00000,n/a,"Four Seasons Resort Maui",Maui,"Site: 001 Wailea",n/a,n/a,n/a,DMR,RM,TRS
+452.800000,457.80000,WQGY960,"Businesses Hotels",Statewide,"Ambassador Waikiki Hotel",Ambassador,"151.4 PL",,FM,RM,Business
+452.800000,0.00000,WQAW947,"Airports Misc Airport Services",Statewide,"Wiki Wiki Shuttle Bus","WW Shuttle",,,FM,BM,Transportation
+452.850000,0.00000,n/a,"Vision Enterprises, Inc.",Maui,"Site: 001 Kula",n/a,n/a,n/a,LTR,RM,TRS
+452.850000,457.85000,WPTU648,"Businesses Kaanapali",Statewide,"Hyatt - Housekeeping","Hyatt Hskpng",,,FM,RM,Business
+452.862500,0.00000,WQJW435,"Airports Airline Ground Operations",Statewide,"Mokulele Airlines - Operations","MHO Ops","423 DPL",,FM,M,Business
+452.887500,457.88750,WQXU466,"Businesses Hotels",Statewide,"Hilton Garden Inn Waikiki Beach - Maintenance","HiltonGIWB Maint","12 RAN",,NXDN,RM,Business
+452.887500,0.00000,n/a,"Southwest Airlines",Honolulu,"Site: 001 HNL Airport",n/a,n/a,n/a,DMR,RM,TRS
+452.975000,0.00000,n/a,"Anderson Communications",Honolulu,"Site: 003 Honolulu",n/a,n/a,n/a,NXDN,RM,TRS
+453.012500,0.00000,n/a,"Starcomm Wireless, Inc.",Maui,"Site: 001 Kahului",n/a,n/a,n/a,LTR,RM,TRS
+453.050000,458.05000,WPZ456,"Hawaii Public Schools",Hawaii,"Kealakehe High School Security","KealakHS Sec","82.5 PL",,FMN,RM,Security
+453.050000,458.05000,WPPZ456,"Hawaii Public Schools",Hawaii,"Kealakehe High School 1 Operations",KealakHS1Ops,"123.0 PL",,FMN,RM,Schools
+453.162500,458.16250,WQGU218,"State Civil Defense UHF-Band",Statewide,"Emergency & Disaster Services Coordination","Civ Def 1625",,,FMN,RM,Multi-Talk
+453.187500,458.18750,WQGU218,"State Civil Defense UHF-Band",Statewide,"Emergency & Disaster Services Coordination","Civ Def 1875",,,FMN,RM,Multi-Talk
+453.237500,458.23750,WQMQ646,"Law Enforcement",Maui,"Department of Health Medcom",DPS,,,P25,RM,Hospital
+453.250000,458.25000,WQMQ646,"Public Safety",Maui,"AMR EMS Dispatch Simulcast Haleakala","AMR EMS Disp 1","431 DPL",,FMN,RM,"EMS Dispatch"
+453.250000,458.25000,WQMQ646,"Law Enforcement",Maui,"Department of Health Medcom",DPS,,,FM,RM,Hospital
+453.250000,458.25000,WGZ747,"Hawaii, State of",Kalawao,"Emergency Management","Kala EM",,,FM,RM,"Emergency Ops"
+453.300000,458.30000,,"Hawaii, State of",Kalawao,"State Sheriff","Kala Sheriff",,,FM,RM,"Law Dispatch"
+453.400000,458.40000,WGZ747,"Law Enforcement",Maui,"Department of Health Medcom",DPS,,,FM,RM,Hospital
+453.400000,458.40000,KYB912,"Hawaii, State of",Kauai,"Department of Health: EMS Dispatch","DOH EMS DISP","710 NAC",,P25,RM,"EMS Dispatch"
+453.400000,458.40000,WGZ747,"Public Safety",Maui,"Field-to-ER Haleakala","AMR EMS ER 1B","750 NAC",,P25,RM,EMS-Talk
+453.400000,0.00000,n/a,"State of Hawaii: Department of Health",Kauai,"Site: 001 Simulcast",n/a,n/a,n/a,"Project 25",RM,TRS
+453.400000,458.40000,,"Fire / EMS",Hawaii,"EMS-to-Hospital (MEDICOM)","HC EMS-Hosp","750 NAC",,P25,RM,Hospital
+453.437500,458.23750,WQMQ646,"Law Enforcement",Maui,"Department of Health Medcom",DPS,,,P25,RM,Hospital
+453.575000,458.57500,WQFX421,"Law Enforcement",Maui,"Safety & Security","Safety & Sec",,,FM,RM,"Law Dispatch"
+453.575000,0.00000,,"Hawaii Public Schools",Hawaii,"Konawaena Elementary School","Konawaena ES",,,FMN,BM,Schools
+453.575000,458.57500,WQFX421,"Lahainaluna High School",Maui,"School Ops","LHS Ops",,,FMN,RM,Schools
+453.600000,458.60000,KNJW951,"Department of Transportation (DOT)",Hawaii,"State Highways 1: Dispatch","HAWAII 1","110.9 PL",,FM,RM,"Public Works"
+453.625000,0.00000,,"Hawaii Public Schools",Hawaii,"Kealakehe High School",Kealakehe625,,,FMN,BM,Schools
+453.625000,458.62500,KNEK518,"University of Hawaii - Leeward Community College",Honolulu,"Leeward Community College - Security Operations [Encrypted]","LCC Security",,,NXDNE,RM,Schools
+453.625000,458.62500,KNEK518,"University of Hawaii - Manoa",Honolulu,"University of Hawaii - Leeward CC Campus Security","Leeward CC Sec",,,NXDN,RM,Security
+453.750000,458.75000,WNLA340,"Miscellaneous State Services",Maui,"State Government - Wailuku (Maui Memorial Medical Center?)","SG Wailuku",,,FM,RM,"Public Works"
+453.900000,458.90000,WQMQ646,"Law Enforcement",Maui,"Department of Health Medcom",DPS,,,P25,RM,Hospital
+453.900000,0.00000,n/a,"State of Hawaii: Department of Health",Kauai,"Site: 001 Simulcast",n/a,n/a,n/a,"Project 25",RM,TRS
+453.900000,458.90000,KYB912,"Hawaii, State of",Kauai,"Department of Health: EMS Tactical","DOH EMS TAC","710 NAC",,P25,RM,EMS-Tac
+456.487500,0.00000,,"Businesses Hotels",Statewide,"Aqua Palms and Spa Hotel (Aqua Palms Waikiki) - Engineering","APW Eng","162 DPL",,FM,M,Business
+457.487500,0.00000,WQVC487,"University of Hawaii - Kapiolani Community College",Honolulu,"Kapiolani Community College - Operations 2","KCC Ops 2",,,FMN,M,Schools
+457.662500,0.00000,,"Businesses Retail",Statewide,"Servco Auto Leeward (Waipahu) Service Department","Servco Auto",,,FMN,M,Business
+457.787500,0.00000,WQVC487,"University of Hawaii - Kapiolani Community College",Honolulu,"Kapiolani Community College - Operations 3","KCC Ops 3",,,FMN,M,Schools
+458.062500,0.00000,WOFH280,"University of Hawaii - Honolulu Community College",Honolulu,"Honolulu Community College - Operations","HCC Ops",,,FMN,M,Schools
+458.650000,0.00000,WQGU218,"State Civil Defense UHF-Band",Statewide,"Emergency & Disaster Services Coordination","Civ Def 650",,,FMN,M,Multi-Talk
+460.650000,465.65000,KFN267,"Airports Airline Ground Operations",Statewide,"United Airlines - Ramp Operations","UAL Ramp","CC 2|TG 50|SL 1",,DMR,RM,Business
+460.650000,465.65000,KFN267,"Airports Airline Ground Operations",Statewide,"United Airlines",UAL,"CC 2|TG 60|SL 2",,DMR,RM,Business
+460.662500,465.66250,WQWR288,"Airports Airline Ground Operations",Statewide,"Philippine Airlines","PAL ","CC 1|TG 16777184|SL 1",,DMR,RM,Business
+460.675000,465.67500,WQNU525,"Airports Airline Ground Operations",Statewide,"United Airlines","UAL 111","CC 2|TG 111|SL *",,DMR,RM,Business
+460.675000,465.67500,WRW935,"Airports Airline Ground Operations",Statewide,"Delta Airlines - Customer Service","DAL CS","192.8 PL",,FM,RM,Business
+460.675000,465.67500,WQNU525,"Airports Airline Ground Operations",Statewide,"United Airlines","UAL 222","CC 2|TG 222|SL *",,DMR,RM,Business
+460.700000,465.70000,"WPMN972	","Airports Airline Ground Operations",Statewide,"United Airlines","UAL Ops",,,DMR,RM,Business
+460.725000,465.72500,KFN267,"Airports Airline Ground Operations",Statewide,"United Airlines - Customer Service","UAL CS","CC 2|TG 10|SL 1",,DMR,RM,Business
+460.725000,465.72500,WPMM226,"Airports Airline Operations",Statewide,"United Airlines","United Ground","CC 9|TG 111|SL 1",,DMR,RM,Business
+460.725000,465.72500,KFN267,"Airports Airline Ground Operations",Statewide,"United Airlines - Customer Service","UAL CS","CC 2|TG 20|SL 2",,DMR,RM,Business
+460.750000,465.75000,WRZ761,"Airports Airline Ground Operations",Statewide,"Delta Airlines - Ramp Operations","DAL Ramp","114.8 PL",,FM,RM,Business
+460.775000,465.77500,WQKI707,"Airports Airline Ground Operations",Statewide,"Delta Airlines","Delta Ops","CC 7|TG 1888|SL 1",,DMRE,RM,Business
+460.825000,465.82500,WQK987,"Airports Airline Ground Operations",Statewide,"American Airlines","AAL Ops","CC 7|TG 1333|SL 1",,DMRE,RM,Business
+460.850000,465.85000,KJV692,"Airports Airline Ground Operations",Statewide,"Hawaiian Airlines","HAL Ops","141.3 PL",,FMN,RM,Business
+460.875000,465.87500,WPHU383,"Airports Airline Ground Operations",Statewide,"Delta Airlines - Maintenance","DAL Maint","114.8 PL",,FM,RM,Business
+460.900000,0.00000,WSA514,"Hotels Princeville",Statewide,"Cliffs at Princeville",CliffsPrince,"103.5 PL",,FM,RM,Business
+461.025000,466.02500,WNFM224,"Hawaii Public Schools",Hawaii,"Hawaii Preparatory Acedemy-Kamuela","Hawaii Prep0","136.5 PL",,FMN,RM,Schools
+461.050000,466.05000,WPTL335,"Businesses Kaanapali",Statewide,"Kaanapali Beach Resort","Beach Res 05",,,FM,RM,Business
+461.100000,466.10000,WZL613,"Businesses Hotels",Statewide,"Pacific Beach Hotel Waikiki - Housekeeping","Pac Beach Hskpng","CC 4|TG 300|SL 2",,DMR,RM,Business
+461.100000,466.10000,KA36622,"Businesses Hotels",Statewide,"Hale Koa - Security","Hale Koa Sec","123.0 PL",,FM,RM,Business
+461.100000,466.10000,WNFM224,"Hawaii Public Schools",Hawaii,"Hawaii Preparatory Academy-Kamuela","Hawaii Prep1","546 DPL",,FMN,RM,Schools
+461.100000,466.10000,,"Businesses Others",Statewide,"Wailea Marriott - Main Operations","Wailea Marriott1","CC 8|TG 7|SL 1",,DMR,RM,Business
+461.112500,0.00000,WNSH223,"Airports Airline Ground Operations",Statewide,FedEx,FDX,"CC 10|TG 1|SL 1",,DMR,M,Business
+461.125000,0.00000,n/a,"Enterprise Rent-a-Car",Kauai,"Site: 001 Lihue",n/a,n/a,n/a,DMR,RM,TRS
+461.150000,466.15000,KAY738,"Airports Airline Ground Operations",Statewide,"Qantas Airways - Operations","QFA Ops","179.9 PL",,FM,RM,Business
+461.175000,466.17500,WPTT622,"Airports Airline Ground Operations",Statewide,"China Airlines","CAL OPS","131.8 PL",,FMN,RM,Business
+461.225000,466.25000,WNUH480,"Businesses Taxi Services",Statewide,"Kapalua Cab and Tour Dispatch","Kapalua Cab",,,FM,RM,Transportation
+461.225000,0.00000,n/a,"Four Seasons Resort Maui",Maui,"Site: 001 Wailea",n/a,n/a,n/a,DMR,RM,TRS
+461.237500,466.23750,,"Businesses Residential / Condos",Statewide,"Sunset Lakeview - Security",SunsetLakevw,"103.5 PL",,FMN,RM,Security
+461.275000,466.27500,WPII336,"Businesses Kaanapali",Statewide,"Kapalua Land Company - Security","Kap LC Sec",,,FM,RM,Security
+461.300000,0.00000,n/a,"Four Seasons Resort Maui",Maui,"Site: 001 Wailea",n/a,n/a,n/a,DMR,RM,TRS
+461.300000,0.00000,WQUK621,"Businesses Hospitals",Statewide,"Wilcox Medical Center - Maintenance","Wilcox MC Maint","131 DPL",,FMN,BM,Business
+461.325000,466.32500,WNQQ438,"Businesses Hotels/Resorts",Statewide,"Prince Kuhio Plaza - Security","Prince Kuhi","532 DPL",,FMN,RM,Security
+461.325000,0.00000,n/a,"The Fairmont Orchid Hawaii",Hawaii,"Site: 001 Orchid",n/a,n/a,n/a,DMR,RM,TRS
+461.350000,466.35000,WPTL335,"Businesses Kaanapali",Statewide,"Kaanapali Beach Resort","Beach Res 35",,,FM,RM,Business
+461.375000,466.37500,,"Airports Airline Ground Operations",Statewide,"Air Canada - Operations","ACA Ops","167.9 PL",,FM,RM,Business
+461.375000,0.00000,WPBC861,"Businesses Taxis and Shuttles",Statewide,"Roberts Hawaii Student Transportation","Roberts Trns","074 DPL",,FM,RM,Transportation
+461.381250,0.00000,n/a,"Anderson Communications",Honolulu,"Site: 003 Honolulu",n/a,n/a,n/a,NXDN,RM,TRS
+461.425000,466.42500,WPIF571,"Hotels Lihue",Statewide,"Royal Sonesta - Engineering","Sonesta Engineer","107.2 PL",,FM,RM,Business
+461.450000,466.45000,WPHI327,"Businesses Kaanapali",Statewide,"Kaanapali Westin - Banquets","Westin Banq",,,FM,RM,Business
+461.462500,0.00000,n/a,"Waikiki Trolley",Honolulu,"Site: 001 Confirmed LCN",n/a,n/a,n/a,LTR,RM,TRS
+461.475000,466.47500,,"Businesses Retail",Statewide,"Kahala Mall","Kahala Mall","1 RAN",,NXDN,RM,Business
+461.500000,456.50000,WQYB635,"Businesses Others",Statewide,"Wailea Beach Villas - Operations","Wailea Villas","136.5 PL",,FMN,RM,Business
+461.525000,466.52500,WPIF571,"Hotels Lihue",Statewide,"Marriott Kauai Beach Club - Housekeeping","MKBC Housekeepng","CC 15|TG 4|SL 2",,DMR,RM,Business
+461.525000,0.00000,n/a,"Waikiki Beach Marriott",Honolulu,"Site: 001 Confirmed LCN",n/a,n/a,n/a,LTR,RM,TRS
+461.525000,466.52500,WPIF571,"Hotels Lihue",Statewide,"Marriott Kauai Beach Club - Engineering & Security","MKBC Eng & Secur","CC 15|TG 4|SL 1",,DMR,RM,Business
+461.537500,0.00000,n/a,"Halekulani Hotel",Honolulu,"Site: 001 Hotel",n/a,n/a,n/a,DMR,RM,TRS
+461.550000,0.00000,n/a,"Waikiki Trolley",Honolulu,"Site: 001 Confirmed LCN",n/a,n/a,n/a,LTR,RM,TRS
+461.550000,0.00000,n/a,"Starcomm Wireless, Inc.",Maui,"Site: 001 Kahului",n/a,n/a,n/a,LTR,RM,TRS
+461.550000,466.55000,WQUP722,"Businesses Residential",Statewide,"Marriott's Kauai Lagoons - Kalanipu'u Condos","Kalanipuu Condos","CC 1|TG 1011|SL *",,DMR,RM,Business
+461.575000,466.57500,WQSE721,"Businesses Hotels/Resorts",Statewide,"Hualalai Resort (Kona)","Hualalai 575","411 DPL",,FMN,RM,Business
+461.575000,466.57500,WPIF571,"Hotels Lihue",Statewide,"Royal Sonesta - Transportation","Sonesta Transprt","107.2 PL",,FM,RM,Business
+461.587500,0.00000,n/a,"Aston Kaanapali Shores Resort",Maui,"Site: 001 Hotel",n/a,n/a,n/a,LTR,RM,TRS
+461.625000,466.62500,WPII336,"Businesses Hotels/Resorts",Statewide,"Hualalai Resort (Kona)","Hualalai 625","245 DPL",,FMN,RM,Business
+461.637500,466.63750,461.6375,"Airports Misc Airport Services",Statewide,"DFS Group",DFS,,,DMR,RM,Business
+461.650000,0.00000,n/a,"Hilton Hawaiian Village Hotel",Honolulu,"Site: 001 Hawaiian Village",n/a,n/a,n/a,DMR,RM,TRS
+461.662500,466.66250,,"Businesses Taxi Services",Statewide,"Avis Budget Car Rentals - Channel 2","Avis  Channel 2","CC 5|TG 2|SL 2",,DMR,RM,Business
+461.662500,466.66250,,"Businesses Taxi Services",Statewide,"Avis Budget Car Rentals - Channel 1","Avis Channel 1","CC 5|TG 1|SL 1",,DMR,RM,Business
+461.675000,466.67500,WPDN947,"Businesses Others",Statewide,"Maui Coast Hotel","Maui Coast","445 DPL",,FM,RM,Business
+461.675000,466.67500,WPIF571,"Hotels Lihue",Statewide,"Royal Sonesta - Security","Sonesta Security","107.2 PL",,FM,RM,Business
+461.687500,0.00000,n/a,"Waikiki Trolley",Honolulu,"Site: 001 Confirmed LCN",n/a,n/a,n/a,LTR,RM,TRS
+461.712500,0.00000,n/a,"Ilikai Waikiki Hotel",Honolulu,"Site: 001 Primary",n/a,n/a,n/a,LTR,RM,TRS
+461.775000,466.77500,WQVC487,"University of Hawaii - Kapiolani Community College",Honolulu,"Kapiolani Community College - Operations 1","KCC Ops 1",,,DMR,RM,Schools
+461.775000,466.77500,WQCF594,"Airports Airline Ground Operations",Statewide,"Korean Airlines - Operations","KAL Ops","411 DPL",,FMN,RM,Business
+461.825000,0.00000,,"Businesses Retail",Statewide,"Ward Center","Ward Center","167.9 PL",,FM,BM,Business
+461.837500,466.83750,,"Businesses Shipping",Statewide,"Alaska Marine Lines","Alaska Marine Ln","CC 1|TG 3|SL 1",,DMR,RM,Business
+461.837500,466.83750,WQBS432,"Airports Airport Operations",Statewide,"Securitas - Security Operations",Securitas,"CC 1|TG 3|SL 1",,DMR,RM,Security
+461.837500,466.83750,,"Businesses Shipping",Statewide,"Alaska Marine Lines","Alaska Marine Ln","CC 1|TG 4|SL 2",,DMR,RM,Business
+461.837500,0.00000,n/a,"University of Hawaii",Honolulu,"Site: 002 Leeward CC",n/a,n/a,n/a,NXDN,RM,TRS
+461.862500,466.86250,WQKT568,"Businesses Hotels",Statewide,"Trump International Hotel Waikiki - Security","Trump Security","CC 1|TG 2|SL 2",,DMR,RM,Security
+461.862500,466.86250,WQKT568,"Businesses Hotels",Statewide,"Trump International Hotel Waikiki - Front Desk","Trump Front Desk","CC 1|TG 1|SL 1",,DMR,RM,Business
+461.875000,0.00000,n/a,"Starcomm Wireless, Inc.",Maui,"Site: 001 Kahului",n/a,n/a,n/a,LTR,RM,TRS
+461.875000,0.00000,n/a,"Hokuala Kauai",Kauai,"Site: 001 Confirmed LCN",n/a,n/a,n/a,DMR,RM,TRS
+461.925000,466.92500,WQQB919,"Businesses Hotels/Resorts",Statewide,"Kamehamehas Kona Beach Hotel - Courtyard King",KonaBchHotel,"047 DPL",,FMN,RM,Business
+461.987500,0.00000,n/a,"Ilikai Waikiki Hotel",Honolulu,"Site: 001 Primary",n/a,n/a,n/a,LTR,RM,TRS
+461.987500,466.98750,"WQRT861 ","Businesses Hotels",Statewide,"Hyatt Place Waikiki Beach - Guest Services","Hyatt Place GS","CC 8|TG 100|SL 1",,DMR,RM,Business
+462.000000,467.00000,WNAG522,"Businesses Hotels",Statewide,"Hyatt Regency Waikiki - Guest Services","Hyatt Regency GS","203.5 PL",,FMN,RM,Business
+462.000000,0.00000,n/a,"Hawaiian Airlines",Honolulu,"Site: 001 HNL Airport",n/a,n/a,n/a,DMR,RM,TRS
+462.000000,0.00000,,"Airports Airline Ground Operations",Statewide,"Hawaiian Airlines Ch 2","HAL Ch 2","141.3 PL",,FMN,M,Business
+462.025000,0.00000,n/a,"The Modern Honolulu Hotel",Honolulu,"Site: 001 Site 1",n/a,n/a,n/a,DMR,RM,TRS
+462.025000,467.02500,,"Businesses Hotels",Statewide,"Waikiki Edtion (Marriott) - Security","WEB Security","432 DPL",,FM,RM,Security
+462.025000,0.00000,n/a,"Westin Ka'anapali Ocean Resort Villas",Maui,"Site: 001 Lahaina",n/a,n/a,n/a,LTR,RM,TRS
+462.062500,0.00000,WQLH738,"Hotels Princeville",Statewide,"Princeville Makai Golf Course","Makai Golf","413 DPL",,FM,RM,Business
+462.075000,0.00000,WPUX958,"Hotels Princeville",Statewide,"Wyndham Princeville Operations","Wyndham Ops","271 DPL",,FM,RM,Business
+462.100000,467.10000,WQVI444,"Businesses Hotels/Resorts",Statewide,"Hilton Waikoloa Village (Kona)",HiltonWai462,"411 DPL",,FMN,RM,Business
+462.100000,467.10000,WQHM841,"Businesses Residential / Condos",Statewide,"Mott-Smith Laniloa Condo",Mott-Smith,"226 DPL",,FMN,RM,Business
+462.100000,0.00000,n/a,"Ala Moana Center",Honolulu,"Site: 001 Mall",n/a,n/a,n/a,LTR,RM,TRS
+462.100000,0.00000,n/a,"Marriott Maui Ocean Club (Ka'anapali Beach)",Maui,"Site: 001 Site 1",n/a,n/a,n/a,DMR,RM,TRS
+462.175000,0.00000,WQCW382,"Hotels Princeville",Statewide,"St Regis Hotel","Regis 175",,,DMR,BM,Business
+462.200000,0.00000,WGZ747,"Law Enforcement",Maui,"Department of Health Medcom Talkaround","DPS T/A",,,FM,RM,Hospital
+462.250000,467.25000,"WQBD509	","Businesses Residential / Condos",Statewide,"Kapiolani Manor Aoao","Kapiolani ","624 DPL",,FMN,RM,Business
+462.300000,467.30000,WPPY864,"Businesses Hotels",Statewide,"Hilton Prince Kuhio - Housekeeping","Hilton PK Hkspng","192.8 PL",,FM,RM,Business
+462.300000,467.20000,WPMT685,"Businesses Hotels/Resorts",Statewide,"Marriott Hotel (Waikoloa)","Marriott Wai","143 DPL",,FMN,RM,Business
+462.325000,467.32500,WQVQ864,"Airports Airline Ground Operations",Statewide,"Air Service Hawaii","Air Service FBO","023 DPL",,FMN,RM,Business
+462.325000,0.00000,n/a,"Hawaiian Airlines",Honolulu,"Site: 001 HNL Airport",n/a,n/a,n/a,DMR,RM,TRS
+462.350000,0.00000,WQVP576,"University of the Nations: Kona",Hawaii,"UofN-Kona Campus Maintenance","UNK Maint",,,FMN,RM,Schools
+462.350000,467.35000,WQBA329,"Businesses Golf Courses",Statewide,"Kaanapali Golf Course","Kann Golf",,,FM,RM,Business
+462.362500,0.00000,,"Hotels Princeville",Statewide,"St Regis Hotel","Regis 3625",,,DMR,BM,Business
+462.425000,0.00000,n/a,"Waikiki Trolley",Honolulu,"Site: 001 Confirmed LCN",n/a,n/a,n/a,LTR,RM,TRS
+462.475000,0.00000,n/a,"Waikiki Trolley",Honolulu,"Site: 001 Confirmed LCN",n/a,n/a,n/a,LTR,RM,TRS
+462.500000,467.50000,WQIS345,"Airports Airline Operations",Statewide,"Alaska Airlines","AlaskaAir Ground","CC 2|TG 101|SL 1",,DMR,RM,Business
+462.500000,0.00000,WQVP576,"University of the Nations: Kona",Hawaii,"UofN-Kona Campus Grounds","UNK Grounds",,,FMN,BM,Schools
+462.525000,0.00000,n/a,"Starcomm Wireless, Inc.",Maui,"Site: 001 Kahului",n/a,n/a,n/a,LTR,RM,TRS
+462.750000,0.00000,WPHI327,"Businesses Kaanapali",Statewide,"Kaanapali Westin","Westin 750",,,FM,M,Business
+462.775000,467.77500,WPHI327,"Businesses Kaanapali",Statewide,"Kaanapali Westin - Maintenance","Westin Maint",,,FM,RM,Business
+462.775000,0.00000,n/a,"Waikiki Beach Marriott",Honolulu,"Site: 001 Confirmed LCN",n/a,n/a,n/a,LTR,RM,TRS
+462.825000,0.00000,WPZK552,Resorts,Kalawao,"Hilton Waikoloa Village - Paging","Hilton WV PG",,,FM,B,Business
+462.825000,0.00000,KNCZ645,"Businesses Kaanapali",Statewide,"Hyatt - Paging","Hyatt Paging",,,FM,B,Business
+462.950000,467.95000,WQMQ646,"Public Safety",Maui,"Field-to-ER Simulcast Haleakala","AMR EMS ER 1A","431 NAC",,P25,RM,EMS-Talk
+463.037500,468.03750,WQMQ647,"Public Safety",Maui,"AMR EMS Dispatch Simulcast Maui Memorial","AMR EMS Disp 4","431 DPL",,FMN,RM,"EMS Dispatch"
+463.050000,0.00000,n/a,"State of Hawaii: Department of Health",Kauai,"Site: 001 Simulcast",n/a,n/a,n/a,"Project 25",RM,TRS
+463.050000,468.90000,KYB912,"Hawaii, State of",Kauai,"Department of Health: EMS-to-Hospital","DOH EMS HOSP","710 NAC",,P25,RM,Hospital
+463.050000,468.05000,WQMQ646,"Public Safety",Maui,"Field-to-ER Simulcast Lana'i","AMR EMS ER 3","431 NAC",,P25,RM,EMS-Talk
+463.062500,468.06250,WQMQ646,"Public Safety",Maui,"AMR EMS Dispatch Simulcast Lana'i","AMR EMS Disp 3","431 DPL",,FMN,RM,"EMS Dispatch"
+463.112500,468.11250,WQMQ646,"Public Safety",Maui,"AMR EMS Dispatch Simulcast Kahua Ranch (Big Island)","AMR EMS Disp 2","431 DPL",,FMN,RM,"EMS Dispatch"
+463.125000,468.12500,WQMQ647,"Public Safety",Maui,"Field-to-ER Simulcast Maui Memorial","AMR EMS ER 4","431 NAC",,P25,RM,EMS-Talk
+463.175000,468.17500,WQMQ646,"Public Safety",Maui,"Field-to-ER Simulcast Kahua Ranch (Big Island)","AMR EMS ER 2","431 NAC",,P25,RM,EMS-Talk
+463.200000,468.20000,WPHI327,"Businesses Kaanapali",Statewide,"Kaanapali Westin - Housekeeping","Westin Hskp",,,FM,RM,Business
+463.225000,0.00000,WQVS573,"Hotels Coconut Beach",Statewide,"Sheraton Kauai Resort - Engineering/Housekeeping","Sheraton Eng/HK","CC 12|TG 5|SL 1",,DMR,BM,Business
+463.225000,0.00000,n/a,"Hawaiian Airlines",Honolulu,"Site: 001 HNL Airport",n/a,n/a,n/a,DMR,RM,TRS
+463.237500,0.00000,n/a,"Starcomm Wireless, Inc.",Maui,"Site: 001 Kahului",n/a,n/a,n/a,LTR,RM,TRS
+463.250000,468.25000,WQVI444,"Businesses Hotels/Resorts",Statewide,"Hilton Waikoloa Village (Kona)",HiltonWai463,"411 DPL",,FMN,RM,Business
+463.262500,0.00000,n/a,"University of Hawaii",Honolulu,"Site: 001 Manoa",n/a,n/a,n/a,NXDN,RM,TRS
+463.275000,0.00000,n/a,"Marriott Maui Ocean Club (Ka'anapali Beach)",Maui,"Site: 001 Site 1",n/a,n/a,n/a,DMR,RM,TRS
+463.275000,0.00000,n/a,"The Modern Honolulu Hotel",Honolulu,"Site: 001 Site 1",n/a,n/a,n/a,DMR,RM,TRS
+463.275000,468.27500,,"Businesses Hotels",Statewide,"Waikiki Edtion (Marriott) - Bell Desk","WEB Bell Desk","432 DPL",,FM,RM,Business
+463.300000,0.00000,n/a,"Hokuala Kauai",Kauai,"Site: 001 Confirmed LCN",n/a,n/a,n/a,DMR,RM,TRS
+463.312500,0.00000,n/a,"Waikiki Beach Marriott",Honolulu,"Site: 001 Confirmed LCN",n/a,n/a,n/a,LTR,RM,TRS
+463.325000,0.00000,n/a,"Westin Ka'anapali Ocean Resort Villas",Maui,"Site: 001 Lahaina",n/a,n/a,n/a,LTR,RM,TRS
+463.337500,0.00000,,"Hotels Princeville",Statewide,"St Regis Hotel","Regis 3375",,,DMR,BM,Business
+463.387500,468.38750,WQVK786,"University of Hawaii at Hilo",Hawaii,Security,"UHH Security",,,NXDN,RM,Security
+463.400000,468.40000,WPHI327,"Businesses Kaanapali",Statewide,"Kaanapali Westin - Valet/Front Desk","Westin Valet",,,FM,RM,Business
+463.437500,0.00000,WQCW382,"Hotels Princeville",Statewide,"St Regis Hotel","Regis 4375",,,DMR,BM,Business
+463.450000,468.45000,WPWB213,"Businesses Kaanapali",Statewide,"Royal Resort - Security","RoyalRes Sec",,,FM,RM,Security
+463.475000,0.00000,n/a,"Westin Ka'anapali Ocean Resort Villas",Maui,"Site: 001 Lahaina",n/a,n/a,n/a,LTR,RM,TRS
+463.562500,468.56250,WQIS345,"Airports Airline Ground Operations",Statewide,"Alaska Airlines","ASA Ops","151.4 PL",,FMN,RM,Business
+463.562500,468.56250,WPYZ547,Schools,Honolulu,"Punahou School - Security","Punahou Sch","311 DPL",,FM,RM,Security
+463.612500,0.00000,n/a,"Starcomm Wireless, Inc.",Maui,"Site: 001 Kahului",n/a,n/a,n/a,LTR,RM,TRS
+463.612500,0.00000,n/a,"Outrigger Hotels and Resort (System 2)",Honolulu,"Site: 001 Hotel",n/a,n/a,n/a,LTR,RM,TRS
+463.625000,468.62500,WQPM796,"Businesses Energy",Statewide,"Aloha Petroleum - Refinery Ops/Barber's Point Dock Ops","ALOHA PETROL","35 RAN",,NXDN,RM,Business
+463.625000,0.00000,WQCW382,"Hotels Princeville",Statewide,"St Regis Hotel","Regis 625",,,DMR,BM,Business
+463.725000,0.00000,n/a,"Westin Ka'anapali Ocean Resort Villas",Maui,"Site: 001 Lahaina",n/a,n/a,n/a,LTR,RM,TRS
+463.725000,0.00000,n/a,"Halekulani Hotel",Honolulu,"Site: 001 Hotel",n/a,n/a,n/a,DMR,RM,TRS
+463.737500,0.00000,n/a,"Ala Moana Center",Honolulu,"Site: 001 Mall",n/a,n/a,n/a,LTR,RM,TRS
+463.762500,0.00000,WRBS943,"Airports Airline Operations",Statewide,"Signature Flight Services","Signature Flight","156.7 PL",,FMN,BM,Business
+463.775000,0.00000,n/a,"Marriott Maui Ocean Club (Ka'anapali Beach)",Maui,"Site: 001 Site 1",n/a,n/a,n/a,DMR,RM,TRS
+463.812500,0.00000,,"Hotels Princeville",Statewide,"St Regis Hotel","Regis 8125",,,DMR,BM,Business
+463.875000,468.87500,WNAG522,"Businesses Hotels",Statewide,"Hyatt Regency Waikiki - Security","HyattRegency Sec","054 DPL",,FM,RM,Business
+463.887500,0.00000,n/a,"Outrigger Hotels and Resort (System 1)",Honolulu,"Site: 001 Hotel",n/a,n/a,n/a,LTR,RM,TRS
+463.900000,468.90000,WQXN649,"Businesses Retail",Statewide,"International Market Place - Security","Intl Market Sec","2 RAN",,NXDN,RM,Security
+463.912500,468.91250,,"Businesses Retail",Statewide,"Waikele Premium Outlets - Security","Waikele PO Sec",,,FMN,RM,Security
+463.925000,0.00000,WPVL969,"Businesses Taxis and Shuttles",Statewide,Pacific,"Pacific Trns","131.8 PL",,FM,RM,Business
+463.937500,468.93750,WQNR523,"Airports Airport Operations",Statewide,"Airport Security (Securitas)","LIH Security","CC 1|TG 1|SL 1",,DMR,RM,Security
+463.937500,0.00000,n/a,"Waikiki Trolley",Honolulu,"Site: 001 Confirmed LCN",n/a,n/a,n/a,LTR,RM,TRS
+463.950000,468.95000,,"Airports Airline Ground Operations",Statewide,"Hawaiian Airlines Ch 1","HAL Ch 1","632 DPL",,FMN,RM,Business
+463.950000,468.95000,,"Airports Airline Operations",Statewide,"Hawaiian Airlines","HAL ",,,DMR,RM,Business
+463.950000,0.00000,n/a,"Hotel Hanalei Bay",Kauai,"Site: 001 Princeville",n/a,n/a,n/a,DMR,RM,TRS
+463.962500,0.00000,n/a,"Halekulani Hotel",Honolulu,"Site: 001 Hotel",n/a,n/a,n/a,DMR,RM,TRS
+463.987500,0.00000,n/a,"Ala Moana Center",Honolulu,"Site: 001 Mall",n/a,n/a,n/a,LTR,RM,TRS
+464.075000,469.07500,,"Airports Airline Ground Operations",Statewide,"Alaska Airlines","ASA Ops","754 DPL",,FMN,RM,Business
+464.075000,469.07500,WQUE255,"University of Hawaii - West Oahu",Honolulu,"UHWO Primary Operations","UHWO Primary",,,NXDN,RM,Schools
+464.112500,0.00000,n/a,"University of Hawaii",Honolulu,"Site: 001 Manoa",n/a,n/a,n/a,NXDN,RM,TRS
+464.125000,0.00000,n/a,"Starcomm Wireless, Inc.",Maui,"Site: 001 Kahului",n/a,n/a,n/a,LTR,RM,TRS
+464.150000,0.00000,,"Hotels Princeville",Statewide,"St Regis Hotel","Regis 150",,,DMR,BM,Security
+464.175000,0.00000,n/a,"The Modern Honolulu Hotel",Honolulu,"Site: 001 Site 1",n/a,n/a,n/a,DMR,RM,TRS
+464.175000,469.17500,,"Businesses Hotels",Statewide,"Waikiki Edtion (Marriott) - Guest Services & Housekeeping","WEB GS/Hskpng","432 DPL",,FM,RM,Business
+464.200000,0.00000,WQYC266,"Businesses Attractions",Statewide,"USS Missouri Memorial Association 2","USS Missouri 2",,,FMN,RM,Business
+464.212500,0.00000,n/a,"Outrigger Hotels and Resort (System 2)",Honolulu,"Site: 001 Hotel",n/a,n/a,n/a,LTR,RM,TRS
+464.212500,0.00000,,"Hotels Princeville",Statewide,"St Regis Hotel","Regis 2125",,,DMR,BM,Business
+464.225000,469.22500,WNAG522,"Businesses Hotels",Statewide,"Hyatt Regency Waikiki - Maintenance","HyattRegency Mnt","162.2 PL",,FM,RM,Business
+464.225000,469.22500,WQAW947,"Airports Airline Ground Operations",Statewide,"Aircraft Service International - Operations","ASI Ops","162.2 PL",,FM,RM,Business
+464.237500,0.00000,n/a,"Outrigger Hotels and Resort (System 1)",Honolulu,"Site: 001 Hotel",n/a,n/a,n/a,LTR,RM,TRS
+464.262500,469.26250,WQOM840,"Businesses Economic Development",Statewide,"Waikiki Business Improvement District","WBID 1","423 DPL",,FMN,RM,Business
+464.275000,0.00000,n/a,"Waikiki Beach Marriott",Honolulu,"Site: 001 Confirmed LCN",n/a,n/a,n/a,LTR,RM,TRS
+464.325000,469.32500,WPHI327,"Businesses Kaanapali",Statewide,"Kaanapali Westin - Security","Westin Sec",,,FM,RM,Security
+464.375000,469.37500,WNYV579,"Businesses Hotels/Resorts",Statewide,"Hilo Hawaiian Hotel","Hilo Haw Hot",CSQ,,FMN,RM,Business
+464.387500,469.38750,WQVP576,"University of the Nations: Kona",Hawaii,"UofN-Kona Campus Repeater","UNK RPT",,,FMN,RM,Schools
+464.400000,469.40000,WQBC387,"Businesses Hotels",Statewide,"Waikiki Beach Hotel","WaikikiBch Hotel","306 DPL",,FM,RM,Business
+464.400000,0.00000,WPHI327,"Businesses Kaanapali",Statewide,"Kaanapali Westin","Westin 400",,,FM,M,Business
+464.412500,0.00000,n/a,"Hawaiian Airlines",Honolulu,"Site: 001 HNL Airport",n/a,n/a,n/a,DMR,RM,TRS
+464.425000,0.00000,n/a,"Hilton Hawaiian Village Hotel",Honolulu,"Site: 001 Hawaiian Village",n/a,n/a,n/a,DMR,RM,TRS
+464.437500,0.00000,n/a,"University of Hawaii",Honolulu,"Site: 002 Leeward CC",n/a,n/a,n/a,NXDN,RM,TRS
+464.475000,0.00000,WQUE255,"University of Hawaii - West Oahu",Honolulu,"UHWO Ops 1","UHWO Ops 1",,,NXDN,M,Schools
+464.475000,469.47500,WNDK739,"Businesses Residential / Condos",Statewide,"Aloha Towers Condominium","Aloha Tower","97.4 PL",,FMN,RM,Business
+464.475000,0.00000,KD3298,"Businesses Hospitals",Statewide,"St. Francis Medical Center - Security",Security,"136.5 PL",,FM,RM,Security
+464.487500,469.48750,KD29155,"Businesses Residential / Condos",Statewide,"1717 Ala Wai Condominium","1717 Ala Wai","351 DPL",,FMN,M,Business
+464.550000,0.00000,,"Businesses Retail",Statewide,"Ace Hardware (Kona)","Ace Kona",,,FMN,M,Business
+464.550000,0.00000,,"Hotels Princeville",Statewide,"St Regis Hotel","Regis A/V",CSQ,,FM,M,Business
+464.550000,0.00000,,"Businesses Retail",Statewide,"Ace Hardware (Ocean View)","Ace Ocean Vw",,,FMN,M,Business
+464.550000,0.00000,,"Hotels Princeville",Statewide,"St Regis House Keeping","Regis Hskpng","67.0 PL",,FM,BM,Business
+464.550000,0.00000,,"Businesses Retail",Statewide,"Ace Hardware (Captain Cook)","Ace Cpt Cook",,,FMN,M,Business
+464.587500,0.00000,n/a,"Starcomm Wireless, Inc.",Maui,"Site: 001 Kahului",n/a,n/a,n/a,LTR,RM,TRS
+464.675000,469.67500,WQGX390,"Businesses Hotels/Resorts",Statewide,"Kona Village Resort","Kona Village","82.5 PL",,FMN,RM,Business
+464.675000,469.67500,,"Businesses Retail",Statewide,"Pearlridge Shopping Center - Maintenance","Prlrdg Maint","CC 15|TG *|SL 2",,DMR,RM,Business
+464.675000,469.67500,,"Businesses Retail",Statewide,"Pearlridge Shopping Center - Janitorial","Prlrdg Janit","CC 15|TG *|SL 1",,DMR,RM,Business
+464.675000,469.67500,WNCP388,"Businesses Residential / Condos",Statewide,"Yacht Harbor Towers","Yacht Harbor","25 RAN",,NXDN,RM,Business
+464.700000,469.70000,WPIF571,"Hotels Lihue",Statewide,"Royal Sonesta - Housekeeping","Sonesta Housekpg","192.8 PL",,FM,RM,Business
+464.712500,0.00000,n/a,"University of Hawaii",Honolulu,"Site: 001 Manoa",n/a,n/a,n/a,NXDN,RM,TRS
+464.712500,0.00000,"WPCG471	","Businesses Residential / Condos",Statewide,"2121 Ala Wai Condominium","2121 Ala Wai","210.7 PL",,FMN,M,Business
+464.750000,0.00000,WQYC266,"Businesses Attractions",Statewide,"USS Missouri Memorial Association 1","USS Missouri 1","103.5 PL",,FMN,RM,Business
+464.750000,0.00000,n/a,"Ilikai Waikiki Hotel",Honolulu,"Site: 001 Primary",n/a,n/a,n/a,LTR,RM,TRS
+464.750000,0.00000,,"Hotels Princeville",Statewide,"St Regis Hotel","Regis 750",,,DMR,BM,Business
+464.762500,469.76250,WQHK475,"Businesses Residential / Condos",Statewide,"Waipuna Condominium",Waipuna,"072 DPL",,FMN,RM,Business
+464.775000,469.77500,,"Businesses Retail",Statewide,"Pearlridge Shopping Center - Security","Prlrdg Secur","156.7 PL",,FMN,RM,Security
+464.775000,469.77500,WXX614,"Airports Airline Ground Operations",Statewide,"International Inflight Catering","IFC Catering","162.2 PL",,FM,RM,Business
+464.775000,0.00000,n/a,"Queens Medical Center",Honolulu,"Site: 001 Honolulu",n/a,n/a,n/a,DMR,RM,TRS
+464.800000,0.00000,n/a,"Starcomm Wireless, Inc.",Maui,"Site: 001 Kahului",n/a,n/a,n/a,LTR,RM,TRS
+464.812500,0.00000,n/a,"Hawaiian Airlines",Honolulu,"Site: 001 HNL Airport",n/a,n/a,n/a,DMR,RM,TRS
+464.862500,0.00000,n/a,"Outrigger Hotels and Resort (System 2)",Honolulu,"Site: 001 Hotel",n/a,n/a,n/a,LTR,RM,TRS
+464.875000,469.87500,WQNI442,"Hotels Lihue",Statewide,"Aqua Kauai Beach Club Resort","Aqua Kauai","CC 1|TG 2|SL *",,DMR,RM,Business
+464.875000,0.00000,n/a,"Kamehameha Schools",Honolulu,"Site: 001 Honolulu",n/a,n/a,n/a,DMR,RM,TRS
+464.875000,0.00000,n/a,"Marriott Maui Ocean Club (Ka'anapali Beach)",Maui,"Site: 001 Site 1",n/a,n/a,n/a,DMR,RM,TRS
+464.887500,469.88750,WQMK520,"Businesses Retail",Statewide,"Ala Moana Center - Janitors/Custodians","AlaMoana Janitor","532 DPL",,FMN,RM,Business
+464.900000,0.00000,n/a,"Hilton Hawaiian Village Hotel",Honolulu,"Site: 001 Hawaiian Village",n/a,n/a,n/a,DMR,RM,TRS
+464.925000,0.00000,WQIS660,"Hotels Princeville",Statewide,"Wyndham Princeville Operations","Wyndham Ops","271 DPL",,FM,RM,Business
+464.937500,0.00000,n/a,"Starcomm Wireless, Inc.",Maui,"Site: 001 Kahului",n/a,n/a,n/a,LTR,RM,TRS
+464.937500,0.00000,n/a,"Outrigger Hotels and Resort (System 1)",Honolulu,"Site: 001 Hotel",n/a,n/a,n/a,LTR,RM,TRS
+464.962500,0.00000,n/a,"Waikiki Trolley",Honolulu,"Site: 001 Confirmed LCN",n/a,n/a,n/a,LTR,RM,TRS
+464.975000,0.00000,n/a,"Westin Ka'anapali Ocean Resort Villas",Maui,"Site: 001 Lahaina",n/a,n/a,n/a,LTR,RM,TRS
+466.212500,0.00000,,"Kahului Harbor",Maui,"Security (American Security Group)","Harbor Sec",CSQ,,FMN,M,Security
+466.325000,0.00000,n/a,"The Fairmont Orchid Hawaii",Hawaii,"Site: 001 Orchid",n/a,n/a,n/a,DMR,RM,TRS
+467.475000,0.00000,WQUE255,"University of Hawaii - West Oahu",Honolulu,"UHWO Ops 2","UHWO Ops 2",,,NXDN,M,Schools
+467.762500,0.00000,,"Nawiliwili Harbor",Kauai,"Security (American Security Group)","Harbor Sec",CSQ,,FMN,M,Security
+467.900000,0.00000,,"Businesses Retail",Statewide,"Target (Kona)","Target Kona",,,FMN,M,Business
+468.375000,0.00000,WQVP576,"University of the Nations: Kona",Hawaii,"UofN-Kona Campus IT","UNK IT",,,FMN,BM,Schools
+468.975000,0.00000,WQVP576,"University of the Nations: Kona",Hawaii,"UofN-Kona Campus Security","UNK Security",,,FMN,BM,Schools
+469.150000,0.00000,WQVP576,"University of the Nations: Kona",Hawaii,"UofN-Kona Campus CERT","UNK CERT",,,FMN,BM,Schools
+469.650000,0.00000,WQUE255,"University of Hawaii - West Oahu",Honolulu,"UHWO Ops 3","UHWO Ops 3",,,NXDN,M,Schools
+469.962500,0.00000,WQUE255,"University of Hawaii - West Oahu",Honolulu,"UHWO Ops 4","UHWO Ops 4",,,NXDN,M,Schools
+765.937500,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Honolulu,"Site: 040 East Honolulu",n/a,n/a,n/a,"Project 25",RM,TRS
+769.156250,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Honolulu,"Site: 037 Honolulu 2",n/a,n/a,n/a,"Project 25",RM,TRS
+769.156250,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Hawaii,"Site: 208 Hilo",n/a,n/a,n/a,"Project 25",RM,TRS
+769.168750,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",UNKNOWN,"Site: 034 Site: 1-34",n/a,n/a,n/a,"Project 25",RM,TRS
+769.181250,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Kauai,"Site: 032 Site: 1-32",n/a,n/a,n/a,"Project 25",RM,TRS
+769.181250,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Hawaii,"Site: 033 Site: 1-33",n/a,n/a,n/a,"Project 25",RM,TRS
+769.193750,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",UNKNOWN,"Site: 067 Site: 1-67",n/a,n/a,n/a,"Project 25",RM,TRS
+769.206250,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Hawaii,"Site: 090 Kona",n/a,n/a,n/a,"Project 25",RM,TRS
+769.218750,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Maui,"Site: 048 Site: 1-48",n/a,n/a,n/a,"Project 25",RM,TRS
+769.331250,0.00000,n/a,"Honolulu City and County Public Safety System (P25)",Honolulu,"Site: 010 Waialua",n/a,n/a,n/a,"Project 25",RM,TRS
+769.356250,0.00000,n/a,"Honolulu City and County Public Safety System (P25)",Honolulu,"Site: 008 Makakilo",n/a,n/a,n/a,"Project 25",RM,TRS
+769.406250,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Honolulu,"Site: 037 Honolulu 2",n/a,n/a,n/a,"Project 25",RM,TRS
+769.406250,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Hawaii,"Site: 208 Hilo",n/a,n/a,n/a,"Project 25",RM,TRS
+769.418750,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",UNKNOWN,"Site: 034 Site: 1-34",n/a,n/a,n/a,"Project 25",RM,TRS
+769.431250,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Kauai,"Site: 032 Site: 1-32",n/a,n/a,n/a,"Project 25",RM,TRS
+769.443750,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",UNKNOWN,"Site: 067 Site: 1-67",n/a,n/a,n/a,"Project 25",RM,TRS
+769.456250,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Hawaii,"Site: 090 Kona",n/a,n/a,n/a,"Project 25",RM,TRS
+769.468750,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Maui,"Site: 048 Site: 1-48",n/a,n/a,n/a,"Project 25",RM,TRS
+769.506250,0.00000,n/a,"Honolulu City and County Public Safety System (P25)",Honolulu,"Site: 006 Waianae 2",n/a,n/a,n/a,"Project 25",RM,TRS
+769.531250,0.00000,n/a,"Honolulu City and County Public Safety System (P25)",Honolulu,"Site: 007 Waianae 3",n/a,n/a,n/a,"Project 25",RM,TRS
+769.556250,0.00000,n/a,"Honolulu City and County Public Safety System (P25)",Honolulu,"Site: 003 Northeast Simulcast",n/a,n/a,n/a,"Project 25",RM,TRS
+769.581250,0.00000,n/a,"Honolulu City and County Public Safety System (P25)",Honolulu,"Site: 010 Waialua",n/a,n/a,n/a,"Project 25",RM,TRS
+769.606250,0.00000,n/a,"Honolulu City and County Public Safety System (P25)",Honolulu,"Site: 008 Makakilo",n/a,n/a,n/a,"Project 25",RM,TRS
+769.656250,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Hawaii,"Site: 208 Hilo",n/a,n/a,n/a,"Project 25",RM,TRS
+769.656250,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Honolulu,"Site: 037 Honolulu 2",n/a,n/a,n/a,"Project 25",RM,TRS
+769.668750,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",UNKNOWN,"Site: 034 Site: 1-34",n/a,n/a,n/a,"Project 25",RM,TRS
+769.681250,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Kauai,"Site: 032 Site: 1-32",n/a,n/a,n/a,"Project 25",RM,TRS
+769.693750,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",UNKNOWN,"Site: 067 Site: 1-67",n/a,n/a,n/a,"Project 25",RM,TRS
+769.706250,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Hawaii,"Site: 090 Kona",n/a,n/a,n/a,"Project 25",RM,TRS
+769.718750,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Maui,"Site: 048 Site: 1-48",n/a,n/a,n/a,"Project 25",RM,TRS
+769.756250,0.00000,n/a,"Honolulu City and County Public Safety System (P25)",Honolulu,"Site: 006 Waianae 2",n/a,n/a,n/a,"Project 25",RM,TRS
+769.781250,0.00000,n/a,"Honolulu City and County Public Safety System (P25)",Honolulu,"Site: 007 Waianae 3",n/a,n/a,n/a,"Project 25",RM,TRS
+769.806250,0.00000,n/a,"Honolulu City and County Public Safety System (P25)",Honolulu,"Site: 003 Northeast Simulcast",n/a,n/a,n/a,"Project 25",RM,TRS
+769.906250,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Honolulu,"Site: 037 Honolulu 2",n/a,n/a,n/a,"Project 25",RM,TRS
+769.906250,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Hawaii,"Site: 208 Hilo",n/a,n/a,n/a,"Project 25",RM,TRS
+769.918750,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",UNKNOWN,"Site: 034 Site: 1-34",n/a,n/a,n/a,"Project 25",RM,TRS
+769.931250,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Kauai,"Site: 032 Site: 1-32",n/a,n/a,n/a,"Project 25",RM,TRS
+769.943750,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",UNKNOWN,"Site: 067 Site: 1-67",n/a,n/a,n/a,"Project 25",RM,TRS
+769.956250,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Hawaii,"Site: 090 Kona",n/a,n/a,n/a,"Project 25",RM,TRS
+769.968750,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Maui,"Site: 048 Site: 1-48",n/a,n/a,n/a,"Project 25",RM,TRS
+770.156250,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Honolulu,"Site: 037 Honolulu 2",n/a,n/a,n/a,"Project 25",RM,TRS
+770.156250,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Hawaii,"Site: 208 Hilo",n/a,n/a,n/a,"Project 25",RM,TRS
+770.168750,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",UNKNOWN,"Site: 034 Site: 1-34",n/a,n/a,n/a,"Project 25",RM,TRS
+770.193750,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",UNKNOWN,"Site: 067 Site: 1-67",n/a,n/a,n/a,"Project 25",RM,TRS
+770.206250,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Hawaii,"Site: 090 Kona",n/a,n/a,n/a,"Project 25",RM,TRS
+770.406250,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",UNKNOWN,"Site: 039 Site: 1-39",n/a,n/a,n/a,"Project 25",RM,TRS
+770.431250,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Kauai,"Site: 032 Site: 1-32",n/a,n/a,n/a,"Project 25",RM,TRS
+770.443750,0.00000,n/a,"Maui County Regional Interoperable P25 Public Safety Radio System",Maui,"Site: 004 Site-004",n/a,n/a,n/a,"Project 25",RM,TRS
+770.468750,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Maui,"Site: 048 Site: 1-48",n/a,n/a,n/a,"Project 25",RM,TRS
+770.506250,0.00000,n/a,"Honolulu City and County Public Safety System (P25)",Honolulu,"Site: 006 Waianae 2",n/a,n/a,n/a,"Project 25",RM,TRS
+770.531250,0.00000,n/a,"Honolulu City and County Public Safety System (P25)",Honolulu,"Site: 007 Waianae 3",n/a,n/a,n/a,"Project 25",RM,TRS
+770.556250,0.00000,n/a,"Honolulu City and County Public Safety System (P25)",Honolulu,"Site: 003 Northeast Simulcast",n/a,n/a,n/a,"Project 25",RM,TRS
+770.681250,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Kauai,"Site: 032 Site: 1-32",n/a,n/a,n/a,"Project 25",RM,TRS
+770.693750,0.00000,n/a,"Maui County Regional Interoperable P25 Public Safety Radio System",Maui,"Site: 004 Site-004",n/a,n/a,n/a,"Project 25",RM,TRS
+770.706250,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Hawaii,"Site: 205 Hilo",n/a,n/a,n/a,"Project 25",RM,TRS
+770.756250,0.00000,n/a,"Honolulu City and County Public Safety System (P25)",Honolulu,"Site: 006 Waianae 2",n/a,n/a,n/a,"Project 25",RM,TRS
+770.806250,0.00000,n/a,"Honolulu City and County Public Safety System (P25)",Honolulu,"Site: 003 Northeast Simulcast",n/a,n/a,n/a,"Project 25",RM,TRS
+770.831250,0.00000,n/a,"Honolulu City and County Public Safety System (P25)",Honolulu,"Site: 010 Waialua",n/a,n/a,n/a,"Project 25",RM,TRS
+770.856250,0.00000,n/a,"Honolulu City and County Public Safety System (P25)",Honolulu,"Site: 008 Makakilo",n/a,n/a,n/a,"Project 25",RM,TRS
+770.906250,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",UNKNOWN,"Site: 039 Site: 1-39",n/a,n/a,n/a,"Project 25",RM,TRS
+770.943750,0.00000,n/a,"Maui County Regional Interoperable P25 Public Safety Radio System",Maui,"Site: 004 Site-004",n/a,n/a,n/a,"Project 25",RM,TRS
+771.081250,0.00000,n/a,"Honolulu City and County Public Safety System (P25)",Honolulu,"Site: 010 Waialua",n/a,n/a,n/a,"Project 25",RM,TRS
+771.106250,0.00000,n/a,"Honolulu City and County Public Safety System (P25)",Honolulu,"Site: 008 Makakilo",n/a,n/a,n/a,"Project 25",RM,TRS
+771.481250,0.00000,n/a,"Honolulu City and County Public Safety System (P25)",Honolulu,"Site: 004 Mokulei Ridge",n/a,n/a,n/a,"Project 25",RM,TRS
+771.731250,0.00000,n/a,"Honolulu City and County Public Safety System (P25)",Honolulu,"Site: 004 Mokulei Ridge",n/a,n/a,n/a,"Project 25",RM,TRS
+771.756250,0.00000,n/a,"Honolulu City and County Public Safety System (P25)",Honolulu,"Site: 009 Wahiawa",n/a,n/a,n/a,"Project 25",RM,TRS
+771.856250,0.00000,n/a,"Honolulu City and County Public Safety System (P25)",Honolulu,"Site: 008 Makakilo",n/a,n/a,n/a,"Project 25",RM,TRS
+772.156250,0.00000,n/a,"Honolulu City and County Public Safety System (P25)",Honolulu,"Site: 009 Wahiawa",n/a,n/a,n/a,"Project 25",RM,TRS
+772.431250,0.00000,n/a,"Honolulu City and County Public Safety System (P25)",Honolulu,"Site: 005 Waianae 1",n/a,n/a,n/a,"Project 25",RM,TRS
+772.481250,0.00000,n/a,"Honolulu City and County Public Safety System (P25)",Honolulu,"Site: 004 Mokulei Ridge",n/a,n/a,n/a,"Project 25",RM,TRS
+772.681250,0.00000,n/a,"Honolulu City and County Public Safety System (P25)",Honolulu,"Site: 005 Waianae 1",n/a,n/a,n/a,"Project 25",RM,TRS
+772.731250,0.00000,n/a,"Honolulu City and County Public Safety System (P25)",Honolulu,"Site: 004 Mokulei Ridge",n/a,n/a,n/a,"Project 25",RM,TRS
+772.781250,0.00000,n/a,"Honolulu City and County Public Safety System (P25)",Honolulu,"Site: 007 Waianae 3",n/a,n/a,n/a,"Project 25",RM,TRS
+772.931250,0.00000,n/a,"Honolulu City and County Public Safety System (P25)",Honolulu,"Site: 005 Waianae 1",n/a,n/a,n/a,"Project 25",RM,TRS
+773.031250,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",UNKNOWN,"Site: 039 Site: 1-39",n/a,n/a,n/a,"Project 25",RM,TRS
+773.056250,0.00000,n/a,"Maui County Regional Interoperable P25 Public Safety Radio System",Maui,"Site: 004 Site-004",n/a,n/a,n/a,"Project 25",RM,TRS
+773.181250,0.00000,n/a,"Honolulu City and County Public Safety System (P25)",Honolulu,"Site: 005 Waianae 1",n/a,n/a,n/a,"Project 25",RM,TRS
+773.281250,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",UNKNOWN,"Site: 039 Site: 1-39",n/a,n/a,n/a,"Project 25",RM,TRS
+773.306250,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Hawaii,"Site: 205 Hilo",n/a,n/a,n/a,"Project 25",RM,TRS
+773.318750,0.00000,n/a,"Maui County Regional Interoperable P25 Public Safety Radio System",Maui,"Site: 004 Site-004",n/a,n/a,n/a,"Project 25",RM,TRS
+773.406250,0.00000,n/a,"Honolulu City and County Public Safety System (P25)",Honolulu,"Site: 009 Wahiawa",n/a,n/a,n/a,"Project 25",RM,TRS
+773.531250,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",UNKNOWN,"Site: 039 Site: 1-39",n/a,n/a,n/a,"Project 25",RM,TRS
+773.556250,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Statewide,"Site: 038 Site: 1-38",n/a,n/a,n/a,"Project 25",RM,TRS
+773.556250,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Honolulu,"Site: 040 East Honolulu",n/a,n/a,n/a,"Project 25",RM,TRS
+773.568750,0.00000,n/a,"Maui County Regional Interoperable P25 Public Safety Radio System",Maui,"Site: 004 Site-004",n/a,n/a,n/a,"Project 25",RM,TRS
+773.656250,0.00000,n/a,"Honolulu City and County Public Safety System (P25)",Honolulu,"Site: 009 Wahiawa",n/a,n/a,n/a,"Project 25",RM,TRS
+773.793750,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",UNKNOWN,"Site: 071 Site: 1-71",n/a,n/a,n/a,"Project 25",RM,TRS
+773.793750,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Maui,"Site: 028 Site: 1-28",n/a,n/a,n/a,"Project 25",RM,TRS
+773.793750,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Kauai,"Site: 016 Site: 1-16",n/a,n/a,n/a,"Project 25",RM,TRS
+773.806250,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Honolulu,"Site: 040 East Honolulu",n/a,n/a,n/a,"Project 25",RM,TRS
+773.806250,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Statewide,"Site: 038 Site: 1-38",n/a,n/a,n/a,"Project 25",RM,TRS
+773.831250,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Hawaii,"Site: 094 Kawaihae",n/a,n/a,n/a,"Project 25",RM,TRS
+773.843750,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Maui,"Site: 046 Site: 1-46",n/a,n/a,n/a,"Project 25",RM,TRS
+774.031250,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Hawaii,"Site: 205 Hilo",n/a,n/a,n/a,"Project 25",RM,TRS
+774.043750,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Maui,"Site: 028 Site: 1-28",n/a,n/a,n/a,"Project 25",RM,TRS
+774.043750,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Kauai,"Site: 017 Site 1-17",n/a,n/a,n/a,"Project 25",RM,TRS
+774.043750,804.04375,,"Department of Public Safety Hawaii State Sheriff's Department",Statewide,Honolulu,"Sheriff 1","710 NAC",,P25,RM,"Law Dispatch"
+774.093750,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Maui,"Site: 046 Site: 1-46",n/a,n/a,n/a,"Project 25",RM,TRS
+774.293750,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",UNKNOWN,"Site: 071 Site: 1-71",n/a,n/a,n/a,"Project 25",RM,TRS
+774.293750,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Kauai,"Site: 016 Site: 1-16",n/a,n/a,n/a,"Project 25",RM,TRS
+774.293750,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Maui,"Site: 028 Site: 1-28",n/a,n/a,n/a,"Project 25",RM,TRS
+774.306250,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Statewide,"Site: 038 Site: 1-38",n/a,n/a,n/a,"Project 25",RM,TRS
+774.306250,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Honolulu,"Site: 040 East Honolulu",n/a,n/a,n/a,"Project 25",RM,TRS
+774.331250,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Hawaii,"Site: 094 Kawaihae",n/a,n/a,n/a,"Project 25",RM,TRS
+774.343750,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Maui,"Site: 046 Site: 1-46",n/a,n/a,n/a,"Project 25",RM,TRS
+774.543750,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Maui,"Site: 028 Site: 1-28",n/a,n/a,n/a,"Project 25",RM,TRS
+774.543750,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",UNKNOWN,"Site: 071 Site: 1-71",n/a,n/a,n/a,"Project 25",RM,TRS
+774.543750,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Kauai,"Site: 016 Site: 1-16",n/a,n/a,n/a,"Project 25",RM,TRS
+774.556250,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Statewide,"Site: 038 Site: 1-38",n/a,n/a,n/a,"Project 25",RM,TRS
+774.593750,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Maui,"Site: 046 Site: 1-46",n/a,n/a,n/a,"Project 25",RM,TRS
+774.793750,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",UNKNOWN,"Site: 071 Site: 1-71",n/a,n/a,n/a,"Project 25",RM,TRS
+774.793750,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Kauai,"Site: 016 Site: 1-16",n/a,n/a,n/a,"Project 25",RM,TRS
+774.806250,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Statewide,"Site: 038 Site: 1-38",n/a,n/a,n/a,"Project 25",RM,TRS
+774.831250,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Hawaii,"Site: 094 Kawaihae",n/a,n/a,n/a,"Project 25",RM,TRS
+774.843750,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Maui,"Site: 046 Site: 1-46",n/a,n/a,n/a,"Project 25",RM,TRS
+775.568750,0.00000,n/a,"Hawaii Wireless Interoperability Network (HIWIN)",Hawaii,"Site: 205 Hilo",n/a,n/a,n/a,"Project 25",RM,TRS
+851.037500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 010 USN Whitmore",n/a,n/a,n/a,EDACS,RM,TRS
+851.050000,0.00000,n/a,"Kauai County",Kauai,"Site: 002 Simulcast",n/a,n/a,n/a,"Project 25",RM,TRS
+851.062500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 022 Mokuleia",n/a,n/a,n/a,EDACS,RM,TRS
+851.087500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 003 Keaau",n/a,n/a,n/a,EDACS,RM,TRS
+851.100000,0.00000,n/a,"Maui County Regional Interoperable P25 Public Safety Radio System",Maui,"Site: 001 Kahului",n/a,n/a,n/a,"Project 25",RM,TRS
+851.112500,0.00000,n/a,"Island SMR (Kula)",Maui,"Site: 001 Site-1",n/a,n/a,n/a,Motorola,RM,TRS
+851.112500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 001 Metro Simulcast",n/a,n/a,n/a,EDACS,RM,TRS
+851.137500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 011 Puu Manawahua",n/a,n/a,n/a,EDACS,RM,TRS
+851.162500,0.00000,n/a,"Honolulu City and County Public Safety System (P25)",Honolulu,"Site: 001 Metro Simulcast",n/a,n/a,n/a,"Project 25",RM,TRS
+851.162500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 004 Windward Simulcast",n/a,n/a,n/a,EDACS,RM,TRS
+851.175000,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 012 Waianae",n/a,n/a,n/a,EDACS,RM,TRS
+851.212500,0.00000,n/a,"Maui County Regional Interoperable P25 Public Safety Radio System",Maui,"Site: 008 Hana",n/a,n/a,n/a,"Project 25",RM,TRS
+851.237500,0.00000,n/a,"Maui County Regional Interoperable P25 Public Safety Radio System",Maui,"Site: 009 Lahaina",n/a,n/a,n/a,"Project 25",RM,TRS
+851.250000,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 017 Waikiki",n/a,n/a,n/a,EDACS,RM,TRS
+851.250000,0.00000,n/a,"Honolulu City and County Public Safety System (P25)",Honolulu,"Site: 001 Metro Simulcast",n/a,n/a,n/a,"Project 25",RM,TRS
+851.275000,806.27500,,"University of Hawaii - Manoa",Honolulu,"Tactical Ops",TAC81,"136.5 PL",,FMN,RM,Multi-Tac
+851.287500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 010 USN Whitmore",n/a,n/a,n/a,EDACS,RM,TRS
+851.300000,0.00000,n/a,"Kauai County",Kauai,"Site: 002 Simulcast",n/a,n/a,n/a,"Project 25",RM,TRS
+851.312500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 022 Mokuleia",n/a,n/a,n/a,EDACS,RM,TRS
+851.337500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 001 Metro Simulcast",n/a,n/a,n/a,EDACS,RM,TRS
+851.350000,0.00000,n/a,"Kauai County",Kauai,"Site: 003 Princeville",n/a,n/a,n/a,"Project 25",RM,TRS
+851.362500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 005 Sand Island",n/a,n/a,n/a,EDACS,RM,TRS
+851.387500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 011 Puu Manawahua",n/a,n/a,n/a,EDACS,RM,TRS
+851.412500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 004 Windward Simulcast",n/a,n/a,n/a,EDACS,RM,TRS
+851.425000,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 012 Waianae",n/a,n/a,n/a,EDACS,RM,TRS
+851.462500,0.00000,n/a,"Maui County Regional Interoperable P25 Public Safety Radio System",Maui,"Site: 008 Hana",n/a,n/a,n/a,"Project 25",RM,TRS
+851.487500,0.00000,n/a,"Island SMR (Kula)",Maui,"Site: 001 Site-1",n/a,n/a,n/a,Motorola,RM,TRS
+851.537500,0.00000,n/a,"Honolulu City and County Public Safety System (P25)",Honolulu,"Site: 001 Metro Simulcast",n/a,n/a,n/a,"Project 25",RM,TRS
+851.537500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 017 Waikiki",n/a,n/a,n/a,EDACS,RM,TRS
+851.550000,0.00000,n/a,"Maui County Regional Interoperable P25 Public Safety Radio System",Maui,"Site: 003 Puunianiau",n/a,n/a,n/a,"Project 25",RM,TRS
+851.550000,0.00000,n/a,"Kauai County",Kauai,"Site: 099 Waimea",n/a,n/a,n/a,"Project 25",RM,TRS
+851.562500,0.00000,n/a,"Honolulu City and County Public Safety System (P25)",Honolulu,"Site: 002 Winward Simulcast",n/a,n/a,n/a,"Project 25",RM,TRS
+851.562500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 003 Keaau",n/a,n/a,n/a,EDACS,RM,TRS
+851.587500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 001 Metro Simulcast",n/a,n/a,n/a,EDACS,RM,TRS
+851.600000,0.00000,n/a,"Maui County Regional Interoperable P25 Public Safety Radio System",Maui,"Site: 001 Kahului",n/a,n/a,n/a,"Project 25",RM,TRS
+851.612500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 005 Sand Island",n/a,n/a,n/a,EDACS,RM,TRS
+851.637500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 011 Puu Manawahua",n/a,n/a,n/a,EDACS,RM,TRS
+851.662500,0.00000,n/a,"Honolulu City and County Public Safety System (P25)",Honolulu,"Site: 001 Metro Simulcast",n/a,n/a,n/a,"Project 25",RM,TRS
+851.662500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 004 Windward Simulcast",n/a,n/a,n/a,EDACS,RM,TRS
+851.675000,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 012 Waianae",n/a,n/a,n/a,EDACS,RM,TRS
+851.737500,0.00000,n/a,"Maui County Regional Interoperable P25 Public Safety Radio System",Maui,"Site: 003 Puunianiau",n/a,n/a,n/a,"Project 25",RM,TRS
+851.750000,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 001 Metro Simulcast",n/a,n/a,n/a,EDACS,RM,TRS
+851.775000,806.77500,,"University of Hawaii - Manoa",Honolulu,"Tactical Ops",TAC82,"136.5 PL",,FMN,RM,Multi-Tac
+851.787500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 010 USN Whitmore",n/a,n/a,n/a,EDACS,RM,TRS
+851.800000,0.00000,n/a,"Maui County Regional Interoperable P25 Public Safety Radio System",Maui,"Site: 009 Lahaina",n/a,n/a,n/a,"Project 25",RM,TRS
+851.812500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 022 Mokuleia",n/a,n/a,n/a,EDACS,RM,TRS
+851.812500,0.00000,n/a,"Honolulu City and County Public Safety System (P25)",Honolulu,"Site: 001 Metro Simulcast",n/a,n/a,n/a,"Project 25",RM,TRS
+851.837500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 003 Keaau",n/a,n/a,n/a,EDACS,RM,TRS
+851.837500,0.00000,n/a,"Honolulu City and County Public Safety System (P25)",Honolulu,"Site: 002 Winward Simulcast",n/a,n/a,n/a,"Project 25",RM,TRS
+851.850000,0.00000,n/a,"Kauai County",Kauai,"Site: 002 Simulcast",n/a,n/a,n/a,"Project 25",RM,TRS
+851.862500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 005 Sand Island",n/a,n/a,n/a,EDACS,RM,TRS
+851.887500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 011 Puu Manawahua",n/a,n/a,n/a,EDACS,RM,TRS
+851.912500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 004 Windward Simulcast",n/a,n/a,n/a,EDACS,RM,TRS
+851.925000,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 012 Waianae",n/a,n/a,n/a,EDACS,RM,TRS
+852.037500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 001 Metro Simulcast",n/a,n/a,n/a,EDACS,RM,TRS
+852.062500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 017 Waikiki",n/a,n/a,n/a,EDACS,RM,TRS
+852.087500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 001 Metro Simulcast",n/a,n/a,n/a,EDACS,RM,TRS
+852.100000,0.00000,n/a,"Maui County Regional Interoperable P25 Public Safety Radio System",Maui,"Site: 001 Kahului",n/a,n/a,n/a,"Project 25",RM,TRS
+852.112500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 005 Sand Island",n/a,n/a,n/a,EDACS,RM,TRS
+852.112500,0.00000,n/a,"Island SMR (Kula)",Maui,"Site: 001 Site-1",n/a,n/a,n/a,Motorola,RM,TRS
+852.137500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 011 Puu Manawahua",n/a,n/a,n/a,EDACS,RM,TRS
+852.162500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 004 Windward Simulcast",n/a,n/a,n/a,EDACS,RM,TRS
+852.175000,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 012 Waianae",n/a,n/a,n/a,EDACS,RM,TRS
+852.212500,0.00000,n/a,"Maui County Regional Interoperable P25 Public Safety Radio System",Maui,"Site: 009 Lahaina",n/a,n/a,n/a,"Project 25",RM,TRS
+852.250000,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 010 USN Whitmore",n/a,n/a,n/a,EDACS,RM,TRS
+852.275000,807.27500,,"University of Hawaii - Manoa",Honolulu,"Tactical Ops",TAC83,"136.5 PL",,FMN,RM,Multi-Tac
+852.287500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 022 Mokuleia",n/a,n/a,n/a,EDACS,RM,TRS
+852.300000,0.00000,n/a,"Kauai County",Kauai,"Site: 002 Simulcast",n/a,n/a,n/a,"Project 25",RM,TRS
+852.312500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 003 Keaau",n/a,n/a,n/a,EDACS,RM,TRS
+852.337500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 001 Metro Simulcast",n/a,n/a,n/a,EDACS,RM,TRS
+852.350000,0.00000,n/a,"Kauai County",Kauai,"Site: 003 Princeville",n/a,n/a,n/a,"Project 25",RM,TRS
+852.362500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 005 Sand Island",n/a,n/a,n/a,EDACS,RM,TRS
+852.387500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 011 Puu Manawahua",n/a,n/a,n/a,EDACS,RM,TRS
+852.412500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 004 Windward Simulcast",n/a,n/a,n/a,EDACS,RM,TRS
+852.425000,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 012 Waianae",n/a,n/a,n/a,EDACS,RM,TRS
+852.462500,0.00000,n/a,"Maui County Regional Interoperable P25 Public Safety Radio System",Maui,"Site: 008 Hana",n/a,n/a,n/a,"Project 25",RM,TRS
+852.537500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 017 Waikiki",n/a,n/a,n/a,EDACS,RM,TRS
+852.537500,0.00000,n/a,"Honolulu City and County Public Safety System (P25)",Honolulu,"Site: 001 Metro Simulcast",n/a,n/a,n/a,"Project 25",RM,TRS
+852.550000,0.00000,n/a,"Kauai County",Kauai,"Site: 099 Waimea",n/a,n/a,n/a,"Project 25",RM,TRS
+852.550000,0.00000,n/a,"Maui County Regional Interoperable P25 Public Safety Radio System",Maui,"Site: 003 Puunianiau",n/a,n/a,n/a,"Project 25",RM,TRS
+852.562500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 001 Metro Simulcast",n/a,n/a,n/a,EDACS,RM,TRS
+852.562500,0.00000,n/a,"Honolulu City and County Public Safety System (P25)",Honolulu,"Site: 001 Metro Simulcast",n/a,n/a,n/a,"Project 25",RM,TRS
+852.587500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 010 USN Whitmore",n/a,n/a,n/a,EDACS,RM,TRS
+852.612500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 005 Sand Island",n/a,n/a,n/a,EDACS,RM,TRS
+852.637500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 011 Puu Manawahua",n/a,n/a,n/a,EDACS,RM,TRS
+852.662500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 004 Windward Simulcast",n/a,n/a,n/a,EDACS,RM,TRS
+852.675000,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 015 Lualualei",n/a,n/a,n/a,EDACS,RM,TRS
+852.737500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 001 Metro Simulcast",n/a,n/a,n/a,EDACS,RM,TRS
+852.737500,0.00000,n/a,"Maui County Regional Interoperable P25 Public Safety Radio System",Maui,"Site: 008 Hana",n/a,n/a,n/a,"Project 25",RM,TRS
+852.750000,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 022 Mokuleia",n/a,n/a,n/a,EDACS,RM,TRS
+852.762500,0.00000,n/a,"Maui County Regional Interoperable P25 Public Safety Radio System",Maui,"Site: 003 Puunianiau",n/a,n/a,n/a,"Project 25",RM,TRS
+852.800000,0.00000,n/a,"Kauai County",Kauai,"Site: 002 Simulcast",n/a,n/a,n/a,"Project 25",RM,TRS
+852.812500,0.00000,n/a,"Honolulu City and County Public Safety System (P25)",Honolulu,"Site: 001 Metro Simulcast",n/a,n/a,n/a,"Project 25",RM,TRS
+852.812500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 017 Waikiki",n/a,n/a,n/a,EDACS,RM,TRS
+852.837500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 001 Metro Simulcast",n/a,n/a,n/a,EDACS,RM,TRS
+852.862500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 005 Sand Island",n/a,n/a,n/a,EDACS,RM,TRS
+852.887500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 011 Puu Manawahua",n/a,n/a,n/a,EDACS,RM,TRS
+852.912500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 004 Windward Simulcast",n/a,n/a,n/a,EDACS,RM,TRS
+852.925000,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 015 Lualualei",n/a,n/a,n/a,EDACS,RM,TRS
+853.037500,0.00000,n/a,"Island SMR (Kula)",Maui,"Site: 001 Site-1",n/a,n/a,n/a,Motorola,RM,TRS
+853.037500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 001 Metro Simulcast",n/a,n/a,n/a,EDACS,RM,TRS
+853.050000,0.00000,n/a,"Maui County Regional Interoperable P25 Public Safety Radio System",Maui,"Site: 009 Lahaina",n/a,n/a,n/a,"Project 25",RM,TRS
+853.062500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 017 Waikiki",n/a,n/a,n/a,EDACS,RM,TRS
+853.087500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 001 Metro Simulcast",n/a,n/a,n/a,EDACS,RM,TRS
+853.100000,0.00000,n/a,"Maui County Regional Interoperable P25 Public Safety Radio System",Maui,"Site: 001 Kahului",n/a,n/a,n/a,"Project 25",RM,TRS
+853.112500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 005 Sand Island",n/a,n/a,n/a,EDACS,RM,TRS
+853.162500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 004 Windward Simulcast",n/a,n/a,n/a,EDACS,RM,TRS
+853.175000,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 015 Lualualei",n/a,n/a,n/a,EDACS,RM,TRS
+853.287500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 001 Metro Simulcast",n/a,n/a,n/a,EDACS,RM,TRS
+853.300000,0.00000,n/a,"Maui County Regional Interoperable P25 Public Safety Radio System",Maui,"Site: 001 Kahului",n/a,n/a,n/a,"Project 25",RM,TRS
+853.300000,0.00000,n/a,"Kauai County",Kauai,"Site: 002 Simulcast",n/a,n/a,n/a,"Project 25",RM,TRS
+853.312500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 017 Waikiki",n/a,n/a,n/a,EDACS,RM,TRS
+853.312500,0.00000,n/a,"Honolulu City and County Public Safety System (P25)",Honolulu,"Site: 001 Metro Simulcast",n/a,n/a,n/a,"Project 25",RM,TRS
+853.337500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 001 Metro Simulcast",n/a,n/a,n/a,EDACS,RM,TRS
+853.350000,0.00000,n/a,"Maui County Regional Interoperable P25 Public Safety Radio System",Maui,"Site: 009 Lahaina",n/a,n/a,n/a,"Project 25",RM,TRS
+853.350000,0.00000,n/a,"Kauai County",Kauai,"Site: 003 Princeville",n/a,n/a,n/a,"Project 25",RM,TRS
+853.362500,0.00000,n/a,"Honolulu City and County Public Safety System (P25)",Honolulu,"Site: 002 Winward Simulcast",n/a,n/a,n/a,"Project 25",RM,TRS
+853.362500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 005 Sand Island",n/a,n/a,n/a,EDACS,RM,TRS
+853.412500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 004 Windward Simulcast",n/a,n/a,n/a,EDACS,RM,TRS
+853.425000,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 015 Lualualei",n/a,n/a,n/a,EDACS,RM,TRS
+853.500000,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 022 Mokuleia",n/a,n/a,n/a,EDACS,RM,TRS
+853.537500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 001 Metro Simulcast",n/a,n/a,n/a,EDACS,RM,TRS
+853.550000,0.00000,n/a,"Maui County Regional Interoperable P25 Public Safety Radio System",Maui,"Site: 003 Puunianiau",n/a,n/a,n/a,"Project 25",RM,TRS
+853.550000,0.00000,n/a,"Kauai County",Kauai,"Site: 099 Waimea",n/a,n/a,n/a,"Project 25",RM,TRS
+853.562500,0.00000,n/a,"Honolulu City and County Public Safety System (P25)",Honolulu,"Site: 001 Metro Simulcast",n/a,n/a,n/a,"Project 25",RM,TRS
+853.587500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 001 Metro Simulcast",n/a,n/a,n/a,EDACS,RM,TRS
+853.600000,0.00000,n/a,"Maui County Regional Interoperable P25 Public Safety Radio System",Maui,"Site: 001 Kahului",n/a,n/a,n/a,"Project 25",RM,TRS
+853.662500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 004 Windward Simulcast",n/a,n/a,n/a,EDACS,RM,TRS
+853.675000,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 015 Lualualei",n/a,n/a,n/a,EDACS,RM,TRS
+853.712500,0.00000,n/a,"Maui County Regional Interoperable P25 Public Safety Radio System",Maui,"Site: 008 Hana",n/a,n/a,n/a,"Project 25",RM,TRS
+853.750000,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 022 Mokuleia",n/a,n/a,n/a,EDACS,RM,TRS
+853.762500,0.00000,n/a,"Maui County Regional Interoperable P25 Public Safety Radio System",Maui,"Site: 003 Puunianiau",n/a,n/a,n/a,"Project 25",RM,TRS
+853.787500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 001 Metro Simulcast",n/a,n/a,n/a,EDACS,RM,TRS
+853.800000,0.00000,n/a,"Kauai County",Kauai,"Site: 002 Simulcast",n/a,n/a,n/a,"Project 25",RM,TRS
+853.812500,0.00000,n/a,"Honolulu City and County Public Safety System (P25)",Honolulu,"Site: 001 Metro Simulcast",n/a,n/a,n/a,"Project 25",RM,TRS
+853.837500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 001 Metro Simulcast",n/a,n/a,n/a,EDACS,RM,TRS
+853.912500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 004 Windward Simulcast",n/a,n/a,n/a,EDACS,RM,TRS
+853.925000,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 015 Lualualei",n/a,n/a,n/a,EDACS,RM,TRS
+853.950000,0.00000,n/a,"Maui County Regional Interoperable P25 Public Safety Radio System",Maui,"Site: 001 Kahului",n/a,n/a,n/a,"Project 25",RM,TRS
+854.012500,0.00000,n/a,"Island SMR (Kula)",Maui,"Site: 001 Site-1",n/a,n/a,n/a,Motorola,RM,TRS
+854.037500,0.00000,n/a,"Daniel K. Inouye International Airport",Honolulu,"Site: 001 Primary",n/a,n/a,n/a,Motorola,RM,TRS
+854.162500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 001 Metro Simulcast",n/a,n/a,n/a,EDACS,RM,TRS
+854.162500,0.00000,n/a,"Honolulu City and County Public Safety System (P25)",Honolulu,"Site: 002 Winward Simulcast",n/a,n/a,n/a,"Project 25",RM,TRS
+854.387500,0.00000,n/a,"Honolulu County Public Safety System",Honolulu,"Site: 001 Metro Simulcast",n/a,n/a,n/a,EDACS,RM,TRS
+854.962500,809.96250,WPMV291,"Honolulu County",Honolulu,"Operations 1",DOT-OPS1,"293 NAC",,P25,RM,"Public Works"
+854.987500,809.98750,WPMV291,"Honolulu County",Honolulu,"Operations 6",DOT-OPS6,"293 NAC",,P25,RM,"Public Works"
+855.037500,0.00000,n/a,"Brigham Young University",Honolulu,"Site: 001 Laie",n/a,n/a,n/a,Motorola,RM,TRS
+855.112500,0.00000,n/a,"Kahului Airport",Maui,"Site: 001 Airport",n/a,n/a,n/a,Motorola,RM,TRS
+855.212500,810.21250,WPMV291,"Honolulu County",Honolulu,"Operations 2",DOT-OPS2,"293 NAC",,P25,RM,"Public Works"
+855.237500,810.23750,WPMV291,"Honolulu County",Honolulu,"Operations 3",DOT-OPS3,"293 NAC",,P25,RM,"Public Works"
+855.487500,810.48750,WPMV291,"Honolulu County",Honolulu,"Operations 5",DOT-OPS5,"293 NAC",,P25,RM,"Public Works"
+855.487500,0.00000,n/a,"Maui County Regional Interoperable P25 Public Safety Radio System",Maui,"Site: 015 East Maui",n/a,n/a,n/a,"Project 25",RM,TRS
+855.512500,0.00000,n/a,"PAR Petroleum",Honolulu,"Site: 001 Site 1",n/a,n/a,n/a,DMR,RM,TRS
+855.587500,0.00000,n/a,"ARINC (Honolulu International Airport)",Honolulu,"Site: 001 Primary",n/a,n/a,n/a,Motorola,RM,TRS
+855.712500,810.71250,WPMV291,"Honolulu County",Honolulu,"Operations 4",DOT-OPS4,"293 NAC",,P25,RM,"Public Works"
+855.787500,0.00000,n/a,"Brigham Young University",Honolulu,"Site: 002 Honolulu",n/a,n/a,n/a,Motorola,RM,TRS
+855.787500,0.00000,n/a,"Brigham Young University",Honolulu,"Site: 001 Laie",n/a,n/a,n/a,Motorola,RM,TRS
+855.962500,0.00000,n/a,"Maui County Regional Interoperable P25 Public Safety Radio System",Maui,"Site: 012 Lanai",n/a,n/a,n/a,"Project 25",RM,TRS
+855.987500,0.00000,n/a,"Maui County Regional Interoperable P25 Public Safety Radio System",Maui,"Site: 014 Mauna Loa",n/a,n/a,n/a,"Project 25",RM,TRS
+856.037500,0.00000,n/a,"Pacific Wireless Communications",Honolulu,"Site: 002 Honolulu",n/a,n/a,n/a,DMR,RM,TRS
+856.087500,0.00000,n/a,"Pacific Wireless Communications",Hawaii,"Site: 009 Kailua Kona",n/a,n/a,n/a,DMR,RM,TRS
+856.212500,0.00000,n/a,"Daniel K. Inouye International Airport",Honolulu,"Site: 001 Primary",n/a,n/a,n/a,Motorola,RM,TRS
+856.237500,0.00000,n/a,"Maui County Regional Interoperable P25 Public Safety Radio System",Maui,"Site: 011 Lanai City",n/a,n/a,n/a,"Project 25",RM,TRS
+856.262500,0.00000,n/a,"Maui County Regional Interoperable P25 Public Safety Radio System",Maui,"Site: 012 Lanai",n/a,n/a,n/a,"Project 25",RM,TRS
+856.287500,0.00000,n/a,"PAR Petroleum",Honolulu,"Site: 001 Site 1",n/a,n/a,n/a,DMR,RM,TRS
+856.412500,0.00000,n/a,"Island Energy Services (IES)",Honolulu,"Site: 001 Simulcast",n/a,n/a,n/a,Motorola,RM,TRS
+856.437500,0.00000,n/a,"Maui County Regional Interoperable P25 Public Safety Radio System",Maui,"Site: 016 Kaunakakai",n/a,n/a,n/a,"Project 25",RM,TRS
+856.537500,0.00000,n/a,"Mobile Telephone and Paging",Hawaii,"Site: 001 Confirmed LCN",n/a,n/a,n/a,LTR,RM,TRS
+856.712500,0.00000,n/a,"Maui County Regional Interoperable P25 Public Safety Radio System",Maui,"Site: 014 Mauna Loa",n/a,n/a,n/a,"Project 25",RM,TRS
+856.787500,0.00000,n/a,"Kuakini Medical Center",Honolulu,"Site: 001 Site 1",n/a,n/a,n/a,DMR,RM,TRS
+856.812500,0.00000,n/a,"Brigham Young University",Honolulu,"Site: 002 Honolulu",n/a,n/a,n/a,Motorola,RM,TRS
+856.812500,0.00000,n/a,"Brigham Young University",Honolulu,"Site: 001 Laie",n/a,n/a,n/a,Motorola,RM,TRS
+856.837500,0.00000,n/a,"ARINC (Honolulu International Airport)",Honolulu,"Site: 001 Primary",n/a,n/a,n/a,Motorola,RM,TRS
+856.862500,0.00000,n/a,"Brigham Young University",Honolulu,"Site: 001 Laie",n/a,n/a,n/a,Motorola,RM,TRS
+856.862500,0.00000,n/a,"Brigham Young University",Honolulu,"Site: 002 Honolulu",n/a,n/a,n/a,Motorola,RM,TRS
+856.887500,0.00000,n/a,"Brigham Young University",Honolulu,"Site: 001 Laie",n/a,n/a,n/a,Motorola,RM,TRS
+856.887500,0.00000,n/a,"Brigham Young University",Honolulu,"Site: 002 Honolulu",n/a,n/a,n/a,Motorola,RM,TRS
+856.912500,0.00000,n/a,"Sheraton Waikiki",Honolulu,"Site: 001 Site 1",n/a,n/a,n/a,DMR,RM,TRS
+856.937500,0.00000,n/a,"Maui County Regional Interoperable P25 Public Safety Radio System",Maui,"Site: 015 East Maui",n/a,n/a,n/a,"Project 25",RM,TRS
+856.962500,811.96250,WQIR959,"Airports Airport Operations",Statewide,"Airport Operations","MKK Ops",,,P25,RM,"Law Dispatch"
+856.962500,0.00000,n/a,"Kahului Airport",Maui,"Site: 001 Airport",n/a,n/a,n/a,Motorola,RM,TRS
+856.962500,0.00000,n/a,"Kalaeloa Airport Authority",Honolulu,"Site: 001 Primary",n/a,n/a,n/a,Motorola,RM,TRS
+856.962500,0.00000,n/a,"Kona International Airport Authority",Hawaii,"Site: 001 Primary",n/a,n/a,n/a,Motorola,RM,TRS
+856.962500,0.00000,n/a,"Hilo International Airport Authority",Hawaii,"Site: 001 Site 1",n/a,n/a,n/a,Motorola,RM,TRS
+856.962500,0.00000,n/a,"Lihue International Aiport Authority",Kauai,"Site: 001 Primary",n/a,n/a,n/a,Motorola,RM,TRS
+857.037500,0.00000,n/a,"Pacific Wireless Communications",Honolulu,"Site: 002 Honolulu",n/a,n/a,n/a,DMR,RM,TRS
+857.087500,0.00000,n/a,"Pacific Wireless Communications",Hawaii,"Site: 009 Kailua Kona",n/a,n/a,n/a,DMR,RM,TRS
+857.212500,0.00000,n/a,"Daniel K. Inouye International Airport",Honolulu,"Site: 001 Primary",n/a,n/a,n/a,Motorola,RM,TRS
+857.237500,0.00000,n/a,"Maui County Regional Interoperable P25 Public Safety Radio System",Maui,"Site: 014 Mauna Loa",n/a,n/a,n/a,"Project 25",RM,TRS
+857.262500,0.00000,n/a,"Maui County Regional Interoperable P25 Public Safety Radio System",Maui,"Site: 012 Lanai",n/a,n/a,n/a,"Project 25",RM,TRS
+857.287500,0.00000,n/a,"PAR Petroleum",Honolulu,"Site: 001 Site 1",n/a,n/a,n/a,DMR,RM,TRS
+857.412500,0.00000,n/a,"Island Energy Services (IES)",Honolulu,"Site: 001 Simulcast",n/a,n/a,n/a,Motorola,RM,TRS
+857.437500,0.00000,n/a,"Maui County Regional Interoperable P25 Public Safety Radio System",Maui,"Site: 015 East Maui",n/a,n/a,n/a,"Project 25",RM,TRS
+857.487500,0.00000,n/a,"Maui County Regional Interoperable P25 Public Safety Radio System",Hawaii,"Site: 017 Waimea",n/a,n/a,n/a,"Project 25",RM,TRS
+857.712500,0.00000,n/a,"Maui County Regional Interoperable P25 Public Safety Radio System",Maui,"Site: 012 Lanai",n/a,n/a,n/a,"Project 25",RM,TRS
+857.737500,0.00000,n/a,"Maui County Regional Interoperable P25 Public Safety Radio System",Maui,"Site: 014 Mauna Loa",n/a,n/a,n/a,"Project 25",RM,TRS
+857.837500,0.00000,n/a,"ARINC (Honolulu International Airport)",Honolulu,"Site: 001 Primary",n/a,n/a,n/a,Motorola,RM,TRS
+857.912500,0.00000,n/a,"Sheraton Waikiki",Honolulu,"Site: 001 Site 1",n/a,n/a,n/a,DMR,RM,TRS
+857.912500,0.00000,n/a,"Kyo Ha Company, LTD",Maui,"Site: 001 Lahaina",n/a,n/a,n/a,Motorola,RM,TRS
+857.937500,0.00000,n/a,"Maui County Regional Interoperable P25 Public Safety Radio System",Maui,"Site: 015 East Maui",n/a,n/a,n/a,"Project 25",RM,TRS
+857.962500,0.00000,n/a,"Lihue International Aiport Authority",Kauai,"Site: 001 Primary",n/a,n/a,n/a,Motorola,RM,TRS
+857.962500,0.00000,n/a,"Kalaeloa Airport Authority",Honolulu,"Site: 001 Primary",n/a,n/a,n/a,Motorola,RM,TRS
+857.962500,0.00000,n/a,"Kona International Airport Authority",Hawaii,"Site: 001 Primary",n/a,n/a,n/a,Motorola,RM,TRS
+857.962500,0.00000,n/a,"Hilo International Airport Authority",Hawaii,"Site: 001 Site 1",n/a,n/a,n/a,Motorola,RM,TRS
+857.962500,0.00000,n/a,"Kahului Airport",Maui,"Site: 001 Airport",n/a,n/a,n/a,Motorola,RM,TRS
+858.162500,0.00000,n/a,"Mobile Telephone and Paging",Hawaii,"Site: 001 Confirmed LCN",n/a,n/a,n/a,LTR,RM,TRS
+858.212500,0.00000,n/a,"Daniel K. Inouye International Airport",Honolulu,"Site: 001 Primary",n/a,n/a,n/a,Motorola,RM,TRS
+858.287500,0.00000,n/a,"PAR Petroleum",Honolulu,"Site: 001 Site 1",n/a,n/a,n/a,DMR,RM,TRS
+858.362500,0.00000,WNUR273,"University of Hawaii - Manoa",Honolulu,"Security TA","DIGI T/A","001 NAC",,P25,M,Security
+858.362500,813.36250,WNUR273,"University of Hawaii - Manoa",Honolulu,Security,"DIGI RPT","001 NAC",,P25,RM,Security
+858.362500,0.00000,WNUR273,"University of Hawaii - Manoa",Honolulu,"Auxiliary Services Parking TA","UHM T/A","051 DPL",,FMN,BM,Schools
+858.362500,813.36250,WNUR273,"University of Hawaii - Manoa",Honolulu,"Auxiliary Services Parking","UH Parking","051 DPL",,FM,RM,Schools
+858.412500,0.00000,n/a,"Island Energy Services (IES)",Honolulu,"Site: 001 Simulcast",n/a,n/a,n/a,Motorola,RM,TRS
+858.537500,0.00000,n/a,"Pacific Wireless Communications",Honolulu,"Site: 002 Honolulu",n/a,n/a,n/a,DMR,RM,TRS
+858.712500,0.00000,n/a,"Maui County Regional Interoperable P25 Public Safety Radio System",Maui,"Site: 014 Mauna Loa",n/a,n/a,n/a,"Project 25",RM,TRS
+858.762500,0.00000,n/a,"Maui County Regional Interoperable P25 Public Safety Radio System",Hawaii,"Site: 017 Waimea",n/a,n/a,n/a,"Project 25",RM,TRS
+858.787500,0.00000,n/a,"Kuakini Medical Center",Honolulu,"Site: 001 Site 1",n/a,n/a,n/a,DMR,RM,TRS
+858.837500,0.00000,n/a,"ARINC (Honolulu International Airport)",Honolulu,"Site: 001 Primary",n/a,n/a,n/a,Motorola,RM,TRS
+858.862500,0.00000,n/a,"Sheraton Waikiki",Honolulu,"Site: 002 Site 2",n/a,n/a,n/a,DMR,RM,TRS
+858.912500,0.00000,n/a,"Sheraton Waikiki",Honolulu,"Site: 001 Site 1",n/a,n/a,n/a,DMR,RM,TRS
+858.912500,0.00000,n/a,"Kyo Ha Company, LTD",Maui,"Site: 001 Lahaina",n/a,n/a,n/a,Motorola,RM,TRS
+858.962500,0.00000,n/a,"Kalaeloa Airport Authority",Honolulu,"Site: 001 Primary",n/a,n/a,n/a,Motorola,RM,TRS
+858.962500,0.00000,n/a,"Kona International Airport Authority",Hawaii,"Site: 001 Primary",n/a,n/a,n/a,Motorola,RM,TRS
+858.962500,0.00000,n/a,"Hilo International Airport Authority",Hawaii,"Site: 001 Site 1",n/a,n/a,n/a,Motorola,RM,TRS
+858.962500,0.00000,n/a,"Lihue International Aiport Authority",Kauai,"Site: 001 Primary",n/a,n/a,n/a,Motorola,RM,TRS
+858.962500,0.00000,n/a,"Kahului Airport",Maui,"Site: 001 Airport",n/a,n/a,n/a,Motorola,RM,TRS
+859.087500,0.00000,n/a,"Pacific Wireless Communications",Hawaii,"Site: 009 Kailua Kona",n/a,n/a,n/a,DMR,RM,TRS
+859.187500,0.00000,n/a,"Mobile Telephone and Paging",Hawaii,"Site: 001 Confirmed LCN",n/a,n/a,n/a,LTR,RM,TRS
+859.212500,0.00000,n/a,"Daniel K. Inouye International Airport",Honolulu,"Site: 001 Primary",n/a,n/a,n/a,Motorola,RM,TRS
+859.237500,0.00000,n/a,"Maui County Regional Interoperable P25 Public Safety Radio System",Maui,"Site: 015 East Maui",n/a,n/a,n/a,"Project 25",RM,TRS
+859.287500,0.00000,n/a,"PAR Petroleum",Honolulu,"Site: 001 Site 1",n/a,n/a,n/a,DMR,RM,TRS
+859.412500,0.00000,n/a,"Island Energy Services (IES)",Honolulu,"Site: 001 Simulcast",n/a,n/a,n/a,Motorola,RM,TRS
+859.837500,0.00000,n/a,"ARINC (Honolulu International Airport)",Honolulu,"Site: 001 Primary",n/a,n/a,n/a,Motorola,RM,TRS
+859.862500,0.00000,n/a,"Sheraton Waikiki",Honolulu,"Site: 002 Site 2",n/a,n/a,n/a,DMR,RM,TRS
+859.912500,0.00000,n/a,"Kyo Ha Company, LTD",Maui,"Site: 001 Lahaina",n/a,n/a,n/a,Motorola,RM,TRS
+859.962500,0.00000,n/a,"Kahului Airport",Maui,"Site: 001 Airport",n/a,n/a,n/a,Motorola,RM,TRS
+860.087500,0.00000,n/a,"Pacific Wireless Communications",Hawaii,"Site: 009 Kailua Kona",n/a,n/a,n/a,DMR,RM,TRS
+860.212500,0.00000,n/a,"Daniel K. Inouye International Airport",Honolulu,"Site: 001 Primary",n/a,n/a,n/a,Motorola,RM,TRS
+860.287500,0.00000,n/a,"PAR Petroleum",Honolulu,"Site: 001 Site 1",n/a,n/a,n/a,DMR,RM,TRS
+860.412500,0.00000,n/a,"Island Energy Services (IES)",Honolulu,"Site: 001 Simulcast",n/a,n/a,n/a,Motorola,RM,TRS
+860.537500,0.00000,n/a,"Pacific Wireless Communications",Honolulu,"Site: 002 Honolulu",n/a,n/a,n/a,DMR,RM,TRS
+860.612500,0.00000,n/a,"Mobile Telephone and Paging",Hawaii,"Site: 001 Confirmed LCN",n/a,n/a,n/a,LTR,RM,TRS
+860.837500,0.00000,n/a,"ARINC (Honolulu International Airport)",Honolulu,"Site: 001 Primary",n/a,n/a,n/a,Motorola,RM,TRS
+860.862500,0.00000,n/a,"Sheraton Waikiki",Honolulu,"Site: 002 Site 2",n/a,n/a,n/a,DMR,RM,TRS
+860.912500,0.00000,n/a,"Kyo Ha Company, LTD",Maui,"Site: 001 Lahaina",n/a,n/a,n/a,Motorola,RM,TRS
+927.137500,902.13750,KH6BFD,"900 MHz",Hawaii,Kailua-Kona,927.13750,"411 DPL","411 DPL",FM,RM,Ham
+927.212500,902.21250,WB6EGR,"900 MHz",Hawaii,"Koloko Peak",927.21250,"411 DPL","411 DPL",FM,RM,Ham
